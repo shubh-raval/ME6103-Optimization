@@ -1,0 +1,72 @@
+function f = evaluate_objective(x, M, V)
+% Function to evaluate the objective functions for the given input vector
+% x. x is an array of decision variables and f(1), f(2), etc are the
+% objective functions. The algorithm always minimizes the objective
+% function hence if you would like to maximize the function then multiply
+% the function by negative one. M is the numebr of objective functions and
+% V is the number of decision variables. 
+%
+% This functions is basically written by the user who defines his/her own
+% objective function. Make sure that the M and V matches your initial user
+% input. Make sure that the 
+%
+% An example objective function is given below. It has two six decision
+% variables are two objective functions.
+
+% f = [];
+% %% Objective function one
+% % Decision variables are used to form the objective function.
+% f(1) = 1 - exp(-4*x(1))*(sin(6*pi*x(1)))^6;
+% sum = 0;
+% for i = 2 : 6
+%     sum = sum + x(i)/4;
+% end
+% %% Intermediate function
+% g_x = 1 + 9*(sum)^(0.25);
+% 
+% %% Objective function two
+% f(2) = g_x*(1 - ((f(1))/(g_x))^2);
+
+%% SPM Optimization
+% x = (h, theta, diam_base)
+f = [];
+
+fprintf('Inputs: h = %.4f m, theta = %.2f deg, diam_base = %.4f.\n', x(1),x(2), x(3));
+% Define constants
+diam_base = x(3); %m
+diam_plat = .09; %m
+try
+    % Run the SPM and deflection models to compute SPM mass
+    [Torque, Force] = SPM_Simulation(x(1),x(2),diam_base,diam_plat);
+    [m_act, ~] = actuator_selection(Torque);
+    [m_link, isValid, penalty, ~,~,~,~, deflection_mm] = Deflection_Optim(max(Force.Data(end,:)), x(1), diam_plat, diam_base, false);
+    
+    % Objective function 1: Total Mass
+    f(1) = 3*(m_act + m_link);
+    
+    % Objective function 2: GCI
+    gci = SPM_kinematics(diam_base/2,diam_plat/2,x(1),x(2),[],[]);
+    if isValid
+        f(2) = -gci;
+    else
+        f(2) = -(gci/penalty);
+    end
+    
+    fprintf('Outputs: m = %.2f, GCI = %.4f, T = %.2f, F = %.1f, m_act = %.1f, m_link = %.3f, defl = %.3f\n',...
+        f(1), f(2), max(Torque), max(Force.Data(end,:)), m_act, m_link, deflection_mm)
+    if ~isValid
+        fprintf('Penalty applied: %.1f\n',penalty)
+    end
+    disp(' ')
+catch ME
+    warning("Simulation failed: %s", ME.message);
+    clear mex;
+    disp('Passing infinitely large cost function')
+    f(1) = Inf;
+    f(2) = Inf;
+end
+
+%% Check for error
+if length(f) ~= M
+    error('The number of decision variables does not match you previous input. Kindly check your objective function');
+end

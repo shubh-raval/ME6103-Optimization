@@ -1,0 +1,19 @@
+﻿PN,Manufacturer,MotorType,RatedTorque_Nm,MaxTorque_Nm,MaxSpeed_rpm,Diameter_mm,Mass_g,Cost,Link
+RB-Blu-303,Blue Robotics,BLDC,0.5,0.5,9400,40,282,$160.00 ,https://www.robotshop.com/products/bluerobotics-m200-standard-motor-1m-cable?qd=6594b32d08e1dfce251a5fb392c772e6
+GL40 KV70,CubeMars,BLDC,0.25,0.73,600,46.5,107,$91.90 ,https://www.robotshop.com/products/cubemars-cubemars-gl40-kv70-outrunning-gimbal-motor-gimbal-system-drone-pods-autonomous-driving-navigation?qd=49ed7bcb2150fb681b2a2f575232d710
+GL60 KV25,CubeMars,BLDC,0.6,1.75,516,69,230,$136.90 ,https://www.robotshop.com/products/cubemars-cubemars-gl60-kv25-outrunning-gimbal-motor-gimbal-system-drone-pods-autonomous-driving-navigation?qd=4ceaa994d45cdc1bf5984e62d9329c72
+AKE60-8 KV80,CubeMars,BLDC Servo,5,12.5,240,60,260,$272.90 ,https://www.robotshop.com/products/cubemars-cubemars-ake60-8-kv80-frameless-design-without-driver-board?qd=75731aa025efb8178838e51ee2e15488
+AKE80-8 KV80,CubeMars,BLDC Servo,12.000,30.000,570,80,570, $339.90 ,https://store.cubemars.com/products/ake80-8-kv30
+RO60 KV115-Lite,CubeMars,BLDC,0.8,2.4,5520,60,195,$77.90 ,https://store.cubemars.com/products/ro60
+RO60 KV115,CubeMars,BLDC Servo,0.8,2.4,5520,60,248,$85.90 ,https://store.cubemars.com/products/ro60
+R60 KV115,CubeMars,BLDC,0.75,2.3,4150,60,248,$177.90 ,https://store.cubemars.com/products/r60?_pos=1&_psq=r60&_ss=e&_v=1.0
+GL30 KV290,CubeMars,BLDC,0.08,0.28,2200,43,41,$55.99 ,https://store.cubemars.com/products/g30?_pos=1&_psq=g30&_ss=e&_v=1.0
+GL35 KV100,CubeMars,BLDC,0.15,0.46,815,50,90,$54.99 ,https://store.cubemars.com/products/gl35?_pos=1&_psq=gl35&_ss=e&_v=1.0
+36PG-3650BL-14 12V,E-S Motor,BLDC + Gearbox,0.392,0.392,290,36,450,$42.50 ,https://www.robotshop.com/products/e-s-motor-36mm-brushless-dc-planetary-precision-gear-motor-12v-290-rpm?pr_prod_strat=e5_desc&pr_rec_id=5d176ee07&pr_rec_pid=7487434064033&pr_ref_pid=7487453069473&pr_seq=uniform
+36PG-3650BL-14 24V,E-S Motor,BLDC + Gearbox,0.784,0.784,570,36,450,$42.50 ,https://www.robotshop.com/products/e-s-motor-36mm-brushless-dc-planetary-gear-motor-24v-570-rpm?qd=f8a554ce7e1f523b808c10a2d3ac6df3
+G006984,iPower Motor,BLDC,0.392,0.392,400,60,207.8,$54.44 ,https://www.robotshop.com/products/ipower-motor-gm5208-24-brushless-gimbal-motor?qd=4ceaa994d45cdc1bf5984e62d9329c72
+RMD-L-4015 20T,MyActuator,BLDC Servo,0.22,0.49,1010,40,120,$103.00 ,https://www.robotshop.com/products/myactuator-rmd-l-4015-20t-brushless-dc-servo-motor-bldc-can-bus-mc-x-100-o?qd=75731aa025efb8178838e51ee2e15488
+RMD-L-5010 35T,MyActuator,BLDC Servo,0.26,0.65,1015,50,135,$175.45 ,https://www.robotshop.com/products/myactuator-rmd-l-5010-35t-brushless-dc-servo-motor?srsltid=AfmBOoqI08UXBN3qranmc27W8hDl-2QcNoebiETxLPqoehzqXWKkc4_vUNc
+RMD-X4 1:6,MyActuator,BLDC Servo + Gearbox,1.2,1.2,600,,300,$250.00 ,https://www.robotshop.com/products/myactuator-myactuator-rmd-x4-16-micro-motor-high-precision-light-weight-bldc-24v-high-speed-600rpm-can-bus?qd=273a0c965e59af43b74353aeab2f7b0f
+DCM4112,Phidgets,BLDC Servo,0.49,0.49,4000,57,4000,$83.44 ,https://www.robotshop.com/products/nema23-brushless-dc-motor-gearless?qd=75731aa025efb8178838e51ee2e15488
+722-401,Precision Micro Drives,BLDC,0.029,0.252,16380,22,122,$88.57 ,https://www.precisionmicrodrives.com/product/722-401

@@ -1,0 +1,19 @@
+Function: actuator_selection
+		Input: torque
+		Ouput: mass, actuator
+Function: SPM_kinematics
+		Input: base_rad, top_rad, h, theta, alpha1, alpha2, plotting
+		Ouput: GCI
+Function: SPM_Simulation
+		Input: h,theta,diam_base,diam_plat
+		Output: T(Torque),F(Force)
+Function: Deflection_Optim
+		Input: load, H, platform_diam, base_diam, debug*, W_init*, T_init*
+		Output: mass, isValid, penalty_deflection, W_opt, T_opt, a_opt, b_opt
+
+solutions.txt file header:
+[Decision Variables, Output Variables, Some kind of metric from the NSGA-2 (frontier and crouding population I think)]
+height	theta	mass	GCI	Frontier	CD
+
+
+

@@ -1,0 +1,2846 @@
+
+ Now edit the function named "evaluate_objective" appropriately to match your needs.
+ Make sure that the number of objective functions and decision variables match your numerical input. 
+ Make each objective function as a corresponding array element. 
+ After editing do not forget to save. 
+ Press "c" and enter to continue... c
+Inputs: h = 0.0410 m, theta = 109.96 deg, diam_base = 0.1208.
+Outputs: m = 143.62, GCI = -0.5651, T = 0.78, F = 22.9, m_act = 41.0, m_link = 6.872, defl = 0.500
+ 
+Inputs: h = 0.0786 m, theta = 135.10 deg, diam_base = 0.1211.
+Outputs: m = 619.89, GCI = -0.8888, T = 5.46, F = 28.8, m_act = 195.0, m_link = 11.631, defl = 0.500
+ 
+Inputs: h = 0.0256 m, theta = 132.03 deg, diam_base = 0.1238.
+Outputs: m = 139.88, GCI = -0.3791, T = 0.13, F = 17.7, m_act = 41.0, m_link = 5.628, defl = 0.500
+ 
+Inputs: h = 0.0793 m, theta = 135.00 deg, diam_base = 0.0970.
+Outputs: m = 613.92, GCI = -0.7696, T = 4.42, F = 22.5, m_act = 195.0, m_link = 9.640, defl = 0.500
+ 
+Inputs: h = 0.0682 m, theta = 68.89 deg, diam_base = 0.1142.
+Outputs: m = 618.63, GCI = -0.7774, T = 3.45, F = 40.4, m_act = 195.0, m_link = 11.210, defl = 0.500
+ 
+Inputs: h = 0.0892 m, theta = 74.84 deg, diam_base = 0.1180.
+Outputs: m = 620.80, GCI = -0.9129, T = 3.36, F = 22.4, m_act = 195.0, m_link = 11.933, defl = 0.500
+ 
+Inputs: h = 0.0251 m, theta = 92.37 deg, diam_base = 0.1138.
+Outputs: m = 138.51, GCI = -0.3686, T = 0.04, F = 18.2, m_act = 41.0, m_link = 5.171, defl = 0.500
+ 
+Inputs: h = 0.0743 m, theta = 66.77 deg, diam_base = 0.1029.
+Outputs: m = 613.93, GCI = -0.8119, T = 3.27, F = 25.6, m_act = 195.0, m_link = 9.642, defl = 0.500
+ 
+Inputs: h = 0.0924 m, theta = 103.80 deg, diam_base = 0.0978.
+Outputs: m = 618.36, GCI = -0.7760, T = 3.72, F = 20.1, m_act = 195.0, m_link = 11.119, defl = 0.500
+ 
+Inputs: h = 0.0665 m, theta = 53.04 deg, diam_base = 0.1183.
+Outputs: m = 624.86, GCI = -0.7781, T = 2.75, F = 56.6, m_act = 195.0, m_link = 13.286, defl = 0.500
+ 
+Inputs: h = 0.0878 m, theta = 70.03 deg, diam_base = 0.0991.
+Outputs: m = 616.89, GCI = -0.8113, T = 3.10, F = 20.9, m_act = 195.0, m_link = 10.630, defl = 0.500
+ 
+Inputs: h = 0.0789 m, theta = 68.23 deg, diam_base = 0.1026.
+Outputs: m = 614.85, GCI = -0.8304, T = 3.24, F = 23.4, m_act = 195.0, m_link = 9.949, defl = 0.500
+ 
+Inputs: h = 0.0280 m, theta = 38.28 deg, diam_base = 0.1116.
+Outputs: m = 138.80, GCI = -0.5645, T = 0.28, F = 19.0, m_act = 41.0, m_link = 5.265, defl = 0.500
+ 
+Inputs: h = 0.0463 m, theta = 120.01 deg, diam_base = 0.1096.
+Outputs: m = 346.02, GCI = -0.7389, T = 1.64, F = 43.9, m_act = 107.0, m_link = 8.341, defl = 0.500
+ 
+Inputs: h = 0.0446 m, theta = 37.37 deg, diam_base = 0.1014.
+Outputs: m = 346.66, GCI = -0.9162, T = 1.91, F = 60.2, m_act = 107.0, m_link = 8.554, defl = 0.500
+ 
+Inputs: h = 0.0589 m, theta = 79.28 deg, diam_base = 0.1220.
+Outputs: m = 649.99, GCI = -0.7861, T = 3.07, F = 179.2, m_act = 195.0, m_link = 21.664, defl = 0.500
+ 
+Inputs: h = 0.0151 m, theta = 83.22 deg, diam_base = 0.1111.
+Outputs: m = 136.85, GCI = -0.1606, T = 0.56, F = 17.1, m_act = 41.0, m_link = 4.616, defl = 0.500
+ 
+Inputs: h = 0.0221 m, theta = 94.91 deg, diam_base = 0.1207.
+Outputs: m = 138.95, GCI = -0.2499, T = 0.33, F = 17.5, m_act = 41.0, m_link = 5.315, defl = 0.500
+ 
+Inputs: h = 0.0278 m, theta = 48.67 deg, diam_base = 0.0968.
+Outputs: m = 137.37, GCI = -0.6511, T = 0.83, F = 21.3, m_act = 41.0, m_link = 4.791, defl = 0.500
+ 
+Inputs: h = 0.0695 m, theta = 32.23 deg, diam_base = 0.1037.
+Outputs: m = 349.56, GCI = -0.8683, T = 1.69, F = 29.5, m_act = 107.0, m_link = 9.521, defl = 0.500
+ 
+Inputs: h = 0.0976 m, theta = 121.76 deg, diam_base = 0.1023.
+Outputs: m = 621.02, GCI = -0.6336, T = 3.53, F = 19.7, m_act = 195.0, m_link = 12.007, defl = 0.500
+ 
+Inputs: h = 0.0714 m, theta = 46.54 deg, diam_base = 0.1139.
+Outputs: m = 617.10, GCI = -0.6184, T = 2.41, F = 33.3, m_act = 195.0, m_link = 10.701, defl = 0.500
+ 
+Inputs: h = 0.0871 m, theta = 137.98 deg, diam_base = 0.1055.
+Outputs: m = 617.73, GCI = -0.6858, T = 3.95, F = 21.5, m_act = 195.0, m_link = 10.909, defl = 0.500
+ 
+Inputs: h = 0.0538 m, theta = 111.54 deg, diam_base = 0.1161.
+Outputs: m = 624.69, GCI = -0.7074, T = 2.42, F = 85.6, m_act = 195.0, m_link = 13.232, defl = 0.500
+ 
+Inputs: h = 0.0515 m, theta = 73.71 deg, diam_base = 0.1034.
+Outputs: m = 780.23, GCI = -0.7903, T = 3.18, F = 1667.5, m_act = 195.0, m_link = 65.077, defl = 0.500
+ 
+Inputs: h = 0.0169 m, theta = 83.35 deg, diam_base = 0.1000.
+Outputs: m = 135.64, GCI = -0.1771, T = 0.27, F = 17.6, m_act = 41.0, m_link = 4.213, defl = 0.500
+ 
+Inputs: h = 0.0459 m, theta = 140.47 deg, diam_base = 0.1103.
+Passing infinitely large cost function
+Inputs: h = 0.0923 m, theta = 41.03 deg, diam_base = 0.1248.
+Outputs: m = 359.58, GCI = -0.7454, T = 1.95, F = 22.4, m_act = 107.0, m_link = 12.861, defl = 0.500
+ 
+Inputs: h = 0.0187 m, theta = 67.58 deg, diam_base = 0.1186.
+Outputs: m = 138.23, GCI = -0.1463, T = 0.55, F = 17.2, m_act = 41.0, m_link = 5.076, defl = 0.500
+ 
+Inputs: h = 0.0642 m, theta = 85.91 deg, diam_base = 0.1039.
+Outputs: m = 613.90, GCI = -0.8876, T = 4.16, F = 37.7, m_act = 195.0, m_link = 9.635, defl = 0.500
+ 
+Inputs: h = 0.0220 m, theta = 65.40 deg, diam_base = 0.1000.
+Outputs: m = 136.38, GCI = -0.3213, T = 0.11, F = 18.6, m_act = 41.0, m_link = 4.460, defl = 0.500
+ 
+Inputs: h = 0.0385 m, theta = 43.18 deg, diam_base = 0.1200.
+Outputs: m = 289.57, GCI = -0.7446, T = 0.96, F = 21.6, m_act = 90.0, m_link = 6.523, defl = 0.500
+ 
+Inputs: h = 0.0974 m, theta = 56.19 deg, diam_base = 0.1162.
+Outputs: m = 623.28, GCI = -0.7301, T = 2.51, F = 20.5, m_act = 195.0, m_link = 12.760, defl = 0.500
+ 
+Inputs: h = 0.0135 m, theta = 103.96 deg, diam_base = 0.1151.
+Outputs: m = 137.25, GCI = -0.2216, T = 0.57, F = 17.0, m_act = 41.0, m_link = 4.749, defl = 0.500
+ 
+Inputs: h = 0.0133 m, theta = 30.40 deg, diam_base = 0.0993.
+Outputs: m = 135.19, GCI = -0.3924, T = 0.61, F = 17.2, m_act = 41.0, m_link = 4.064, defl = 0.500
+ 
+Inputs: h = 0.0876 m, theta = 63.12 deg, diam_base = 0.1110.
+Outputs: m = 618.90, GCI = -0.7119, T = 2.91, F = 22.0, m_act = 195.0, m_link = 11.299, defl = 0.500
+ 
+Inputs: h = 0.0570 m, theta = 98.11 deg, diam_base = 0.1050.
+Outputs: m = 623.86, GCI = -0.8155, T = 3.92, F = 88.3, m_act = 195.0, m_link = 12.952, defl = 0.500
+ 
+Inputs: h = 0.0472 m, theta = 79.72 deg, diam_base = 0.1245.
+Outputs: m = 344.95, GCI = -0.6832, T = 1.52, F = 27.2, m_act = 107.0, m_link = 7.985, defl = 0.500
+ 
+Inputs: h = 0.0152 m, theta = 77.59 deg, diam_base = 0.1187.
+Outputs: m = 137.90, GCI = -0.1568, T = 0.69, F = 17.0, m_act = 41.0, m_link = 4.967, defl = 0.500
+ 
+Inputs: h = 0.0635 m, theta = 67.15 deg, diam_base = 0.1221.
+Outputs: m = 650.09, GCI = -0.8081, T = 3.19, F = 157.0, m_act = 195.0, m_link = 21.698, defl = 0.500
+ 
+Inputs: h = 0.0184 m, theta = 68.28 deg, diam_base = 0.1216.
+Outputs: m = 138.62, GCI = -0.1402, T = 0.61, F = 17.2, m_act = 41.0, m_link = 5.207, defl = 0.500
+ 
+Inputs: h = 0.0692 m, theta = 112.14 deg, diam_base = 0.1092.
+Outputs: m = 615.43, GCI = -0.8968, T = 4.96, F = 33.3, m_act = 195.0, m_link = 10.144, defl = 0.500
+ 
+Inputs: h = 0.0227 m, theta = 144.11 deg, diam_base = 0.1215.
+Outputs: m = 139.14, GCI = -0.4210, T = 0.14, F = 17.5, m_act = 41.0, m_link = 5.380, defl = 0.500
+ 
+Inputs: h = 0.0494 m, theta = 130.19 deg, diam_base = 0.1048.
+Outputs: m = 361.31, GCI = -0.7932, T = 2.07, F = 122.1, m_act = 107.0, m_link = 13.435, defl = 0.500
+ 
+Inputs: h = 0.0431 m, theta = 125.38 deg, diam_base = 0.0980.
+Passing infinitely large cost function
+Inputs: h = 0.0957 m, theta = 30.18 deg, diam_base = 0.1039.
+Outputs: m = 356.48, GCI = -0.6937, T = 1.41, F = 20.0, m_act = 107.0, m_link = 11.825, defl = 0.500
+ 
+Inputs: h = 0.0144 m, theta = 83.13 deg, diam_base = 0.1187.
+Outputs: m = 137.82, GCI = -0.1687, T = 0.70, F = 17.0, m_act = 41.0, m_link = 4.940, defl = 0.500
+ 
+Inputs: h = 0.0922 m, theta = 93.99 deg, diam_base = 0.1191.
+Outputs: m = 621.95, GCI = -0.7587, T = 3.88, F = 21.7, m_act = 195.0, m_link = 12.317, defl = 0.500
+ 
+Inputs: h = 0.0606 m, theta = 120.11 deg, diam_base = 0.0953.
+Outputs: m = 610.91, GCI = -0.8587, T = 5.14, F = 36.4, m_act = 195.0, m_link = 8.637, defl = 0.500
+ 
+Inputs: h = 0.0529 m, theta = 60.04 deg, diam_base = 0.1042.
+Outputs: m = 669.02, GCI = -0.8589, T = 2.92, F = 477.4, m_act = 195.0, m_link = 28.005, defl = 0.500
+ 
+Inputs: h = 0.0970 m, theta = 55.06 deg, diam_base = 0.1106.
+Outputs: m = 622.07, GCI = -0.5915, T = 2.45, F = 20.2, m_act = 195.0, m_link = 12.357, defl = 0.500
+ 
+Inputs: h = 0.0303 m, theta = 98.06 deg, diam_base = 0.1249.
+Outputs: m = 140.90, GCI = -0.3789, T = 0.02, F = 18.3, m_act = 41.0, m_link = 5.966, defl = 0.500
+ 
+Inputs: h = 0.0219 m, theta = 144.56 deg, diam_base = 0.0987.
+Outputs: m = 136.22, GCI = -0.5962, T = 0.05, F = 18.7, m_act = 41.0, m_link = 4.408, defl = 0.500
+ 
+Inputs: h = 0.0268 m, theta = 107.58 deg, diam_base = 0.0988.
+Outputs: m = 137.25, GCI = -0.4389, T = 0.42, F = 20.3, m_act = 41.0, m_link = 4.750, defl = 0.500
+ 
+Inputs: h = 0.0173 m, theta = 109.11 deg, diam_base = 0.0958.
+Outputs: m = 135.23, GCI = -0.1697, T = 0.11, F = 17.9, m_act = 41.0, m_link = 4.075, defl = 0.500
+ 
+Inputs: h = 0.0987 m, theta = 94.72 deg, diam_base = 0.1062.
+Outputs: m = 622.01, GCI = -0.7815, T = 3.52, F = 19.8, m_act = 195.0, m_link = 12.337, defl = 0.500
+ 
+Inputs: h = 0.0736 m, theta = 143.69 deg, diam_base = 0.1065.
+Outputs: m = 614.72, GCI = -0.6160, T = 5.65, F = 27.1, m_act = 195.0, m_link = 9.907, defl = 0.500
+ 
+Inputs: h = 0.0724 m, theta = 102.25 deg, diam_base = 0.1183.
+Outputs: m = 619.50, GCI = -0.7982, T = 4.61, F = 35.4, m_act = 195.0, m_link = 11.499, defl = 0.500
+ 
+Inputs: h = 0.0633 m, theta = 75.14 deg, diam_base = 0.1205.
+Outputs: m = 643.15, GCI = -0.7910, T = 3.43, F = 128.9, m_act = 195.0, m_link = 19.383, defl = 0.500
+ 
+Inputs: h = 0.0303 m, theta = 125.63 deg, diam_base = 0.1249.
+Outputs: m = 140.90, GCI = -0.3884, T = 0.01, F = 18.3, m_act = 41.0, m_link = 5.965, defl = 0.500
+ 
+Inputs: h = 0.0353 m, theta = 115.25 deg, diam_base = 0.1149.
+Outputs: m = 141.06, GCI = -0.4976, T = 0.51, F = 21.1, m_act = 41.0, m_link = 6.019, defl = 0.500
+ 
+Inputs: h = 0.0473 m, theta = 89.79 deg, diam_base = 0.1235.
+Outputs: m = 345.07, GCI = -0.6466, T = 1.49, F = 28.1, m_act = 107.0, m_link = 8.022, defl = 0.500
+ 
+Inputs: h = 0.0958 m, theta = 117.95 deg, diam_base = 0.1065.
+Outputs: m = 620.94, GCI = -0.6574, T = 3.74, F = 20.2, m_act = 195.0, m_link = 11.980, defl = 0.500
+ 
+Inputs: h = 0.0136 m, theta = 99.95 deg, diam_base = 0.1119.
+Outputs: m = 136.83, GCI = -0.2046, T = 0.56, F = 17.0, m_act = 41.0, m_link = 4.609, defl = 0.500
+ 
+Inputs: h = 0.0420 m, theta = 135.62 deg, diam_base = 0.1137.
+Outputs: m = 143.88, GCI = -0.6522, T = 0.76, F = 27.1, m_act = 41.0, m_link = 6.959, defl = 0.500
+ 
+Inputs: h = 0.0662 m, theta = 65.49 deg, diam_base = 0.0972.
+Outputs: m = 611.47, GCI = -0.8262, T = 3.33, F = 29.8, m_act = 195.0, m_link = 8.823, defl = 0.500
+ 
+Inputs: h = 0.0364 m, theta = 58.17 deg, diam_base = 0.1054.
+Outputs: m = 338.94, GCI = -0.6459, T = 1.38, F = 25.2, m_act = 107.0, m_link = 5.979, defl = 0.500
+ 
+Inputs: h = 0.0864 m, theta = 49.24 deg, diam_base = 0.0997.
+Outputs: m = 616.51, GCI = -0.8079, T = 2.32, F = 21.2, m_act = 195.0, m_link = 10.505, defl = 0.500
+ 
+Inputs: h = 0.0558 m, theta = 102.40 deg, diam_base = 0.0998.
+Outputs: m = 617.51, GCI = -0.7893, T = 4.13, F = 69.6, m_act = 195.0, m_link = 10.836, defl = 0.500
+ 
+Inputs: h = 0.0672 m, theta = 131.27 deg, diam_base = 0.1185.
+Outputs: m = 623.96, GCI = -0.6415, T = 4.07, F = 52.8, m_act = 195.0, m_link = 12.985, defl = 0.500
+ 
+Inputs: h = 0.0338 m, theta = 67.76 deg, diam_base = 0.1005.
+Outputs: m = 286.65, GCI = -0.5476, T = 1.29, F = 24.8, m_act = 90.0, m_link = 5.549, defl = 0.500
+ 
+Inputs: h = 0.0503 m, theta = 69.20 deg, diam_base = 0.1034.
+Outputs: m = 644.00, GCI = -0.6643, T = 3.00, F = 260.1, m_act = 195.0, m_link = 19.666, defl = 0.500
+ 
+Inputs: h = 0.0939 m, theta = 77.96 deg, diam_base = 0.1064.
+Outputs: m = 620.20, GCI = -0.7965, T = 3.27, F = 20.4, m_act = 195.0, m_link = 11.732, defl = 0.500
+ 
+Inputs: h = 0.0634 m, theta = 38.22 deg, diam_base = 0.1012.
+Outputs: m = 348.87, GCI = -0.7844, T = 2.04, F = 36.6, m_act = 107.0, m_link = 9.289, defl = 0.500
+ 
+Inputs: h = 0.0751 m, theta = 99.02 deg, diam_base = 0.1010.
+Outputs: m = 613.67, GCI = -0.8718, T = 4.44, F = 24.7, m_act = 195.0, m_link = 9.555, defl = 0.500
+ 
+Inputs: h = 0.0604 m, theta = 119.94 deg, diam_base = 0.0952.
+Outputs: m = 610.90, GCI = -0.7576, T = 5.12, F = 36.7, m_act = 195.0, m_link = 8.635, defl = 0.500
+ 
+Inputs: h = 0.0694 m, theta = 112.31 deg, diam_base = 0.1093.
+Outputs: m = 615.45, GCI = -0.8945, T = 4.97, F = 33.0, m_act = 195.0, m_link = 10.150, defl = 0.500
+ 
+Inputs: h = 0.0356 m, theta = 116.15 deg, diam_base = 0.1150.
+Outputs: m = 141.15, GCI = -0.5160, T = 0.52, F = 21.2, m_act = 41.0, m_link = 6.049, defl = 0.500
+ 
+Inputs: h = 0.0133 m, theta = 99.05 deg, diam_base = 0.1119.
+Outputs: m = 136.80, GCI = -0.2071, T = 0.57, F = 17.0, m_act = 41.0, m_link = 4.600, defl = 0.500
+ 
+Inputs: h = 0.0686 m, theta = 112.18 deg, diam_base = 0.1088.
+Outputs: m = 615.33, GCI = -0.8978, T = 4.95, F = 33.9, m_act = 195.0, m_link = 10.110, defl = 0.500
+ 
+Inputs: h = 0.0359 m, theta = 115.21 deg, diam_base = 0.1153.
+Outputs: m = 141.27, GCI = -0.5490, T = 0.54, F = 21.3, m_act = 41.0, m_link = 6.091, defl = 0.500
+ 
+Inputs: h = 0.0136 m, theta = 99.30 deg, diam_base = 0.1120.
+Outputs: m = 136.83, GCI = -0.1952, T = 0.56, F = 17.0, m_act = 41.0, m_link = 4.611, defl = 0.500
+ 
+Inputs: h = 0.0152 m, theta = 78.24 deg, diam_base = 0.1187.
+Outputs: m = 137.89, GCI = -0.1576, T = 0.69, F = 17.0, m_act = 41.0, m_link = 4.964, defl = 0.500
+ 
+Inputs: h = 0.0172 m, theta = 109.95 deg, diam_base = 0.0955.
+Outputs: m = 135.17, GCI = -0.1736, T = 0.11, F = 17.9, m_act = 41.0, m_link = 4.058, defl = 0.500
+ 
+Inputs: h = 0.0893 m, theta = 73.99 deg, diam_base = 0.1183.
+Outputs: m = 620.90, GCI = -0.9082, T = 3.33, F = 22.4, m_act = 195.0, m_link = 11.968, defl = 0.500
+ 
+Inputs: h = 0.0381 m, theta = 42.86 deg, diam_base = 0.1196.
+Outputs: m = 289.39, GCI = -0.7402, T = 0.94, F = 21.4, m_act = 90.0, m_link = 6.464, defl = 0.500
+ 
+Inputs: h = 0.0138 m, theta = 30.72 deg, diam_base = 0.0996.
+Outputs: m = 135.27, GCI = -0.4063, T = 0.58, F = 17.3, m_act = 41.0, m_link = 4.091, defl = 0.500
+ 
+Inputs: h = 0.0155 m, theta = 83.46 deg, diam_base = 0.1111.
+Outputs: m = 136.88, GCI = -0.1416, T = 0.54, F = 17.2, m_act = 41.0, m_link = 4.626, defl = 0.500
+ 
+Inputs: h = 0.0490 m, theta = 129.96 deg, diam_base = 0.1048.
+Outputs: m = 358.30, GCI = -0.8023, T = 2.01, F = 105.9, m_act = 107.0, m_link = 12.432, defl = 0.500
+ 
+Inputs: h = 0.0882 m, theta = 70.01 deg, diam_base = 0.0991.
+Outputs: m = 617.01, GCI = -0.7613, T = 3.10, F = 20.8, m_act = 195.0, m_link = 10.670, defl = 0.500
+ 
+Inputs: h = 0.0335 m, theta = 67.78 deg, diam_base = 0.1005.
+Outputs: m = 286.50, GCI = -0.5693, T = 1.24, F = 24.4, m_act = 90.0, m_link = 5.501, defl = 0.500
+ 
+Inputs: h = 0.0640 m, theta = 34.24 deg, diam_base = 0.1014.
+Outputs: m = 348.89, GCI = -0.5843, T = 1.83, F = 35.6, m_act = 107.0, m_link = 9.297, defl = 0.500
+ 
+Inputs: h = 0.0779 m, theta = 139.08 deg, diam_base = 0.1209.
+Outputs: m = 619.80, GCI = -0.8301, T = 5.52, F = 29.4, m_act = 195.0, m_link = 11.599, defl = 0.500
+ 
+Inputs: h = 0.0760 m, theta = 102.49 deg, diam_base = 0.1183.
+Outputs: m = 618.65, GCI = -0.7614, T = 4.65, F = 30.0, m_act = 195.0, m_link = 11.216, defl = 0.500
+ 
+Inputs: h = 0.0115 m, theta = 77.35 deg, diam_base = 0.1187.
+Outputs: m = 284.62, GCI = -0.1841, T = 0.85, F = 16.9, m_act = 90.0, m_link = 4.872, defl = 0.500
+ 
+Inputs: h = 0.0691 m, theta = 112.43 deg, diam_base = 0.1092.
+Outputs: m = 615.42, GCI = -0.8943, T = 4.97, F = 33.3, m_act = 195.0, m_link = 10.140, defl = 0.500
+ 
+Inputs: h = 0.0137 m, theta = 99.67 deg, diam_base = 0.1120.
+Outputs: m = 136.84, GCI = -0.2063, T = 0.56, F = 17.0, m_act = 41.0, m_link = 4.612, defl = 0.500
+ 
+Inputs: h = 0.0136 m, theta = 100.52 deg, diam_base = 0.1119.
+Outputs: m = 136.83, GCI = -0.2123, T = 0.55, F = 17.0, m_act = 41.0, m_link = 4.610, defl = 0.500
+ 
+Inputs: h = 0.0280 m, theta = 37.71 deg, diam_base = 0.1116.
+Outputs: m = 138.79, GCI = -0.5587, T = 0.27, F = 18.9, m_act = 41.0, m_link = 5.263, defl = 0.500
+ 
+Inputs: h = 0.0134 m, theta = 101.46 deg, diam_base = 0.1121.
+Outputs: m = 136.83, GCI = -0.2066, T = 0.56, F = 17.0, m_act = 41.0, m_link = 4.610, defl = 0.500
+ 
+Inputs: h = 0.0788 m, theta = 133.59 deg, diam_base = 0.1210.
+Outputs: m = 619.81, GCI = -0.9041, T = 5.43, F = 28.6, m_act = 195.0, m_link = 11.604, defl = 0.500
+ 
+Inputs: h = 0.0718 m, theta = 112.52 deg, diam_base = 0.1093.
+Outputs: m = 615.40, GCI = -0.8823, T = 5.02, F = 29.8, m_act = 195.0, m_link = 10.134, defl = 0.500
+ 
+Inputs: h = 0.0393 m, theta = 135.25 deg, diam_base = 0.1137.
+Outputs: m = 142.50, GCI = -0.7658, T = 0.60, F = 24.1, m_act = 41.0, m_link = 6.500, defl = 0.500
+ 
+Inputs: h = 0.0301 m, theta = 125.51 deg, diam_base = 0.1250.
+Outputs: m = 140.86, GCI = -0.3760, T = 0.00, F = 18.3, m_act = 41.0, m_link = 5.952, defl = 0.500
+ 
+Inputs: h = 0.0139 m, theta = 100.07 deg, diam_base = 0.1112.
+Outputs: m = 136.75, GCI = -0.1983, T = 0.54, F = 17.0, m_act = 41.0, m_link = 4.584, defl = 0.500
+ 
+Inputs: h = 0.0434 m, theta = 67.75 deg, diam_base = 0.1250.
+Outputs: m = 291.91, GCI = -0.6165, T = 1.16, F = 23.2, m_act = 90.0, m_link = 7.303, defl = 0.500
+ 
+Inputs: h = 0.0614 m, theta = 121.00 deg, diam_base = 0.0955.
+Outputs: m = 610.92, GCI = -0.8013, T = 5.21, F = 35.1, m_act = 195.0, m_link = 8.641, defl = 0.500
+ 
+Inputs: h = 0.0357 m, theta = 57.28 deg, diam_base = 0.1052.
+Outputs: m = 287.60, GCI = -0.6296, T = 1.31, F = 24.5, m_act = 90.0, m_link = 5.866, defl = 0.500
+ 
+Inputs: h = 0.0881 m, theta = 70.27 deg, diam_base = 0.0991.
+Outputs: m = 616.99, GCI = -0.7641, T = 3.11, F = 20.8, m_act = 195.0, m_link = 10.664, defl = 0.500
+ 
+Inputs: h = 0.0631 m, theta = 37.98 deg, diam_base = 0.1011.
+Outputs: m = 348.88, GCI = -0.7803, T = 2.03, F = 37.2, m_act = 107.0, m_link = 9.294, defl = 0.500
+ 
+Inputs: h = 0.0633 m, theta = 38.27 deg, diam_base = 0.1012.
+Outputs: m = 348.87, GCI = -0.7861, T = 2.05, F = 36.7, m_act = 107.0, m_link = 9.290, defl = 0.500
+ 
+Inputs: h = 0.0220 m, theta = 65.35 deg, diam_base = 0.1000.
+Outputs: m = 136.38, GCI = -0.3183, T = 0.11, F = 18.6, m_act = 41.0, m_link = 4.461, defl = 0.500
+ 
+Inputs: h = 0.0102 m, theta = 30.15 deg, diam_base = 0.0994.
+Outputs: m = 281.96, GCI = -0.2480, T = 0.85, F = 17.0, m_act = 90.0, m_link = 3.986, defl = 0.500
+ 
+Inputs: h = 0.0924 m, theta = 75.08 deg, diam_base = 0.1179.
+Outputs: m = 621.74, GCI = -0.8997, T = 3.29, F = 21.6, m_act = 195.0, m_link = 12.248, defl = 0.500
+ 
+Inputs: h = 0.0730 m, theta = 102.30 deg, diam_base = 0.1183.
+Outputs: m = 619.26, GCI = -0.7711, T = 4.63, F = 34.2, m_act = 195.0, m_link = 11.419, defl = 0.500
+ 
+Inputs: h = 0.0885 m, theta = 74.78 deg, diam_base = 0.1180.
+Outputs: m = 620.61, GCI = -0.9153, T = 3.37, F = 22.6, m_act = 195.0, m_link = 11.870, defl = 0.500
+ 
+Inputs: h = 0.0672 m, theta = 105.19 deg, diam_base = 0.1087.
+Outputs: m = 615.48, GCI = -0.8451, T = 4.72, F = 36.4, m_act = 195.0, m_link = 10.160, defl = 0.500
+ 
+Inputs: h = 0.0154 m, theta = 37.35 deg, diam_base = 0.0998.
+Outputs: m = 135.45, GCI = -0.3704, T = 0.45, F = 17.4, m_act = 41.0, m_link = 4.149, defl = 0.500
+ 
+Inputs: h = 0.0788 m, theta = 135.65 deg, diam_base = 0.1213.
+Outputs: m = 619.95, GCI = -0.8814, T = 5.47, F = 28.7, m_act = 195.0, m_link = 11.650, defl = 0.500
+ 
+Inputs: h = 0.0492 m, theta = 129.64 deg, diam_base = 0.1046.
+Outputs: m = 360.33, GCI = -0.8065, T = 2.07, F = 117.3, m_act = 107.0, m_link = 13.112, defl = 0.500
+ 
+Inputs: h = 0.0124 m, theta = 30.00 deg, diam_base = 0.0992.
+Outputs: m = 135.10, GCI = -0.3503, T = 0.68, F = 17.1, m_act = 41.0, m_link = 4.032, defl = 0.500
+ 
+Inputs: h = 0.0395 m, theta = 43.58 deg, diam_base = 0.1201.
+Outputs: m = 289.93, GCI = -0.7503, T = 1.05, F = 22.1, m_act = 90.0, m_link = 6.643, defl = 0.500
+ 
+Inputs: h = 0.0729 m, theta = 144.26 deg, diam_base = 0.1064.
+Outputs: m = 614.62, GCI = -0.5815, T = 5.70, F = 27.6, m_act = 195.0, m_link = 9.874, defl = 0.500
+ 
+Inputs: h = 0.0226 m, theta = 64.83 deg, diam_base = 0.1001.
+Outputs: m = 136.50, GCI = -0.3342, T = 0.16, F = 18.7, m_act = 41.0, m_link = 4.501, defl = 0.500
+ 
+Inputs: h = 0.0303 m, theta = 126.08 deg, diam_base = 0.1247.
+Outputs: m = 140.85, GCI = -0.3900, T = 0.01, F = 18.3, m_act = 41.0, m_link = 5.951, defl = 0.500
+ 
+Inputs: h = 0.0279 m, theta = 48.23 deg, diam_base = 0.0971.
+Outputs: m = 137.40, GCI = -0.6506, T = 0.83, F = 21.3, m_act = 41.0, m_link = 4.801, defl = 0.500
+ 
+Inputs: h = 0.0122 m, theta = 101.37 deg, diam_base = 0.1120.
+Outputs: m = 136.72, GCI = -0.2623, T = 0.61, F = 16.9, m_act = 41.0, m_link = 4.574, defl = 0.500
+ 
+Inputs: h = 0.0433 m, theta = 134.21 deg, diam_base = 0.1137.
+Outputs: m = 291.73, GCI = -0.7123, T = 0.88, F = 29.2, m_act = 90.0, m_link = 7.242, defl = 0.500
+ 
+Inputs: h = 0.0122 m, theta = 30.31 deg, diam_base = 0.0988.
+Outputs: m = 135.04, GCI = -0.3394, T = 0.68, F = 17.1, m_act = 41.0, m_link = 4.012, defl = 0.500
+ 
+Inputs: h = 0.0703 m, theta = 112.23 deg, diam_base = 0.1097.
+Outputs: m = 615.56, GCI = -0.8925, T = 4.99, F = 32.0, m_act = 195.0, m_link = 10.185, defl = 0.500
+ 
+Inputs: h = 0.0219 m, theta = 68.32 deg, diam_base = 0.1007.
+Outputs: m = 136.44, GCI = -0.2775, T = 0.08, F = 18.5, m_act = 41.0, m_link = 4.481, defl = 0.500
+ 
+Inputs: h = 0.0354 m, theta = 112.32 deg, diam_base = 0.1142.
+Outputs: m = 141.02, GCI = -0.5203, T = 0.56, F = 21.3, m_act = 41.0, m_link = 6.007, defl = 0.500
+ 
+Inputs: h = 0.0279 m, theta = 48.36 deg, diam_base = 0.0965.
+Outputs: m = 284.37, GCI = -0.6528, T = 0.85, F = 21.4, m_act = 90.0, m_link = 4.791, defl = 0.500
+ 
+Inputs: h = 0.0385 m, theta = 43.49 deg, diam_base = 0.1203.
+Outputs: m = 289.57, GCI = -0.7481, T = 0.94, F = 21.4, m_act = 90.0, m_link = 6.522, defl = 0.500
+ 
+Inputs: h = 0.0641 m, theta = 85.98 deg, diam_base = 0.1044.
+Outputs: m = 614.14, GCI = -0.8892, T = 4.15, F = 38.6, m_act = 195.0, m_link = 9.712, defl = 0.500
+ 
+Inputs: h = 0.0305 m, theta = 125.56 deg, diam_base = 0.1245.
+Outputs: m = 140.87, GCI = -0.3896, T = 0.02, F = 18.4, m_act = 41.0, m_link = 5.958, defl = 0.500
+ 
+Inputs: h = 0.0545 m, theta = 60.13 deg, diam_base = 0.1046.
+Outputs: m = 637.72, GCI = -0.8555, T = 2.98, F = 177.6, m_act = 195.0, m_link = 17.574, defl = 0.500
+ 
+Inputs: h = 0.0120 m, theta = 99.86 deg, diam_base = 0.1116.
+Outputs: m = 136.66, GCI = -0.2423, T = 0.62, F = 16.9, m_act = 41.0, m_link = 4.552, defl = 0.500
+ 
+Inputs: h = 0.0276 m, theta = 47.99 deg, diam_base = 0.0969.
+Outputs: m = 137.31, GCI = -0.6472, T = 0.81, F = 21.2, m_act = 41.0, m_link = 4.771, defl = 0.500
+ 
+Inputs: h = 0.0636 m, theta = 38.90 deg, diam_base = 0.1011.
+Outputs: m = 348.82, GCI = -0.7996, T = 2.08, F = 36.2, m_act = 107.0, m_link = 9.273, defl = 0.500
+ 
+Inputs: h = 0.0279 m, theta = 48.72 deg, diam_base = 0.0968.
+Outputs: m = 137.39, GCI = -0.6519, T = 0.84, F = 21.4, m_act = 41.0, m_link = 4.796, defl = 0.500
+ 
+Inputs: h = 0.0338 m, theta = 67.72 deg, diam_base = 0.1005.
+Outputs: m = 286.62, GCI = -0.5472, T = 1.28, F = 24.7, m_act = 90.0, m_link = 5.541, defl = 0.500
+ 
+Inputs: h = 0.0303 m, theta = 125.67 deg, diam_base = 0.1247.
+Outputs: m = 140.87, GCI = -0.3893, T = 0.01, F = 18.3, m_act = 41.0, m_link = 5.958, defl = 0.500
+ 
+Inputs: h = 0.0353 m, theta = 115.21 deg, diam_base = 0.1151.
+Outputs: m = 141.07, GCI = -0.4974, T = 0.51, F = 21.0, m_act = 41.0, m_link = 6.024, defl = 0.500
+ 
+Inputs: h = 0.0117 m, theta = 109.25 deg, diam_base = 0.1039.
+Outputs: m = 135.63, GCI = -0.2118, T = 0.49, F = 17.0, m_act = 41.0, m_link = 4.210, defl = 0.500
+ 
+Inputs: h = 0.0183 m, theta = 107.52 deg, diam_base = 0.0966.
+Outputs: m = 135.44, GCI = -0.2106, T = 0.07, F = 18.0, m_act = 41.0, m_link = 4.146, defl = 0.500
+ 
+Inputs: h = 0.0776 m, theta = 136.69 deg, diam_base = 0.1204.
+Outputs: m = 619.59, GCI = -0.8707, T = 5.48, F = 29.5, m_act = 195.0, m_link = 11.531, defl = 0.500
+ 
+Inputs: h = 0.0409 m, theta = 109.95 deg, diam_base = 0.1208.
+Outputs: m = 143.53, GCI = -0.5653, T = 0.77, F = 22.7, m_act = 41.0, m_link = 6.845, defl = 0.500
+ 
+Inputs: h = 0.0726 m, theta = 102.26 deg, diam_base = 0.1182.
+Outputs: m = 619.42, GCI = -0.7685, T = 4.61, F = 35.0, m_act = 195.0, m_link = 11.472, defl = 0.500
+ 
+Completed 1 generations!
+Inputs: h = 0.0693 m, theta = 112.34 deg, diam_base = 0.1087.
+Outputs: m = 615.22, GCI = -0.8927, T = 4.99, F = 32.6, m_act = 195.0, m_link = 10.072, defl = 0.500
+ 
+Inputs: h = 0.0176 m, theta = 107.36 deg, diam_base = 0.0967.
+Outputs: m = 135.36, GCI = -0.1823, T = 0.11, F = 17.9, m_act = 41.0, m_link = 4.120, defl = 0.500
+ 
+Inputs: h = 0.0157 m, theta = 30.00 deg, diam_base = 0.0991.
+Outputs: m = 135.40, GCI = -0.4988, T = 0.41, F = 17.5, m_act = 41.0, m_link = 4.134, defl = 0.500
+ 
+Inputs: h = 0.0859 m, theta = 77.93 deg, diam_base = 0.1181.
+Outputs: m = 619.94, GCI = -0.8473, T = 3.55, F = 23.5, m_act = 195.0, m_link = 11.648, defl = 0.500
+ 
+Inputs: h = 0.0180 m, theta = 107.39 deg, diam_base = 0.0966.
+Outputs: m = 135.40, GCI = -0.1997, T = 0.09, F = 18.0, m_act = 41.0, m_link = 4.134, defl = 0.500
+ 
+Inputs: h = 0.0689 m, theta = 112.32 deg, diam_base = 0.1088.
+Outputs: m = 615.31, GCI = -0.8954, T = 4.97, F = 33.4, m_act = 195.0, m_link = 10.103, defl = 0.500
+ 
+Inputs: h = 0.0398 m, theta = 42.73 deg, diam_base = 0.1204.
+Outputs: m = 290.09, GCI = -0.7364, T = 1.08, F = 22.2, m_act = 90.0, m_link = 6.698, defl = 0.500
+ 
+Inputs: h = 0.0871 m, theta = 75.54 deg, diam_base = 0.1179.
+Outputs: m = 620.21, GCI = -0.8035, T = 3.43, F = 23.0, m_act = 195.0, m_link = 11.738, defl = 0.500
+ 
+Inputs: h = 0.0403 m, theta = 110.06 deg, diam_base = 0.1209.
+Outputs: m = 143.29, GCI = -0.5647, T = 0.72, F = 22.3, m_act = 41.0, m_link = 6.764, defl = 0.500
+ 
+Inputs: h = 0.0891 m, theta = 74.67 deg, diam_base = 0.1180.
+Outputs: m = 620.77, GCI = -0.9122, T = 3.35, F = 22.4, m_act = 195.0, m_link = 11.925, defl = 0.500
+ 
+Inputs: h = 0.0195 m, theta = 107.71 deg, diam_base = 0.0966.
+Outputs: m = 135.61, GCI = -0.2409, T = 0.00, F = 18.3, m_act = 41.0, m_link = 4.202, defl = 0.500
+ 
+Inputs: h = 0.0267 m, theta = 48.04 deg, diam_base = 0.0971.
+Outputs: m = 137.09, GCI = -0.6342, T = 0.70, F = 20.7, m_act = 41.0, m_link = 4.698, defl = 0.500
+ 
+Inputs: h = 0.0422 m, theta = 139.37 deg, diam_base = 0.1137.
+Outputs: m = 143.99, GCI = -0.6127, T = 0.71, F = 27.4, m_act = 41.0, m_link = 6.997, defl = 0.500
+ 
+Inputs: h = 0.0383 m, theta = 39.74 deg, diam_base = 0.1203.
+Outputs: m = 289.50, GCI = -0.6530, T = 0.93, F = 21.3, m_act = 90.0, m_link = 6.501, defl = 0.500
+ 
+Inputs: h = 0.0100 m, theta = 109.14 deg, diam_base = 0.1077.
+Outputs: m = 136.00, GCI = -0.2746, T = 0.60, F = 16.9, m_act = 41.0, m_link = 4.334, defl = 0.500
+ 
+Inputs: h = 0.0147 m, theta = 30.87 deg, diam_base = 0.0992.
+Outputs: m = 135.31, GCI = -0.3950, T = 0.50, F = 17.4, m_act = 41.0, m_link = 4.105, defl = 0.500
+ 
+Inputs: h = 0.0375 m, theta = 43.34 deg, diam_base = 0.1207.
+Outputs: m = 142.29, GCI = -0.7439, T = 0.83, F = 20.9, m_act = 41.0, m_link = 6.428, defl = 0.500
+ 
+Inputs: h = 0.0390 m, theta = 108.27 deg, diam_base = 0.1208.
+Outputs: m = 142.81, GCI = -0.5601, T = 0.64, F = 21.6, m_act = 41.0, m_link = 6.602, defl = 0.500
+ 
+Inputs: h = 0.0910 m, theta = 76.51 deg, diam_base = 0.1181.
+Outputs: m = 621.36, GCI = -0.7981, T = 3.38, F = 21.9, m_act = 195.0, m_link = 12.120, defl = 0.500
+ 
+Inputs: h = 0.0845 m, theta = 73.99 deg, diam_base = 0.1179.
+Outputs: m = 619.58, GCI = -0.7966, T = 3.43, F = 24.0, m_act = 195.0, m_link = 11.528, defl = 0.500
+ 
+Inputs: h = 0.0319 m, theta = 49.02 deg, diam_base = 0.0972.
+Outputs: m = 285.74, GCI = -0.7334, T = 1.26, F = 24.4, m_act = 90.0, m_link = 5.247, defl = 0.500
+ 
+Inputs: h = 0.0282 m, theta = 47.73 deg, diam_base = 0.0964.
+Outputs: m = 284.46, GCI = -0.6562, T = 0.90, F = 21.7, m_act = 90.0, m_link = 4.819, defl = 0.500
+ 
+Inputs: h = 0.0405 m, theta = 110.57 deg, diam_base = 0.1210.
+Outputs: m = 143.41, GCI = -0.5297, T = 0.73, F = 22.5, m_act = 41.0, m_link = 6.803, defl = 0.500
+ 
+Inputs: h = 0.0862 m, theta = 74.49 deg, diam_base = 0.1176.
+Outputs: m = 619.91, GCI = -0.9213, T = 3.41, F = 23.3, m_act = 195.0, m_link = 11.636, defl = 0.500
+ 
+Inputs: h = 0.0176 m, theta = 37.64 deg, diam_base = 0.1002.
+Outputs: m = 135.76, GCI = -0.4539, T = 0.28, F = 17.7, m_act = 41.0, m_link = 4.253, defl = 0.500
+ 
+Inputs: h = 0.0139 m, theta = 31.10 deg, diam_base = 0.0996.
+Outputs: m = 135.28, GCI = -0.4088, T = 0.57, F = 17.3, m_act = 41.0, m_link = 4.095, defl = 0.500
+ 
+Inputs: h = 0.0152 m, theta = 36.97 deg, diam_base = 0.0998.
+Outputs: m = 135.43, GCI = -0.3592, T = 0.46, F = 17.4, m_act = 41.0, m_link = 4.145, defl = 0.500
+ 
+Inputs: h = 0.0280 m, theta = 37.96 deg, diam_base = 0.1118.
+Outputs: m = 138.82, GCI = -0.5612, T = 0.27, F = 18.9, m_act = 41.0, m_link = 5.272, defl = 0.500
+ 
+Inputs: h = 0.0409 m, theta = 110.27 deg, diam_base = 0.1206.
+Outputs: m = 143.53, GCI = -0.5619, T = 0.77, F = 22.8, m_act = 41.0, m_link = 6.842, defl = 0.500
+ 
+Inputs: h = 0.0172 m, theta = 112.98 deg, diam_base = 0.0955.
+Outputs: m = 135.18, GCI = -0.1889, T = 0.11, F = 17.9, m_act = 41.0, m_link = 4.058, defl = 0.500
+ 
+Inputs: h = 0.0124 m, theta = 30.00 deg, diam_base = 0.0992.
+Outputs: m = 135.10, GCI = -0.3482, T = 0.68, F = 17.1, m_act = 41.0, m_link = 4.033, defl = 0.500
+ 
+Inputs: h = 0.0417 m, theta = 135.65 deg, diam_base = 0.1137.
+Outputs: m = 143.73, GCI = -0.6549, T = 0.75, F = 26.8, m_act = 41.0, m_link = 6.911, defl = 0.500
+ 
+Inputs: h = 0.0689 m, theta = 112.16 deg, diam_base = 0.1089.
+Outputs: m = 615.33, GCI = -0.8971, T = 4.96, F = 33.5, m_act = 195.0, m_link = 10.109, defl = 0.500
+ 
+Inputs: h = 0.0135 m, theta = 30.03 deg, diam_base = 0.0950.
+Outputs: m = 134.70, GCI = -0.4235, T = 0.50, F = 17.4, m_act = 41.0, m_link = 3.901, defl = 0.500
+ 
+Inputs: h = 0.0280 m, theta = 48.61 deg, diam_base = 0.0954.
+Outputs: m = 284.32, GCI = -0.6992, T = 0.91, F = 21.8, m_act = 90.0, m_link = 4.773, defl = 0.500
+ 
+Inputs: h = 0.0384 m, theta = 43.24 deg, diam_base = 0.1214.
+Outputs: m = 289.63, GCI = -0.7445, T = 0.89, F = 21.1, m_act = 90.0, m_link = 6.544, defl = 0.500
+ 
+Inputs: h = 0.0125 m, theta = 108.20 deg, diam_base = 0.1038.
+Outputs: m = 135.68, GCI = -0.1976, T = 0.47, F = 17.1, m_act = 41.0, m_link = 4.226, defl = 0.500
+ 
+Inputs: h = 0.0626 m, theta = 39.27 deg, diam_base = 0.1012.
+Outputs: m = 349.01, GCI = -0.8179, T = 2.10, F = 38.3, m_act = 107.0, m_link = 9.336, defl = 0.500
+ 
+Inputs: h = 0.0278 m, theta = 48.17 deg, diam_base = 0.0950.
+Outputs: m = 284.25, GCI = -0.6571, T = 0.91, F = 21.8, m_act = 90.0, m_link = 4.750, defl = 0.500
+ 
+Inputs: h = 0.0382 m, theta = 42.92 deg, diam_base = 0.1222.
+Outputs: m = 142.63, GCI = -0.7399, T = 0.83, F = 20.9, m_act = 41.0, m_link = 6.545, defl = 0.500
+ 
+Inputs: h = 0.0411 m, theta = 65.43 deg, diam_base = 0.0950.
+Outputs: m = 607.89, GCI = -0.6484, T = 2.44, F = 56.4, m_act = 195.0, m_link = 7.631, defl = 0.500
+ 
+Inputs: h = 0.0133 m, theta = 33.60 deg, diam_base = 0.0992.
+Outputs: m = 135.18, GCI = -0.3100, T = 0.61, F = 17.2, m_act = 41.0, m_link = 4.059, defl = 0.500
+ 
+Inputs: h = 0.0184 m, theta = 104.32 deg, diam_base = 0.0966.
+Outputs: m = 135.46, GCI = -0.2262, T = 0.07, F = 18.0, m_act = 41.0, m_link = 4.153, defl = 0.500
+ 
+Inputs: h = 0.0892 m, theta = 74.83 deg, diam_base = 0.1180.
+Outputs: m = 620.80, GCI = -0.9128, T = 3.36, F = 22.4, m_act = 195.0, m_link = 11.935, defl = 0.500
+ 
+Inputs: h = 0.0885 m, theta = 74.79 deg, diam_base = 0.1180.
+Outputs: m = 620.60, GCI = -0.9154, T = 3.37, F = 22.6, m_act = 195.0, m_link = 11.868, defl = 0.500
+ 
+Inputs: h = 0.0610 m, theta = 38.37 deg, diam_base = 0.1011.
+Outputs: m = 349.40, GCI = -0.8122, T = 2.07, F = 42.8, m_act = 107.0, m_link = 9.468, defl = 0.500
+ 
+Inputs: h = 0.0148 m, theta = 30.00 deg, diam_base = 0.0992.
+Outputs: m = 135.32, GCI = -0.3944, T = 0.49, F = 17.4, m_act = 41.0, m_link = 4.106, defl = 0.500
+ 
+Inputs: h = 0.0218 m, theta = 146.91 deg, diam_base = 0.0989.
+Outputs: m = 136.23, GCI = -0.5633, T = 0.04, F = 18.6, m_act = 41.0, m_link = 4.410, defl = 0.500
+ 
+Inputs: h = 0.0172 m, theta = 107.60 deg, diam_base = 0.0954.
+Outputs: m = 135.16, GCI = -0.1745, T = 0.11, F = 17.9, m_act = 41.0, m_link = 4.055, defl = 0.500
+ 
+Inputs: h = 0.0338 m, theta = 62.99 deg, diam_base = 0.1004.
+Outputs: m = 286.63, GCI = -0.5348, T = 1.31, F = 24.8, m_act = 90.0, m_link = 5.543, defl = 0.500
+ 
+Inputs: h = 0.0216 m, theta = 149.35 deg, diam_base = 0.0988.
+Outputs: m = 136.18, GCI = -0.6721, T = 0.03, F = 18.6, m_act = 41.0, m_link = 4.393, defl = 0.500
+ 
+Inputs: h = 0.0217 m, theta = 146.02 deg, diam_base = 0.0987.
+Outputs: m = 136.20, GCI = -0.5272, T = 0.04, F = 18.6, m_act = 41.0, m_link = 4.399, defl = 0.500
+ 
+Inputs: h = 0.0139 m, theta = 30.00 deg, diam_base = 0.0996.
+Outputs: m = 135.29, GCI = -0.4157, T = 0.57, F = 17.3, m_act = 41.0, m_link = 4.096, defl = 0.500
+ 
+Inputs: h = 0.0222 m, theta = 64.71 deg, diam_base = 0.1004.
+Outputs: m = 136.46, GCI = -0.3276, T = 0.11, F = 18.6, m_act = 41.0, m_link = 4.488, defl = 0.500
+ 
+Inputs: h = 0.0278 m, theta = 38.97 deg, diam_base = 0.1111.
+Outputs: m = 138.70, GCI = -0.5686, T = 0.27, F = 18.9, m_act = 41.0, m_link = 5.234, defl = 0.500
+ 
+Inputs: h = 0.0423 m, theta = 134.04 deg, diam_base = 0.1138.
+Outputs: m = 144.07, GCI = -0.6947, T = 0.81, F = 27.5, m_act = 41.0, m_link = 7.023, defl = 0.500
+ 
+Inputs: h = 0.0888 m, theta = 76.42 deg, diam_base = 0.1180.
+Outputs: m = 620.70, GCI = -0.8090, T = 3.42, F = 22.5, m_act = 195.0, m_link = 11.900, defl = 0.500
+ 
+Inputs: h = 0.0879 m, theta = 74.51 deg, diam_base = 0.1179.
+Outputs: m = 620.42, GCI = -0.9158, T = 3.38, F = 22.8, m_act = 195.0, m_link = 11.808, defl = 0.500
+ 
+Inputs: h = 0.0414 m, theta = 110.22 deg, diam_base = 0.1209.
+Outputs: m = 143.79, GCI = -0.5613, T = 0.81, F = 23.1, m_act = 41.0, m_link = 6.931, defl = 0.500
+ 
+Inputs: h = 0.0478 m, theta = 128.99 deg, diam_base = 0.1048.
+Outputs: m = 352.79, GCI = -0.8263, T = 1.89, F = 79.8, m_act = 107.0, m_link = 10.596, defl = 0.500
+ 
+Inputs: h = 0.0129 m, theta = 110.22 deg, diam_base = 0.1039.
+Outputs: m = 135.72, GCI = -0.1821, T = 0.44, F = 17.1, m_act = 41.0, m_link = 4.242, defl = 0.500
+ 
+Inputs: h = 0.0369 m, theta = 42.92 deg, diam_base = 0.1204.
+Outputs: m = 142.06, GCI = -0.7381, T = 0.78, F = 20.7, m_act = 41.0, m_link = 6.353, defl = 0.500
+ 
+Inputs: h = 0.0907 m, theta = 75.41 deg, diam_base = 0.1178.
+Outputs: m = 621.22, GCI = -0.9088, T = 3.34, F = 22.0, m_act = 195.0, m_link = 12.074, defl = 0.500
+ 
+Inputs: h = 0.0229 m, theta = 145.53 deg, diam_base = 0.0985.
+Outputs: m = 136.39, GCI = -0.6011, T = 0.08, F = 19.0, m_act = 41.0, m_link = 4.464, defl = 0.500
+ 
+Inputs: h = 0.0874 m, theta = 73.81 deg, diam_base = 0.1182.
+Outputs: m = 620.37, GCI = -0.9146, T = 3.36, F = 23.0, m_act = 195.0, m_link = 11.791, defl = 0.500
+ 
+Inputs: h = 0.0885 m, theta = 73.91 deg, diam_base = 0.1181.
+Outputs: m = 620.63, GCI = -0.9105, T = 3.34, F = 22.6, m_act = 195.0, m_link = 11.877, defl = 0.500
+ 
+Inputs: h = 0.0606 m, theta = 120.97 deg, diam_base = 0.0952.
+Outputs: m = 610.88, GCI = -0.8035, T = 5.16, F = 36.3, m_act = 195.0, m_link = 8.627, defl = 0.500
+ 
+Inputs: h = 0.0908 m, theta = 30.75 deg, diam_base = 0.0950.
+Outputs: m = 353.37, GCI = -0.6837, T = 1.46, F = 20.2, m_act = 107.0, m_link = 10.789, defl = 0.500
+ 
+Inputs: h = 0.0490 m, theta = 136.14 deg, diam_base = 0.1049.
+Outputs: m = 358.35, GCI = -0.5733, T = 1.80, F = 106.0, m_act = 107.0, m_link = 12.449, defl = 0.500
+ 
+Inputs: h = 0.0385 m, theta = 37.00 deg, diam_base = 0.1199.
+Outputs: m = 289.56, GCI = -0.5265, T = 0.97, F = 21.6, m_act = 90.0, m_link = 6.519, defl = 0.500
+ 
+Inputs: h = 0.0121 m, theta = 105.68 deg, diam_base = 0.1038.
+Outputs: m = 135.65, GCI = -0.2347, T = 0.49, F = 17.0, m_act = 41.0, m_link = 4.216, defl = 0.500
+ 
+Inputs: h = 0.0272 m, theta = 51.57 deg, diam_base = 0.0970.
+Outputs: m = 137.21, GCI = -0.5336, T = 0.75, F = 20.9, m_act = 41.0, m_link = 4.736, defl = 0.500
+ 
+Completed 2 generations!
+    Restarting model to clean up...
+ 
+Inputs: h = 0.0278 m, theta = 48.17 deg, diam_base = 0.0950.
+Outputs: m = 284.25, GCI = -0.6572, T = 0.91, F = 21.8, m_act = 90.0, m_link = 4.750, defl = 0.500
+ 
+Inputs: h = 0.0279 m, theta = 48.23 deg, diam_base = 0.0971.
+Outputs: m = 137.40, GCI = -0.6505, T = 0.83, F = 21.3, m_act = 41.0, m_link = 4.801, defl = 0.500
+ 
+Inputs: h = 0.0267 m, theta = 47.72 deg, diam_base = 0.0969.
+Outputs: m = 137.09, GCI = -0.6354, T = 0.71, F = 20.7, m_act = 41.0, m_link = 4.695, defl = 0.500
+ 
+Inputs: h = 0.0381 m, theta = 43.24 deg, diam_base = 0.1224.
+Outputs: m = 142.64, GCI = -0.7431, T = 0.82, F = 20.8, m_act = 41.0, m_link = 6.548, defl = 0.500
+ 
+Inputs: h = 0.0881 m, theta = 71.50 deg, diam_base = 0.1179.
+Outputs: m = 620.47, GCI = -0.8933, T = 3.26, F = 22.7, m_act = 195.0, m_link = 11.822, defl = 0.500
+ 
+Inputs: h = 0.0380 m, theta = 45.86 deg, diam_base = 0.1196.
+Outputs: m = 289.34, GCI = -0.6871, T = 0.92, F = 21.4, m_act = 90.0, m_link = 6.447, defl = 0.500
+ 
+Inputs: h = 0.0878 m, theta = 74.32 deg, diam_base = 0.1184.
+Outputs: m = 620.51, GCI = -0.9168, T = 3.38, F = 22.9, m_act = 195.0, m_link = 11.837, defl = 0.500
+ 
+Inputs: h = 0.0268 m, theta = 48.23 deg, diam_base = 0.0966.
+Outputs: m = 137.08, GCI = -0.6382, T = 0.74, F = 20.8, m_act = 41.0, m_link = 4.694, defl = 0.500
+ 
+Inputs: h = 0.0607 m, theta = 39.63 deg, diam_base = 0.1017.
+Outputs: m = 349.81, GCI = -0.8449, T = 2.13, F = 44.7, m_act = 107.0, m_link = 9.604, defl = 0.500
+ 
+Inputs: h = 0.0401 m, theta = 42.56 deg, diam_base = 0.1217.
+Outputs: m = 290.28, GCI = -0.7337, T = 1.05, F = 22.0, m_act = 90.0, m_link = 6.760, defl = 0.500
+ 
+Inputs: h = 0.0287 m, theta = 48.01 deg, diam_base = 0.0974.
+Outputs: m = 284.66, GCI = -0.6992, T = 0.91, F = 21.7, m_act = 90.0, m_link = 4.887, defl = 0.500
+ 
+Inputs: h = 0.0871 m, theta = 74.72 deg, diam_base = 0.1176.
+Outputs: m = 620.14, GCI = -0.9194, T = 3.40, F = 23.0, m_act = 195.0, m_link = 11.714, defl = 0.500
+ 
+Inputs: h = 0.0889 m, theta = 75.81 deg, diam_base = 0.1178.
+Outputs: m = 620.68, GCI = -0.8256, T = 3.40, F = 22.4, m_act = 195.0, m_link = 11.892, defl = 0.500
+ 
+Inputs: h = 0.0617 m, theta = 37.97 deg, diam_base = 0.1013.
+Outputs: m = 349.28, GCI = -0.7964, T = 2.04, F = 41.0, m_act = 107.0, m_link = 9.426, defl = 0.500
+ 
+Inputs: h = 0.0386 m, theta = 43.22 deg, diam_base = 0.1195.
+Outputs: m = 289.57, GCI = -0.7452, T = 0.99, F = 21.7, m_act = 90.0, m_link = 6.522, defl = 0.500
+ 
+Inputs: h = 0.0156 m, theta = 30.28 deg, diam_base = 0.0998.
+Outputs: m = 135.47, GCI = -0.4562, T = 0.44, F = 17.5, m_act = 41.0, m_link = 4.158, defl = 0.500
+ 
+Inputs: h = 0.0382 m, theta = 43.73 deg, diam_base = 0.1205.
+Outputs: m = 289.48, GCI = -0.7496, T = 0.90, F = 21.2, m_act = 90.0, m_link = 6.493, defl = 0.500
+ 
+Inputs: h = 0.0270 m, theta = 47.80 deg, diam_base = 0.0968.
+Outputs: m = 137.16, GCI = -0.6401, T = 0.75, F = 20.9, m_act = 41.0, m_link = 4.719, defl = 0.500
+ 
+Inputs: h = 0.0636 m, theta = 39.25 deg, diam_base = 0.1027.
+Outputs: m = 349.48, GCI = -0.8172, T = 2.10, F = 37.8, m_act = 107.0, m_link = 9.492, defl = 0.500
+ 
+Inputs: h = 0.0375 m, theta = 43.52 deg, diam_base = 0.1188.
+Outputs: m = 289.12, GCI = -0.7473, T = 0.91, F = 21.3, m_act = 90.0, m_link = 6.372, defl = 0.500
+ 
+Inputs: h = 0.0268 m, theta = 48.15 deg, diam_base = 0.0977.
+Outputs: m = 137.16, GCI = -0.6693, T = 0.68, F = 20.5, m_act = 41.0, m_link = 4.719, defl = 0.500
+ 
+Inputs: h = 0.0394 m, theta = 43.47 deg, diam_base = 0.1194.
+Outputs: m = 289.87, GCI = -0.7488, T = 1.08, F = 22.2, m_act = 90.0, m_link = 6.623, defl = 0.500
+ 
+Inputs: h = 0.0512 m, theta = 112.35 deg, diam_base = 0.0950.
+Outputs: m = 620.98, GCI = -0.7955, T = 3.75, F = 107.7, m_act = 195.0, m_link = 11.993, defl = 0.500
+ 
+Inputs: h = 0.0261 m, theta = 48.54 deg, diam_base = 0.0971.
+Outputs: m = 136.93, GCI = -0.5224, T = 0.63, F = 20.3, m_act = 41.0, m_link = 4.645, defl = 0.500
+ 
+Inputs: h = 0.0633 m, theta = 38.77 deg, diam_base = 0.1012.
+Outputs: m = 348.88, GCI = -0.7997, T = 2.07, F = 36.8, m_act = 107.0, m_link = 9.294, defl = 0.500
+ 
+Inputs: h = 0.0880 m, theta = 74.58 deg, diam_base = 0.1180.
+Outputs: m = 620.47, GCI = -0.9159, T = 3.38, F = 22.7, m_act = 195.0, m_link = 11.824, defl = 0.500
+ 
+Inputs: h = 0.0393 m, theta = 43.50 deg, diam_base = 0.1200.
+Outputs: m = 289.87, GCI = -0.7492, T = 1.04, F = 22.0, m_act = 90.0, m_link = 6.624, defl = 0.500
+ 
+Inputs: h = 0.0628 m, theta = 39.27 deg, diam_base = 0.1014.
+Outputs: m = 349.08, GCI = -0.8178, T = 2.10, F = 38.2, m_act = 107.0, m_link = 9.361, defl = 0.500
+ 
+Inputs: h = 0.0692 m, theta = 112.34 deg, diam_base = 0.1084.
+Outputs: m = 615.14, GCI = -0.8927, T = 4.99, F = 32.7, m_act = 195.0, m_link = 10.045, defl = 0.500
+ 
+Inputs: h = 0.0281 m, theta = 48.20 deg, diam_base = 0.0950.
+Outputs: m = 284.32, GCI = -0.7007, T = 0.94, F = 22.0, m_act = 90.0, m_link = 4.774, defl = 0.500
+ 
+Inputs: h = 0.0689 m, theta = 112.11 deg, diam_base = 0.1097.
+Outputs: m = 615.66, GCI = -0.8959, T = 4.94, F = 34.1, m_act = 195.0, m_link = 10.220, defl = 0.500
+ 
+Inputs: h = 0.0246 m, theta = 146.09 deg, diam_base = 0.1068.
+Outputs: m = 137.59, GCI = -0.5833, T = 0.04, F = 18.6, m_act = 41.0, m_link = 4.862, defl = 0.500
+ 
+Inputs: h = 0.0365 m, theta = 42.99 deg, diam_base = 0.1199.
+Outputs: m = 141.88, GCI = -0.7377, T = 0.76, F = 20.6, m_act = 41.0, m_link = 6.292, defl = 0.500
+ 
+Inputs: h = 0.0152 m, theta = 30.00 deg, diam_base = 0.0997.
+Outputs: m = 135.42, GCI = -0.4459, T = 0.47, F = 17.4, m_act = 41.0, m_link = 4.140, defl = 0.500
+ 
+Inputs: h = 0.0637 m, theta = 38.27 deg, diam_base = 0.1012.
+Outputs: m = 348.82, GCI = -0.7822, T = 2.04, F = 35.9, m_act = 107.0, m_link = 9.274, defl = 0.500
+ 
+Inputs: h = 0.0173 m, theta = 37.64 deg, diam_base = 0.1002.
+Outputs: m = 135.71, GCI = -0.4412, T = 0.31, F = 17.7, m_act = 41.0, m_link = 4.237, defl = 0.500
+ 
+Inputs: h = 0.0455 m, theta = 37.32 deg, diam_base = 0.1014.
+Outputs: m = 348.82, GCI = -0.9120, T = 1.93, F = 69.8, m_act = 107.0, m_link = 9.272, defl = 0.500
+ 
+Inputs: h = 0.0125 m, theta = 30.45 deg, diam_base = 0.0993.
+Outputs: m = 135.11, GCI = -0.3494, T = 0.67, F = 17.2, m_act = 41.0, m_link = 4.038, defl = 0.500
+ 
+Inputs: h = 0.0392 m, theta = 43.78 deg, diam_base = 0.1205.
+Outputs: m = 289.84, GCI = -0.7524, T = 1.01, F = 21.8, m_act = 90.0, m_link = 6.613, defl = 0.500
+ 
+Inputs: h = 0.0117 m, theta = 30.00 deg, diam_base = 0.0990.
+Outputs: m = 135.02, GCI = -0.2643, T = 0.73, F = 17.1, m_act = 41.0, m_link = 4.006, defl = 0.500
+ 
+Inputs: h = 0.0633 m, theta = 38.33 deg, diam_base = 0.1013.
+Outputs: m = 348.94, GCI = -0.7894, T = 2.05, F = 37.0, m_act = 107.0, m_link = 9.312, defl = 0.500
+ 
+Inputs: h = 0.0312 m, theta = 49.96 deg, diam_base = 0.0971.
+Outputs: m = 285.50, GCI = -0.7350, T = 1.20, F = 23.8, m_act = 90.0, m_link = 5.167, defl = 0.500
+ 
+Inputs: h = 0.0153 m, theta = 30.17 deg, diam_base = 0.0992.
+Outputs: m = 135.37, GCI = -0.4515, T = 0.46, F = 17.4, m_act = 41.0, m_link = 4.122, defl = 0.500
+ 
+Inputs: h = 0.0629 m, theta = 38.10 deg, diam_base = 0.1012.
+Outputs: m = 348.94, GCI = -0.7863, T = 2.04, F = 37.7, m_act = 107.0, m_link = 9.315, defl = 0.500
+ 
+Inputs: h = 0.0629 m, theta = 39.18 deg, diam_base = 0.1010.
+Outputs: m = 348.87, GCI = -0.8123, T = 2.10, F = 37.5, m_act = 107.0, m_link = 9.291, defl = 0.500
+ 
+Inputs: h = 0.0382 m, theta = 43.58 deg, diam_base = 0.1205.
+Outputs: m = 289.49, GCI = -0.7484, T = 0.91, F = 21.3, m_act = 90.0, m_link = 6.498, defl = 0.500
+ 
+Inputs: h = 0.0285 m, theta = 47.92 deg, diam_base = 0.0971.
+Outputs: m = 284.60, GCI = -0.6580, T = 0.90, F = 21.7, m_act = 90.0, m_link = 4.867, defl = 0.500
+ 
+Inputs: h = 0.0141 m, theta = 30.31 deg, diam_base = 0.0991.
+Outputs: m = 135.25, GCI = -0.4245, T = 0.55, F = 17.3, m_act = 41.0, m_link = 4.082, defl = 0.500
+ 
+Inputs: h = 0.0278 m, theta = 48.06 deg, diam_base = 0.0960.
+Outputs: m = 284.30, GCI = -0.6526, T = 0.86, F = 21.5, m_act = 90.0, m_link = 4.766, defl = 0.500
+ 
+Inputs: h = 0.0395 m, theta = 43.69 deg, diam_base = 0.1191.
+Outputs: m = 289.88, GCI = -0.7517, T = 1.10, F = 22.4, m_act = 90.0, m_link = 6.628, defl = 0.500
+ 
+Inputs: h = 0.0282 m, theta = 54.14 deg, diam_base = 0.0971.
+Outputs: m = 284.49, GCI = -0.5681, T = 0.85, F = 21.5, m_act = 90.0, m_link = 4.831, defl = 0.500
+ 
+Inputs: h = 0.0216 m, theta = 138.64 deg, diam_base = 0.0987.
+Outputs: m = 136.17, GCI = -0.5609, T = 0.05, F = 18.6, m_act = 41.0, m_link = 4.390, defl = 0.500
+ 
+Inputs: h = 0.0421 m, theta = 136.25 deg, diam_base = 0.1134.
+Outputs: m = 143.98, GCI = -0.6598, T = 0.77, F = 27.5, m_act = 41.0, m_link = 6.994, defl = 0.500
+ 
+Inputs: h = 0.0263 m, theta = 47.44 deg, diam_base = 0.0973.
+Outputs: m = 137.01, GCI = -0.6315, T = 0.65, F = 20.4, m_act = 41.0, m_link = 4.670, defl = 0.500
+ 
+Inputs: h = 0.0342 m, theta = 48.24 deg, diam_base = 0.0950.
+Outputs: m = 337.81, GCI = -0.7194, T = 1.60, F = 28.9, m_act = 107.0, m_link = 5.602, defl = 0.500
+ 
+Inputs: h = 0.0394 m, theta = 43.68 deg, diam_base = 0.1206.
+Outputs: m = 289.93, GCI = -0.7514, T = 1.02, F = 21.9, m_act = 90.0, m_link = 6.645, defl = 0.500
+ 
+Inputs: h = 0.0268 m, theta = 47.94 deg, diam_base = 0.0965.
+Outputs: m = 137.07, GCI = -0.6376, T = 0.73, F = 20.8, m_act = 41.0, m_link = 4.691, defl = 0.500
+ 
+Inputs: h = 0.0385 m, theta = 42.61 deg, diam_base = 0.1180.
+Outputs: m = 289.42, GCI = -0.7356, T = 1.05, F = 22.1, m_act = 90.0, m_link = 6.473, defl = 0.500
+ 
+Inputs: h = 0.0215 m, theta = 144.81 deg, diam_base = 0.1003.
+Outputs: m = 136.32, GCI = -0.5891, T = 0.02, F = 18.4, m_act = 41.0, m_link = 4.442, defl = 0.500
+ 
+Inputs: h = 0.0270 m, theta = 48.96 deg, diam_base = 0.0969.
+Outputs: m = 137.16, GCI = -0.5271, T = 0.74, F = 20.8, m_act = 41.0, m_link = 4.721, defl = 0.500
+ 
+Inputs: h = 0.0154 m, theta = 30.00 deg, diam_base = 0.0992.
+Outputs: m = 135.39, GCI = -0.4451, T = 0.44, F = 17.5, m_act = 41.0, m_link = 4.129, defl = 0.500
+ 
+Inputs: h = 0.0443 m, theta = 36.65 deg, diam_base = 0.1016.
+Outputs: m = 346.00, GCI = -0.9106, T = 1.87, F = 56.1, m_act = 107.0, m_link = 8.335, defl = 0.500
+ 
+Inputs: h = 0.0282 m, theta = 49.39 deg, diam_base = 0.0966.
+Outputs: m = 284.45, GCI = -0.6569, T = 0.88, F = 21.6, m_act = 90.0, m_link = 4.818, defl = 0.500
+ 
+Inputs: h = 0.0395 m, theta = 43.60 deg, diam_base = 0.1201.
+Outputs: m = 289.94, GCI = -0.7505, T = 1.06, F = 22.1, m_act = 90.0, m_link = 6.645, defl = 0.500
+ 
+Inputs: h = 0.0381 m, theta = 42.85 deg, diam_base = 0.1196.
+Outputs: m = 289.38, GCI = -0.7400, T = 0.94, F = 21.4, m_act = 90.0, m_link = 6.462, defl = 0.500
+ 
+Inputs: h = 0.0701 m, theta = 112.90 deg, diam_base = 0.1093.
+Outputs: m = 615.40, GCI = -0.8849, T = 5.01, F = 31.9, m_act = 195.0, m_link = 10.133, defl = 0.500
+ 
+Inputs: h = 0.0124 m, theta = 30.00 deg, diam_base = 0.0992.
+Outputs: m = 135.10, GCI = -0.3476, T = 0.68, F = 17.1, m_act = 41.0, m_link = 4.033, defl = 0.500
+ 
+Inputs: h = 0.0280 m, theta = 53.52 deg, diam_base = 0.0966.
+Outputs: m = 284.40, GCI = -0.5595, T = 0.85, F = 21.5, m_act = 90.0, m_link = 4.800, defl = 0.500
+ 
+Inputs: h = 0.0392 m, theta = 129.95 deg, diam_base = 0.1142.
+Outputs: m = 142.47, GCI = -0.7497, T = 0.65, F = 23.9, m_act = 41.0, m_link = 6.491, defl = 0.500
+ 
+Inputs: h = 0.0216 m, theta = 145.06 deg, diam_base = 0.0988.
+Outputs: m = 136.18, GCI = -0.5854, T = 0.04, F = 18.6, m_act = 41.0, m_link = 4.394, defl = 0.500
+ 
+Inputs: h = 0.0280 m, theta = 49.18 deg, diam_base = 0.0970.
+Outputs: m = 284.44, GCI = -0.6532, T = 0.84, F = 21.4, m_act = 90.0, m_link = 4.812, defl = 0.500
+ 
+Inputs: h = 0.0381 m, theta = 42.87 deg, diam_base = 0.1196.
+Outputs: m = 289.39, GCI = -0.7402, T = 0.94, F = 21.4, m_act = 90.0, m_link = 6.463, defl = 0.500
+ 
+Inputs: h = 0.0385 m, theta = 43.49 deg, diam_base = 0.1202.
+Outputs: m = 289.57, GCI = -0.7481, T = 0.95, F = 21.5, m_act = 90.0, m_link = 6.523, defl = 0.500
+ 
+Completed 3 generations!
+Inputs: h = 0.0858 m, theta = 74.87 deg, diam_base = 0.1172.
+Outputs: m = 619.70, GCI = -0.7949, T = 3.44, F = 23.4, m_act = 195.0, m_link = 11.566, defl = 0.500
+ 
+Inputs: h = 0.0282 m, theta = 48.08 deg, diam_base = 0.0970.
+Outputs: m = 284.48, GCI = -0.6540, T = 0.86, F = 21.5, m_act = 90.0, m_link = 4.828, defl = 0.500
+ 
+Inputs: h = 0.0287 m, theta = 48.07 deg, diam_base = 0.0950.
+Outputs: m = 284.50, GCI = -0.7069, T = 1.00, F = 22.4, m_act = 90.0, m_link = 4.835, defl = 0.500
+ 
+Inputs: h = 0.0151 m, theta = 30.13 deg, diam_base = 0.0991.
+Outputs: m = 135.35, GCI = -0.4493, T = 0.46, F = 17.4, m_act = 41.0, m_link = 4.115, defl = 0.500
+ 
+Inputs: h = 0.0193 m, theta = 30.28 deg, diam_base = 0.0994.
+Outputs: m = 135.89, GCI = -0.4562, T = 0.11, F = 18.0, m_act = 41.0, m_link = 4.295, defl = 0.500
+ 
+Inputs: h = 0.0835 m, theta = 74.44 deg, diam_base = 0.1173.
+Outputs: m = 619.22, GCI = -0.8351, T = 3.47, F = 24.3, m_act = 195.0, m_link = 11.407, defl = 0.500
+ 
+Inputs: h = 0.0218 m, theta = 148.55 deg, diam_base = 0.0990.
+Outputs: m = 136.25, GCI = -0.5690, T = 0.04, F = 18.6, m_act = 41.0, m_link = 4.415, defl = 0.500
+ 
+Inputs: h = 0.0871 m, theta = 73.08 deg, diam_base = 0.1175.
+Outputs: m = 620.11, GCI = -0.9089, T = 3.34, F = 23.0, m_act = 195.0, m_link = 11.703, defl = 0.500
+ 
+Inputs: h = 0.0164 m, theta = 30.00 deg, diam_base = 0.0994.
+Outputs: m = 135.52, GCI = -0.5068, T = 0.37, F = 17.6, m_act = 41.0, m_link = 4.175, defl = 0.500
+ 
+Inputs: h = 0.0670 m, theta = 32.26 deg, diam_base = 0.1039.
+Outputs: m = 349.60, GCI = -0.8842, T = 1.71, F = 32.6, m_act = 107.0, m_link = 9.532, defl = 0.500
+ 
+Inputs: h = 0.0266 m, theta = 48.18 deg, diam_base = 0.0990.
+Outputs: m = 137.23, GCI = -0.5130, T = 0.61, F = 20.2, m_act = 41.0, m_link = 4.744, defl = 0.500
+ 
+Inputs: h = 0.0377 m, theta = 43.31 deg, diam_base = 0.1194.
+Outputs: m = 289.22, GCI = -0.7450, T = 0.90, F = 21.2, m_act = 90.0, m_link = 6.406, defl = 0.500
+ 
+Inputs: h = 0.0374 m, theta = 43.21 deg, diam_base = 0.1184.
+Outputs: m = 289.03, GCI = -0.7439, T = 0.91, F = 21.3, m_act = 90.0, m_link = 6.342, defl = 0.500
+ 
+Inputs: h = 0.0178 m, theta = 37.95 deg, diam_base = 0.1005.
+Outputs: m = 135.82, GCI = -0.4565, T = 0.27, F = 17.7, m_act = 41.0, m_link = 4.274, defl = 0.500
+ 
+Inputs: h = 0.0267 m, theta = 48.01 deg, diam_base = 0.0953.
+Outputs: m = 136.96, GCI = -0.6412, T = 0.78, F = 21.1, m_act = 41.0, m_link = 4.654, defl = 0.500
+ 
+Inputs: h = 0.0397 m, theta = 43.90 deg, diam_base = 0.1203.
+Outputs: m = 290.01, GCI = -0.7545, T = 1.06, F = 22.1, m_act = 90.0, m_link = 6.670, defl = 0.500
+ 
+Inputs: h = 0.0443 m, theta = 36.64 deg, diam_base = 0.1016.
+Outputs: m = 346.02, GCI = -0.9104, T = 1.87, F = 56.2, m_act = 107.0, m_link = 8.340, defl = 0.500
+ 
+Inputs: h = 0.0268 m, theta = 48.16 deg, diam_base = 0.0978.
+Outputs: m = 137.16, GCI = -0.6691, T = 0.68, F = 20.5, m_act = 41.0, m_link = 4.719, defl = 0.500
+ 
+Inputs: h = 0.0451 m, theta = 36.77 deg, diam_base = 0.1017.
+Outputs: m = 347.44, GCI = -0.9082, T = 1.89, F = 63.5, m_act = 107.0, m_link = 8.814, defl = 0.500
+ 
+Inputs: h = 0.0259 m, theta = 48.03 deg, diam_base = 0.0976.
+Outputs: m = 136.95, GCI = -0.5364, T = 0.60, F = 20.2, m_act = 41.0, m_link = 4.650, defl = 0.500
+ 
+Inputs: h = 0.0694 m, theta = 32.11 deg, diam_base = 0.1036.
+Outputs: m = 349.51, GCI = -0.8671, T = 1.69, F = 29.6, m_act = 107.0, m_link = 9.502, defl = 0.500
+ 
+Inputs: h = 0.0377 m, theta = 43.47 deg, diam_base = 0.1208.
+Outputs: m = 289.35, GCI = -0.7454, T = 0.84, F = 20.9, m_act = 90.0, m_link = 6.449, defl = 0.500
+ 
+Inputs: h = 0.0137 m, theta = 30.83 deg, diam_base = 0.0992.
+Outputs: m = 135.21, GCI = -0.4051, T = 0.58, F = 17.3, m_act = 41.0, m_link = 4.069, defl = 0.500
+ 
+Inputs: h = 0.0705 m, theta = 32.27 deg, diam_base = 0.1038.
+Outputs: m = 349.65, GCI = -0.8631, T = 1.68, F = 28.6, m_act = 107.0, m_link = 9.551, defl = 0.500
+ 
+Inputs: h = 0.0494 m, theta = 74.72 deg, diam_base = 0.1250.
+Outputs: m = 346.50, GCI = -0.6855, T = 1.79, F = 30.3, m_act = 107.0, m_link = 8.501, defl = 0.500
+ 
+Inputs: h = 0.0266 m, theta = 47.72 deg, diam_base = 0.0966.
+Outputs: m = 137.01, GCI = -0.6340, T = 0.71, F = 20.7, m_act = 41.0, m_link = 4.671, defl = 0.500
+ 
+Inputs: h = 0.0449 m, theta = 37.88 deg, diam_base = 0.1014.
+Outputs: m = 347.16, GCI = -0.9200, T = 1.93, F = 62.9, m_act = 107.0, m_link = 8.721, defl = 0.500
+ 
+Inputs: h = 0.0443 m, theta = 36.66 deg, diam_base = 0.1016.
+Outputs: m = 346.00, GCI = -0.9107, T = 1.87, F = 56.0, m_act = 107.0, m_link = 8.332, defl = 0.500
+ 
+Inputs: h = 0.0446 m, theta = 37.37 deg, diam_base = 0.1014.
+Outputs: m = 346.67, GCI = -0.9162, T = 1.91, F = 60.2, m_act = 107.0, m_link = 8.557, defl = 0.500
+ 
+Inputs: h = 0.0280 m, theta = 48.41 deg, diam_base = 0.0955.
+Outputs: m = 284.34, GCI = -0.6989, T = 0.91, F = 21.8, m_act = 90.0, m_link = 4.780, defl = 0.500
+ 
+Inputs: h = 0.0443 m, theta = 36.86 deg, diam_base = 0.1015.
+Outputs: m = 345.98, GCI = -0.9128, T = 1.87, F = 56.1, m_act = 107.0, m_link = 8.327, defl = 0.500
+ 
+Inputs: h = 0.0154 m, theta = 30.00 deg, diam_base = 0.0992.
+Outputs: m = 135.39, GCI = -0.4449, T = 0.44, F = 17.5, m_act = 41.0, m_link = 4.130, defl = 0.500
+ 
+Inputs: h = 0.0139 m, theta = 30.00 deg, diam_base = 0.0996.
+Outputs: m = 135.29, GCI = -0.4155, T = 0.57, F = 17.3, m_act = 41.0, m_link = 4.095, defl = 0.500
+ 
+Inputs: h = 0.0166 m, theta = 37.97 deg, diam_base = 0.1002.
+Outputs: m = 135.64, GCI = -0.4092, T = 0.36, F = 17.6, m_act = 41.0, m_link = 4.212, defl = 0.500
+ 
+Inputs: h = 0.0761 m, theta = 98.69 deg, diam_base = 0.1010.
+Outputs: m = 613.88, GCI = -0.8253, T = 4.39, F = 24.2, m_act = 195.0, m_link = 9.628, defl = 0.500
+ 
+Inputs: h = 0.0139 m, theta = 30.00 deg, diam_base = 0.0997.
+Outputs: m = 135.29, GCI = -0.4144, T = 0.58, F = 17.3, m_act = 41.0, m_link = 4.097, defl = 0.500
+ 
+Inputs: h = 0.0117 m, theta = 30.00 deg, diam_base = 0.0989.
+Outputs: m = 135.01, GCI = -0.2806, T = 0.72, F = 17.1, m_act = 41.0, m_link = 4.005, defl = 0.500
+ 
+Inputs: h = 0.0139 m, theta = 30.24 deg, diam_base = 0.0991.
+Outputs: m = 135.22, GCI = -0.4157, T = 0.57, F = 17.3, m_act = 41.0, m_link = 4.074, defl = 0.500
+ 
+Inputs: h = 0.0270 m, theta = 48.22 deg, diam_base = 0.0977.
+Outputs: m = 137.22, GCI = -0.6358, T = 0.71, F = 20.7, m_act = 41.0, m_link = 4.740, defl = 0.500
+ 
+Inputs: h = 0.0215 m, theta = 143.07 deg, diam_base = 0.0987.
+Outputs: m = 136.15, GCI = -0.6101, T = 0.04, F = 18.6, m_act = 41.0, m_link = 4.385, defl = 0.500
+ 
+Inputs: h = 0.0148 m, theta = 30.00 deg, diam_base = 0.0992.
+Outputs: m = 135.32, GCI = -0.3941, T = 0.50, F = 17.4, m_act = 41.0, m_link = 4.108, defl = 0.500
+ 
+Inputs: h = 0.0221 m, theta = 150.00 deg, diam_base = 0.0989.
+Outputs: m = 136.28, GCI = -0.6322, T = 0.05, F = 18.7, m_act = 41.0, m_link = 4.428, defl = 0.500
+ 
+Inputs: h = 0.0265 m, theta = 43.73 deg, diam_base = 0.0966.
+Outputs: m = 137.00, GCI = -0.6181, T = 0.71, F = 20.7, m_act = 41.0, m_link = 4.668, defl = 0.500
+ 
+Inputs: h = 0.0214 m, theta = 137.62 deg, diam_base = 0.0988.
+Outputs: m = 136.15, GCI = -0.5563, T = 0.04, F = 18.5, m_act = 41.0, m_link = 4.383, defl = 0.500
+ 
+Inputs: h = 0.0445 m, theta = 37.67 deg, diam_base = 0.1016.
+Outputs: m = 346.27, GCI = -0.9202, T = 1.91, F = 57.6, m_act = 107.0, m_link = 8.424, defl = 0.500
+ 
+Inputs: h = 0.0158 m, theta = 30.00 deg, diam_base = 0.0991.
+Outputs: m = 135.41, GCI = -0.5001, T = 0.41, F = 17.5, m_act = 41.0, m_link = 4.137, defl = 0.500
+ 
+Inputs: h = 0.0146 m, theta = 30.88 deg, diam_base = 0.0992.
+Outputs: m = 135.31, GCI = -0.4400, T = 0.51, F = 17.4, m_act = 41.0, m_link = 4.102, defl = 0.500
+ 
+Inputs: h = 0.0147 m, theta = 30.86 deg, diam_base = 0.0992.
+Outputs: m = 135.32, GCI = -0.4441, T = 0.50, F = 17.4, m_act = 41.0, m_link = 4.106, defl = 0.500
+ 
+Inputs: h = 0.0154 m, theta = 30.01 deg, diam_base = 0.0992.
+Outputs: m = 135.38, GCI = -0.4461, T = 0.45, F = 17.5, m_act = 41.0, m_link = 4.127, defl = 0.500
+ 
+Inputs: h = 0.0216 m, theta = 137.50 deg, diam_base = 0.0986.
+Outputs: m = 136.17, GCI = -0.5622, T = 0.05, F = 18.6, m_act = 41.0, m_link = 4.390, defl = 0.500
+ 
+Inputs: h = 0.0268 m, theta = 49.37 deg, diam_base = 0.0966.
+Outputs: m = 137.08, GCI = -0.5351, T = 0.73, F = 20.8, m_act = 41.0, m_link = 4.692, defl = 0.500
+ 
+Inputs: h = 0.0135 m, theta = 30.37 deg, diam_base = 0.0990.
+Outputs: m = 135.18, GCI = -0.4028, T = 0.59, F = 17.3, m_act = 41.0, m_link = 4.060, defl = 0.500
+ 
+Inputs: h = 0.0274 m, theta = 47.87 deg, diam_base = 0.0966.
+Outputs: m = 137.23, GCI = -0.6450, T = 0.79, F = 21.1, m_act = 41.0, m_link = 4.745, defl = 0.500
+ 
+Inputs: h = 0.0278 m, theta = 48.35 deg, diam_base = 0.0950.
+Outputs: m = 284.23, GCI = -0.6565, T = 0.90, F = 21.8, m_act = 90.0, m_link = 4.742, defl = 0.500
+ 
+Inputs: h = 0.0446 m, theta = 36.50 deg, diam_base = 0.1017.
+Outputs: m = 346.51, GCI = -0.9074, T = 1.87, F = 58.8, m_act = 107.0, m_link = 8.504, defl = 0.500
+ 
+Inputs: h = 0.0215 m, theta = 136.55 deg, diam_base = 0.0987.
+Outputs: m = 136.17, GCI = -0.5574, T = 0.05, F = 18.6, m_act = 41.0, m_link = 4.389, defl = 0.500
+ 
+Inputs: h = 0.0157 m, theta = 32.09 deg, diam_base = 0.0991.
+Outputs: m = 135.41, GCI = -0.4766, T = 0.41, F = 17.5, m_act = 41.0, m_link = 4.135, defl = 0.500
+ 
+Inputs: h = 0.0457 m, theta = 37.59 deg, diam_base = 0.1014.
+Outputs: m = 349.50, GCI = -0.9138, T = 1.94, F = 72.8, m_act = 107.0, m_link = 9.500, defl = 0.500
+ 
+Inputs: h = 0.0123 m, theta = 30.18 deg, diam_base = 0.0993.
+Outputs: m = 135.10, GCI = -0.3412, T = 0.69, F = 17.1, m_act = 41.0, m_link = 4.034, defl = 0.500
+ 
+Inputs: h = 0.1000 m, theta = 30.00 deg, diam_base = 0.0950.
+Outputs: m = 305.98, GCI = -0.6266, T = 1.38, F = 19.3, m_act = 90.0, m_link = 11.993, defl = 0.500
+ 
+Inputs: h = 0.0448 m, theta = 36.55 deg, diam_base = 0.1016.
+Outputs: m = 346.86, GCI = -0.9069, T = 1.88, F = 60.8, m_act = 107.0, m_link = 8.620, defl = 0.500
+ 
+Inputs: h = 0.0142 m, theta = 30.98 deg, diam_base = 0.0992.
+Outputs: m = 135.26, GCI = -0.4235, T = 0.54, F = 17.3, m_act = 41.0, m_link = 4.088, defl = 0.500
+ 
+Inputs: h = 0.0437 m, theta = 36.85 deg, diam_base = 0.1017.
+Outputs: m = 345.08, GCI = -0.9154, T = 1.85, F = 51.1, m_act = 107.0, m_link = 8.028, defl = 0.500
+ 
+Inputs: h = 0.0375 m, theta = 42.73 deg, diam_base = 0.1203.
+Outputs: m = 289.24, GCI = -0.7376, T = 0.84, F = 21.0, m_act = 90.0, m_link = 6.414, defl = 0.500
+ 
+Inputs: h = 0.0290 m, theta = 48.48 deg, diam_base = 0.0950.
+Outputs: m = 284.61, GCI = -0.7123, T = 1.04, F = 22.7, m_act = 90.0, m_link = 4.870, defl = 0.500
+ 
+Inputs: h = 0.0129 m, theta = 30.13 deg, diam_base = 0.1000.
+Outputs: m = 135.24, GCI = -0.3693, T = 0.66, F = 17.2, m_act = 41.0, m_link = 4.081, defl = 0.500
+ 
+Inputs: h = 0.0216 m, theta = 138.59 deg, diam_base = 0.0987.
+Outputs: m = 136.18, GCI = -0.5618, T = 0.05, F = 18.6, m_act = 41.0, m_link = 4.393, defl = 0.500
+ 
+Inputs: h = 0.0154 m, theta = 30.05 deg, diam_base = 0.0992.
+Outputs: m = 135.38, GCI = -0.4480, T = 0.45, F = 17.5, m_act = 41.0, m_link = 4.127, defl = 0.500
+ 
+Inputs: h = 0.0270 m, theta = 48.20 deg, diam_base = 0.0964.
+Outputs: m = 137.10, GCI = -0.6407, T = 0.76, F = 20.9, m_act = 41.0, m_link = 4.701, defl = 0.500
+ 
+Inputs: h = 0.0138 m, theta = 30.03 deg, diam_base = 0.0998.
+Outputs: m = 135.30, GCI = -0.4103, T = 0.59, F = 17.3, m_act = 41.0, m_link = 4.099, defl = 0.500
+ 
+Inputs: h = 0.0153 m, theta = 30.00 deg, diam_base = 0.0990.
+Outputs: m = 135.35, GCI = -0.4456, T = 0.44, F = 17.5, m_act = 41.0, m_link = 4.116, defl = 0.500
+ 
+Inputs: h = 0.0745 m, theta = 100.15 deg, diam_base = 0.1013.
+Outputs: m = 613.60, GCI = -0.8674, T = 4.50, F = 25.1, m_act = 195.0, m_link = 9.533, defl = 0.500
+ 
+Inputs: h = 0.0866 m, theta = 75.13 deg, diam_base = 0.1185.
+Outputs: m = 620.22, GCI = -0.8013, T = 3.43, F = 23.3, m_act = 195.0, m_link = 11.740, defl = 0.500
+ 
+Inputs: h = 0.0756 m, theta = 98.61 deg, diam_base = 0.1002.
+Outputs: m = 613.58, GCI = -0.8254, T = 4.39, F = 24.3, m_act = 195.0, m_link = 9.528, defl = 0.500
+ 
+Completed 4 generations!
+    Restarting model to clean up...
+ 
+Inputs: h = 0.0440 m, theta = 37.71 deg, diam_base = 0.1016.
+Outputs: m = 345.50, GCI = -0.9223, T = 1.89, F = 53.4, m_act = 107.0, m_link = 8.167, defl = 0.500
+ 
+Inputs: h = 0.0219 m, theta = 137.59 deg, diam_base = 0.0987.
+Outputs: m = 136.23, GCI = -0.5683, T = 0.06, F = 18.7, m_act = 41.0, m_link = 4.409, defl = 0.500
+ 
+Inputs: h = 0.0100 m, theta = 43.30 deg, diam_base = 0.1250.
+Outputs: m = 285.44, GCI = -0.1250, T = 1.11, F = 16.8, m_act = 90.0, m_link = 5.145, defl = 0.500
+ 
+Inputs: h = 0.0407 m, theta = 41.88 deg, diam_base = 0.1203.
+Outputs: m = 290.45, GCI = -0.7100, T = 1.17, F = 22.8, m_act = 90.0, m_link = 6.818, defl = 0.500
+ 
+Inputs: h = 0.0113 m, theta = 32.02 deg, diam_base = 0.0992.
+Outputs: m = 135.01, GCI = -0.2519, T = 0.76, F = 17.1, m_act = 41.0, m_link = 4.004, defl = 0.500
+ 
+Inputs: h = 0.0215 m, theta = 150.00 deg, diam_base = 0.0990.
+Outputs: m = 136.18, GCI = -0.6468, T = 0.03, F = 18.5, m_act = 41.0, m_link = 4.394, defl = 0.500
+ 
+Inputs: h = 0.0374 m, theta = 42.24 deg, diam_base = 0.1183.
+Outputs: m = 289.04, GCI = -0.7311, T = 0.93, F = 21.4, m_act = 90.0, m_link = 6.347, defl = 0.500
+ 
+Inputs: h = 0.0397 m, theta = 142.61 deg, diam_base = 0.1139.
+Outputs: m = 142.69, GCI = -0.7600, T = 0.52, F = 24.4, m_act = 41.0, m_link = 6.565, defl = 0.500
+ 
+Inputs: h = 0.0442 m, theta = 30.00 deg, diam_base = 0.1012.
+Outputs: m = 346.09, GCI = -0.7407, T = 1.61, F = 57.3, m_act = 107.0, m_link = 8.362, defl = 0.500
+ 
+Inputs: h = 0.0138 m, theta = 30.00 deg, diam_base = 0.0992.
+Outputs: m = 135.22, GCI = -0.4140, T = 0.57, F = 17.3, m_act = 41.0, m_link = 4.074, defl = 0.500
+ 
+Inputs: h = 0.0214 m, theta = 140.58 deg, diam_base = 0.0987.
+Outputs: m = 136.14, GCI = -0.5479, T = 0.04, F = 18.5, m_act = 41.0, m_link = 4.381, defl = 0.500
+ 
+Inputs: h = 0.0100 m, theta = 30.00 deg, diam_base = 0.1250.
+Outputs: m = 285.44, GCI = -0.1686, T = 1.07, F = 16.8, m_act = 90.0, m_link = 5.145, defl = 0.500
+ 
+Inputs: h = 0.0362 m, theta = 43.33 deg, diam_base = 0.1188.
+Outputs: m = 141.69, GCI = -0.7409, T = 0.78, F = 20.7, m_act = 41.0, m_link = 6.229, defl = 0.500
+ 
+Inputs: h = 0.0175 m, theta = 30.00 deg, diam_base = 0.0991.
+Outputs: m = 135.62, GCI = -0.5055, T = 0.26, F = 17.8, m_act = 41.0, m_link = 4.205, defl = 0.500
+ 
+Inputs: h = 0.0441 m, theta = 36.33 deg, diam_base = 0.1017.
+Outputs: m = 345.61, GCI = -0.9082, T = 1.85, F = 53.9, m_act = 107.0, m_link = 8.202, defl = 0.500
+ 
+Inputs: h = 0.0166 m, theta = 30.33 deg, diam_base = 0.0994.
+Outputs: m = 135.55, GCI = -0.5156, T = 0.35, F = 17.6, m_act = 41.0, m_link = 4.182, defl = 0.500
+ 
+Inputs: h = 0.0133 m, theta = 30.00 deg, diam_base = 0.0992.
+Outputs: m = 135.17, GCI = -0.3923, T = 0.61, F = 17.2, m_act = 41.0, m_link = 4.056, defl = 0.500
+ 
+Inputs: h = 0.0220 m, theta = 137.64 deg, diam_base = 0.0987.
+Outputs: m = 136.24, GCI = -0.5700, T = 0.06, F = 18.7, m_act = 41.0, m_link = 4.414, defl = 0.500
+ 
+Inputs: h = 0.0152 m, theta = 30.16 deg, diam_base = 0.0992.
+Outputs: m = 135.37, GCI = -0.4511, T = 0.46, F = 17.4, m_act = 41.0, m_link = 4.122, defl = 0.500
+ 
+Inputs: h = 0.0136 m, theta = 30.39 deg, diam_base = 0.0990.
+Outputs: m = 135.18, GCI = -0.4030, T = 0.59, F = 17.3, m_act = 41.0, m_link = 4.060, defl = 0.500
+ 
+Inputs: h = 0.0365 m, theta = 43.00 deg, diam_base = 0.1199.
+Outputs: m = 141.88, GCI = -0.7378, T = 0.76, F = 20.6, m_act = 41.0, m_link = 6.292, defl = 0.500
+ 
+Inputs: h = 0.0374 m, theta = 43.21 deg, diam_base = 0.1184.
+Outputs: m = 289.03, GCI = -0.7439, T = 0.91, F = 21.3, m_act = 90.0, m_link = 6.343, defl = 0.500
+ 
+Inputs: h = 0.0365 m, theta = 42.97 deg, diam_base = 0.1200.
+Outputs: m = 141.89, GCI = -0.7376, T = 0.76, F = 20.6, m_act = 41.0, m_link = 6.295, defl = 0.500
+ 
+Inputs: h = 0.0396 m, theta = 43.93 deg, diam_base = 0.1203.
+Outputs: m = 290.00, GCI = -0.7548, T = 1.06, F = 22.1, m_act = 90.0, m_link = 6.667, defl = 0.500
+ 
+Inputs: h = 0.0459 m, theta = 33.98 deg, diam_base = 0.1013.
+Outputs: m = 350.40, GCI = -0.8560, T = 1.81, F = 76.9, m_act = 107.0, m_link = 9.799, defl = 0.500
+ 
+Inputs: h = 0.0203 m, theta = 150.00 deg, diam_base = 0.0989.
+Outputs: m = 135.98, GCI = -0.6523, T = 0.00, F = 18.3, m_act = 41.0, m_link = 4.326, defl = 0.500
+ 
+Inputs: h = 0.0382 m, theta = 137.43 deg, diam_base = 0.1133.
+Outputs: m = 142.00, GCI = -0.7302, T = 0.52, F = 23.3, m_act = 41.0, m_link = 6.332, defl = 0.500
+ 
+Inputs: h = 0.0135 m, theta = 30.00 deg, diam_base = 0.0995.
+Outputs: m = 135.24, GCI = -0.4014, T = 0.60, F = 17.2, m_act = 41.0, m_link = 4.079, defl = 0.500
+ 
+Inputs: h = 0.0219 m, theta = 150.00 deg, diam_base = 0.0987.
+Outputs: m = 136.23, GCI = -0.6367, T = 0.04, F = 18.7, m_act = 41.0, m_link = 4.412, defl = 0.500
+ 
+Inputs: h = 0.0444 m, theta = 30.00 deg, diam_base = 0.1014.
+Outputs: m = 346.35, GCI = -0.7380, T = 1.61, F = 58.4, m_act = 107.0, m_link = 8.449, defl = 0.500
+ 
+Inputs: h = 0.0399 m, theta = 135.26 deg, diam_base = 0.1121.
+Outputs: m = 142.75, GCI = -0.7363, T = 0.68, F = 25.5, m_act = 41.0, m_link = 6.582, defl = 0.500
+ 
+Inputs: h = 0.0209 m, theta = 143.06 deg, diam_base = 0.1003.
+Outputs: m = 136.23, GCI = -0.5613, T = 0.00, F = 18.3, m_act = 41.0, m_link = 4.410, defl = 0.500
+ 
+Inputs: h = 0.0367 m, theta = 42.70 deg, diam_base = 0.1210.
+Outputs: m = 142.03, GCI = -0.7345, T = 0.73, F = 20.5, m_act = 41.0, m_link = 6.343, defl = 0.500
+ 
+Inputs: h = 0.0155 m, theta = 30.40 deg, diam_base = 0.0986.
+Outputs: m = 135.33, GCI = -0.4606, T = 0.42, F = 17.5, m_act = 41.0, m_link = 4.109, defl = 0.500
+ 
+Inputs: h = 0.0396 m, theta = 43.93 deg, diam_base = 0.1205.
+Outputs: m = 290.00, GCI = -0.7547, T = 1.05, F = 22.0, m_act = 90.0, m_link = 6.667, defl = 0.500
+ 
+Inputs: h = 0.0374 m, theta = 43.18 deg, diam_base = 0.1182.
+Outputs: m = 289.03, GCI = -0.7438, T = 0.92, F = 21.4, m_act = 90.0, m_link = 6.344, defl = 0.500
+ 
+Inputs: h = 0.0368 m, theta = 42.90 deg, diam_base = 0.1204.
+Outputs: m = 142.02, GCI = -0.7375, T = 0.77, F = 20.6, m_act = 41.0, m_link = 6.341, defl = 0.500
+ 
+Inputs: h = 0.0398 m, theta = 43.93 deg, diam_base = 0.1203.
+Outputs: m = 290.05, GCI = -0.7549, T = 1.07, F = 22.2, m_act = 90.0, m_link = 6.684, defl = 0.500
+ 
+Inputs: h = 0.0210 m, theta = 141.43 deg, diam_base = 0.0987.
+Outputs: m = 136.08, GCI = -0.5277, T = 0.03, F = 18.5, m_act = 41.0, m_link = 4.361, defl = 0.500
+ 
+Inputs: h = 0.0156 m, theta = 31.77 deg, diam_base = 0.0991.
+Outputs: m = 135.39, GCI = -0.4704, T = 0.43, F = 17.5, m_act = 41.0, m_link = 4.132, defl = 0.500
+ 
+Inputs: h = 0.0218 m, theta = 142.45 deg, diam_base = 0.0987.
+Outputs: m = 136.21, GCI = -0.6216, T = 0.05, F = 18.6, m_act = 41.0, m_link = 4.403, defl = 0.500
+ 
+Inputs: h = 0.0132 m, theta = 31.00 deg, diam_base = 0.0990.
+Outputs: m = 135.15, GCI = -0.3830, T = 0.61, F = 17.2, m_act = 41.0, m_link = 4.050, defl = 0.500
+ 
+Inputs: h = 0.0393 m, theta = 134.12 deg, diam_base = 0.1137.
+Outputs: m = 142.50, GCI = -0.7008, T = 0.62, F = 24.2, m_act = 41.0, m_link = 6.501, defl = 0.500
+ 
+Inputs: h = 0.0381 m, theta = 44.37 deg, diam_base = 0.1225.
+Outputs: m = 142.64, GCI = -0.6160, T = 0.81, F = 20.8, m_act = 41.0, m_link = 6.547, defl = 0.500
+ 
+Inputs: h = 0.0369 m, theta = 42.92 deg, diam_base = 0.1205.
+Outputs: m = 142.05, GCI = -0.7379, T = 0.78, F = 20.7, m_act = 41.0, m_link = 6.349, defl = 0.500
+ 
+Inputs: h = 0.0397 m, theta = 43.91 deg, diam_base = 0.1203.
+Outputs: m = 290.02, GCI = -0.7546, T = 1.07, F = 22.1, m_act = 90.0, m_link = 6.674, defl = 0.500
+ 
+Inputs: h = 0.0135 m, theta = 30.17 deg, diam_base = 0.0992.
+Outputs: m = 135.19, GCI = -0.4004, T = 0.60, F = 17.2, m_act = 41.0, m_link = 4.063, defl = 0.500
+ 
+Inputs: h = 0.0447 m, theta = 37.57 deg, diam_base = 0.1013.
+Outputs: m = 346.86, GCI = -0.9176, T = 1.92, F = 61.6, m_act = 107.0, m_link = 8.621, defl = 0.500
+ 
+Inputs: h = 0.0139 m, theta = 30.24 deg, diam_base = 0.0991.
+Outputs: m = 135.22, GCI = -0.4157, T = 0.57, F = 17.3, m_act = 41.0, m_link = 4.074, defl = 0.500
+ 
+Inputs: h = 0.0153 m, theta = 30.16 deg, diam_base = 0.0992.
+Outputs: m = 135.37, GCI = -0.4513, T = 0.46, F = 17.4, m_act = 41.0, m_link = 4.122, defl = 0.500
+ 
+Inputs: h = 0.0375 m, theta = 43.13 deg, diam_base = 0.1187.
+Outputs: m = 289.12, GCI = -0.7432, T = 0.92, F = 21.3, m_act = 90.0, m_link = 6.372, defl = 0.500
+ 
+Inputs: h = 0.0443 m, theta = 37.76 deg, diam_base = 0.1013.
+Outputs: m = 346.10, GCI = -0.9211, T = 1.91, F = 57.2, m_act = 107.0, m_link = 8.367, defl = 0.500
+ 
+Inputs: h = 0.0215 m, theta = 138.41 deg, diam_base = 0.0990.
+Outputs: m = 136.19, GCI = -0.5584, T = 0.04, F = 18.5, m_act = 41.0, m_link = 4.396, defl = 0.500
+ 
+Inputs: h = 0.0374 m, theta = 43.45 deg, diam_base = 0.1182.
+Outputs: m = 289.03, GCI = -0.7468, T = 0.93, F = 21.4, m_act = 90.0, m_link = 6.342, defl = 0.500
+ 
+Inputs: h = 0.0215 m, theta = 136.54 deg, diam_base = 0.0987.
+Outputs: m = 136.17, GCI = -0.5574, T = 0.05, F = 18.6, m_act = 41.0, m_link = 4.389, defl = 0.500
+ 
+Inputs: h = 0.0216 m, theta = 138.65 deg, diam_base = 0.0987.
+Outputs: m = 136.17, GCI = -0.5609, T = 0.05, F = 18.6, m_act = 41.0, m_link = 4.390, defl = 0.500
+ 
+Inputs: h = 0.0429 m, theta = 43.35 deg, diam_base = 0.1202.
+Outputs: m = 342.43, GCI = -0.7349, T = 1.38, F = 24.6, m_act = 107.0, m_link = 7.145, defl = 0.500
+ 
+Inputs: h = 0.0107 m, theta = 30.79 deg, diam_base = 0.0992.
+Outputs: m = 134.96, GCI = -0.2627, T = 0.81, F = 17.0, m_act = 41.0, m_link = 3.987, defl = 0.500
+ 
+Inputs: h = 0.0216 m, theta = 138.64 deg, diam_base = 0.0987.
+Outputs: m = 136.17, GCI = -0.5612, T = 0.05, F = 18.6, m_act = 41.0, m_link = 4.391, defl = 0.500
+ 
+Inputs: h = 0.0219 m, theta = 144.57 deg, diam_base = 0.0987.
+Outputs: m = 136.22, GCI = -0.5961, T = 0.05, F = 18.6, m_act = 41.0, m_link = 4.407, defl = 0.500
+ 
+Inputs: h = 0.0387 m, theta = 136.19 deg, diam_base = 0.1139.
+Outputs: m = 142.26, GCI = -0.7526, T = 0.55, F = 23.6, m_act = 41.0, m_link = 6.420, defl = 0.500
+ 
+Inputs: h = 0.0141 m, theta = 30.00 deg, diam_base = 0.0988.
+Outputs: m = 135.21, GCI = -0.4255, T = 0.54, F = 17.3, m_act = 41.0, m_link = 4.070, defl = 0.500
+ 
+Inputs: h = 0.0446 m, theta = 37.60 deg, diam_base = 0.1017.
+Outputs: m = 346.48, GCI = -0.9190, T = 1.91, F = 58.6, m_act = 107.0, m_link = 8.493, defl = 0.500
+ 
+Inputs: h = 0.0163 m, theta = 30.08 deg, diam_base = 0.0994.
+Outputs: m = 135.50, GCI = -0.5069, T = 0.38, F = 17.6, m_act = 41.0, m_link = 4.167, defl = 0.500
+ 
+Inputs: h = 0.0214 m, theta = 138.13 deg, diam_base = 0.0982.
+Outputs: m = 136.09, GCI = -0.5593, T = 0.05, F = 18.6, m_act = 41.0, m_link = 4.362, defl = 0.500
+ 
+Inputs: h = 0.0398 m, theta = 42.32 deg, diam_base = 0.1208.
+Outputs: m = 290.11, GCI = -0.7288, T = 1.06, F = 22.1, m_act = 90.0, m_link = 6.703, defl = 0.500
+ 
+Inputs: h = 0.0165 m, theta = 30.00 deg, diam_base = 0.0994.
+Outputs: m = 135.54, GCI = -0.5079, T = 0.35, F = 17.6, m_act = 41.0, m_link = 4.180, defl = 0.500
+ 
+Inputs: h = 0.0214 m, theta = 139.45 deg, diam_base = 0.0987.
+Outputs: m = 136.15, GCI = -0.5562, T = 0.04, F = 18.5, m_act = 41.0, m_link = 4.382, defl = 0.500
+ 
+Inputs: h = 0.0858 m, theta = 77.38 deg, diam_base = 0.1160.
+Outputs: m = 619.43, GCI = -0.8384, T = 3.52, F = 23.2, m_act = 195.0, m_link = 11.477, defl = 0.500
+ 
+Inputs: h = 0.0155 m, theta = 30.00 deg, diam_base = 0.1007.
+Outputs: m = 135.58, GCI = -0.4460, T = 0.47, F = 17.4, m_act = 41.0, m_link = 4.195, defl = 0.500
+ 
+Inputs: h = 0.0385 m, theta = 43.51 deg, diam_base = 0.1205.
+Outputs: m = 289.59, GCI = -0.7483, T = 0.94, F = 21.4, m_act = 90.0, m_link = 6.530, defl = 0.500
+ 
+Inputs: h = 0.0147 m, theta = 30.77 deg, diam_base = 0.0988.
+Outputs: m = 135.27, GCI = -0.4453, T = 0.49, F = 17.4, m_act = 41.0, m_link = 4.090, defl = 0.500
+ 
+Inputs: h = 0.0366 m, theta = 42.95 deg, diam_base = 0.1202.
+Outputs: m = 141.92, GCI = -0.7373, T = 0.76, F = 20.6, m_act = 41.0, m_link = 6.306, defl = 0.500
+ 
+Inputs: h = 0.0392 m, theta = 135.29 deg, diam_base = 0.1135.
+Outputs: m = 142.46, GCI = -0.7651, T = 0.60, F = 24.2, m_act = 41.0, m_link = 6.486, defl = 0.500
+ 
+Completed 5 generations!
+Inputs: h = 0.0119 m, theta = 30.00 deg, diam_base = 0.0989.
+Outputs: m = 135.03, GCI = -0.2875, T = 0.71, F = 17.1, m_act = 41.0, m_link = 4.009, defl = 0.500
+ 
+Inputs: h = 0.0156 m, theta = 30.00 deg, diam_base = 0.0991.
+Outputs: m = 135.39, GCI = -0.4393, T = 0.43, F = 17.5, m_act = 41.0, m_link = 4.129, defl = 0.500
+ 
+Inputs: h = 0.0366 m, theta = 42.71 deg, diam_base = 0.1204.
+Outputs: m = 141.97, GCI = -0.7352, T = 0.76, F = 20.6, m_act = 41.0, m_link = 6.324, defl = 0.500
+ 
+Inputs: h = 0.0164 m, theta = 30.29 deg, diam_base = 0.0990.
+Outputs: m = 135.47, GCI = -0.5130, T = 0.36, F = 17.6, m_act = 41.0, m_link = 4.156, defl = 0.500
+ 
+Inputs: h = 0.0132 m, theta = 30.91 deg, diam_base = 0.0992.
+Outputs: m = 135.18, GCI = -0.3827, T = 0.62, F = 17.2, m_act = 41.0, m_link = 4.058, defl = 0.500
+ 
+Inputs: h = 0.0135 m, theta = 30.12 deg, diam_base = 0.0950.
+Outputs: m = 134.70, GCI = -0.4234, T = 0.50, F = 17.4, m_act = 41.0, m_link = 3.901, defl = 0.500
+ 
+Inputs: h = 0.0857 m, theta = 74.19 deg, diam_base = 0.1174.
+Outputs: m = 619.74, GCI = -0.9208, T = 3.41, F = 23.4, m_act = 195.0, m_link = 11.580, defl = 0.500
+ 
+Inputs: h = 0.0369 m, theta = 43.30 deg, diam_base = 0.1202.
+Outputs: m = 142.04, GCI = -0.7419, T = 0.79, F = 20.7, m_act = 41.0, m_link = 6.348, defl = 0.500
+ 
+Inputs: h = 0.0878 m, theta = 73.86 deg, diam_base = 0.1173.
+Outputs: m = 620.27, GCI = -0.9109, T = 3.35, F = 22.7, m_act = 195.0, m_link = 11.755, defl = 0.500
+ 
+Inputs: h = 0.0123 m, theta = 30.87 deg, diam_base = 0.0994.
+Outputs: m = 135.11, GCI = -0.3324, T = 0.69, F = 17.1, m_act = 41.0, m_link = 4.038, defl = 0.500
+ 
+Inputs: h = 0.0165 m, theta = 30.00 deg, diam_base = 0.0994.
+Outputs: m = 135.53, GCI = -0.5076, T = 0.36, F = 17.6, m_act = 41.0, m_link = 4.178, defl = 0.500
+ 
+Inputs: h = 0.0142 m, theta = 30.33 deg, diam_base = 0.0991.
+Outputs: m = 135.25, GCI = -0.4267, T = 0.54, F = 17.3, m_act = 41.0, m_link = 4.084, defl = 0.500
+ 
+Inputs: h = 0.0141 m, theta = 30.31 deg, diam_base = 0.0991.
+Outputs: m = 135.25, GCI = -0.4244, T = 0.55, F = 17.3, m_act = 41.0, m_link = 4.082, defl = 0.500
+ 
+Inputs: h = 0.0155 m, theta = 30.40 deg, diam_base = 0.0986.
+Outputs: m = 135.33, GCI = -0.4606, T = 0.42, F = 17.5, m_act = 41.0, m_link = 4.110, defl = 0.500
+ 
+Inputs: h = 0.0403 m, theta = 127.33 deg, diam_base = 0.1145.
+Outputs: m = 142.98, GCI = -0.7354, T = 0.74, F = 24.7, m_act = 41.0, m_link = 6.661, defl = 0.500
+ 
+Inputs: h = 0.0192 m, theta = 150.00 deg, diam_base = 0.0986.
+Outputs: m = 135.78, GCI = -0.5904, T = 0.03, F = 18.1, m_act = 41.0, m_link = 4.261, defl = 0.500
+ 
+Inputs: h = 0.0100 m, theta = 138.13 deg, diam_base = 0.1250.
+Outputs: m = 138.44, GCI = -0.2328, T = 0.45, F = 16.8, m_act = 41.0, m_link = 5.145, defl = 0.500
+ 
+Inputs: h = 0.0202 m, theta = 148.57 deg, diam_base = 0.0988.
+Outputs: m = 135.97, GCI = -0.4412, T = 0.00, F = 18.3, m_act = 41.0, m_link = 4.323, defl = 0.500
+ 
+Inputs: h = 0.0268 m, theta = 49.58 deg, diam_base = 0.0978.
+Outputs: m = 137.17, GCI = -0.5227, T = 0.68, F = 20.6, m_act = 41.0, m_link = 4.723, defl = 0.500
+ 
+Inputs: h = 0.0885 m, theta = 74.35 deg, diam_base = 0.1171.
+Outputs: m = 620.43, GCI = -0.9100, T = 3.35, F = 22.5, m_act = 195.0, m_link = 11.811, defl = 0.500
+ 
+Inputs: h = 0.0115 m, theta = 30.38 deg, diam_base = 0.0996.
+Outputs: m = 135.08, GCI = -0.2507, T = 0.75, F = 17.1, m_act = 41.0, m_link = 4.026, defl = 0.500
+ 
+Inputs: h = 0.0140 m, theta = 30.53 deg, diam_base = 0.0991.
+Outputs: m = 135.24, GCI = -0.4210, T = 0.55, F = 17.3, m_act = 41.0, m_link = 4.079, defl = 0.500
+ 
+Inputs: h = 0.0390 m, theta = 129.65 deg, diam_base = 0.1142.
+Outputs: m = 142.40, GCI = -0.7514, T = 0.64, F = 23.7, m_act = 41.0, m_link = 6.466, defl = 0.500
+ 
+Inputs: h = 0.0846 m, theta = 75.38 deg, diam_base = 0.1179.
+Outputs: m = 619.59, GCI = -0.8080, T = 3.49, F = 24.0, m_act = 195.0, m_link = 11.530, defl = 0.500
+ 
+Inputs: h = 0.0219 m, theta = 149.11 deg, diam_base = 0.0986.
+Outputs: m = 136.21, GCI = -0.6770, T = 0.05, F = 18.7, m_act = 41.0, m_link = 4.405, defl = 0.500
+ 
+Inputs: h = 0.0371 m, theta = 42.58 deg, diam_base = 0.1201.
+Outputs: m = 142.11, GCI = -0.7352, T = 0.82, F = 20.8, m_act = 41.0, m_link = 6.369, defl = 0.500
+ 
+Inputs: h = 0.0134 m, theta = 30.73 deg, diam_base = 0.0989.
+Outputs: m = 135.16, GCI = -0.3963, T = 0.59, F = 17.3, m_act = 41.0, m_link = 4.054, defl = 0.500
+ 
+Inputs: h = 0.0369 m, theta = 42.88 deg, diam_base = 0.1198.
+Outputs: m = 142.00, GCI = -0.7383, T = 0.81, F = 20.8, m_act = 41.0, m_link = 6.332, defl = 0.500
+ 
+Inputs: h = 0.0435 m, theta = 37.83 deg, diam_base = 0.1018.
+Outputs: m = 344.83, GCI = -0.9248, T = 1.88, F = 49.7, m_act = 107.0, m_link = 7.943, defl = 0.500
+ 
+Inputs: h = 0.0468 m, theta = 37.60 deg, diam_base = 0.1015.
+Outputs: m = 353.79, GCI = -0.9088, T = 1.97, F = 92.8, m_act = 107.0, m_link = 10.929, defl = 0.500
+ 
+Inputs: h = 0.0113 m, theta = 30.39 deg, diam_base = 0.0989.
+Outputs: m = 134.98, GCI = -0.2458, T = 0.75, F = 17.1, m_act = 41.0, m_link = 3.995, defl = 0.500
+ 
+Inputs: h = 0.0132 m, theta = 30.23 deg, diam_base = 0.0958.
+Outputs: m = 134.77, GCI = -0.4069, T = 0.54, F = 17.3, m_act = 41.0, m_link = 3.924, defl = 0.500
+ 
+Inputs: h = 0.0368 m, theta = 42.80 deg, diam_base = 0.1191.
+Outputs: m = 141.90, GCI = -0.7377, T = 0.83, F = 20.9, m_act = 41.0, m_link = 6.299, defl = 0.500
+ 
+Inputs: h = 0.0466 m, theta = 37.67 deg, diam_base = 0.1014.
+Outputs: m = 353.16, GCI = -0.9102, T = 1.97, F = 89.8, m_act = 107.0, m_link = 10.719, defl = 0.500
+ 
+Inputs: h = 0.0100 m, theta = 30.09 deg, diam_base = 0.0990.
+Outputs: m = 281.91, GCI = -0.2387, T = 0.85, F = 17.0, m_act = 90.0, m_link = 3.968, defl = 0.500
+ 
+Inputs: h = 0.0201 m, theta = 150.00 deg, diam_base = 0.0989.
+Outputs: m = 135.94, GCI = -0.5524, T = 0.01, F = 18.2, m_act = 41.0, m_link = 4.315, defl = 0.500
+ 
+Inputs: h = 0.0126 m, theta = 30.00 deg, diam_base = 0.0992.
+Outputs: m = 135.12, GCI = -0.3615, T = 0.66, F = 17.2, m_act = 41.0, m_link = 4.038, defl = 0.500
+ 
+Inputs: h = 0.0394 m, theta = 132.32 deg, diam_base = 0.1141.
+Outputs: m = 142.54, GCI = -0.6962, T = 0.63, F = 24.0, m_act = 41.0, m_link = 6.515, defl = 0.500
+ 
+Inputs: h = 0.0435 m, theta = 34.48 deg, diam_base = 0.1018.
+Outputs: m = 344.84, GCI = -0.8863, T = 1.76, F = 49.9, m_act = 107.0, m_link = 7.948, defl = 0.500
+ 
+Inputs: h = 0.0989 m, theta = 42.98 deg, diam_base = 0.1094.
+Outputs: m = 358.60, GCI = -0.6347, T = 1.95, F = 19.9, m_act = 107.0, m_link = 12.533, defl = 0.500
+ 
+Inputs: h = 0.0171 m, theta = 30.43 deg, diam_base = 0.0986.
+Outputs: m = 135.51, GCI = -0.5211, T = 0.28, F = 17.7, m_act = 41.0, m_link = 4.170, defl = 0.500
+ 
+Inputs: h = 0.0427 m, theta = 36.82 deg, diam_base = 0.1016.
+Outputs: m = 343.81, GCI = -0.9188, T = 1.81, F = 45.3, m_act = 107.0, m_link = 7.602, defl = 0.500
+ 
+Inputs: h = 0.0485 m, theta = 37.75 deg, diam_base = 0.0950.
+Outputs: m = 387.05, GCI = -0.8801, T = 2.05, F = 398.5, m_act = 107.0, m_link = 22.016, defl = 0.500
+ 
+Inputs: h = 0.0157 m, theta = 34.14 deg, diam_base = 0.0991.
+Outputs: m = 135.40, GCI = -0.4140, T = 0.41, F = 17.5, m_act = 41.0, m_link = 4.133, defl = 0.500
+ 
+Inputs: h = 0.0203 m, theta = 145.86 deg, diam_base = 0.0989.
+Outputs: m = 135.99, GCI = -0.5412, T = 0.00, F = 18.3, m_act = 41.0, m_link = 4.328, defl = 0.500
+ 
+Inputs: h = 0.0164 m, theta = 30.00 deg, diam_base = 0.0992.
+Outputs: m = 135.50, GCI = -0.5073, T = 0.36, F = 17.6, m_act = 41.0, m_link = 4.168, defl = 0.500
+ 
+Inputs: h = 0.0393 m, theta = 132.84 deg, diam_base = 0.1143.
+Outputs: m = 142.54, GCI = -0.6943, T = 0.62, F = 23.9, m_act = 41.0, m_link = 6.513, defl = 0.500
+ 
+Inputs: h = 0.0147 m, theta = 30.76 deg, diam_base = 0.0987.
+Outputs: m = 135.25, GCI = -0.4466, T = 0.48, F = 17.4, m_act = 41.0, m_link = 4.084, defl = 0.500
+ 
+Inputs: h = 0.0135 m, theta = 30.04 deg, diam_base = 0.0952.
+Outputs: m = 134.72, GCI = -0.4221, T = 0.50, F = 17.4, m_act = 41.0, m_link = 3.906, defl = 0.500
+ 
+Inputs: h = 0.0434 m, theta = 34.18 deg, diam_base = 0.1017.
+Outputs: m = 344.69, GCI = -0.8821, T = 1.75, F = 49.3, m_act = 107.0, m_link = 7.896, defl = 0.500
+ 
+Inputs: h = 0.0208 m, theta = 150.00 deg, diam_base = 0.0988.
+Outputs: m = 136.07, GCI = -0.6550, T = 0.01, F = 18.4, m_act = 41.0, m_link = 4.355, defl = 0.500
+ 
+Inputs: h = 0.0393 m, theta = 136.17 deg, diam_base = 0.1141.
+Outputs: m = 142.51, GCI = -0.7519, T = 0.58, F = 24.0, m_act = 41.0, m_link = 6.504, defl = 0.500
+ 
+Inputs: h = 0.0436 m, theta = 30.62 deg, diam_base = 0.1018.
+Outputs: m = 344.94, GCI = -0.7859, T = 1.62, F = 50.3, m_act = 107.0, m_link = 7.979, defl = 0.500
+ 
+Inputs: h = 0.0141 m, theta = 30.00 deg, diam_base = 0.0987.
+Outputs: m = 135.20, GCI = -0.4264, T = 0.54, F = 17.3, m_act = 41.0, m_link = 4.066, defl = 0.500
+ 
+Inputs: h = 0.0392 m, theta = 131.60 deg, diam_base = 0.1146.
+Outputs: m = 142.49, GCI = -0.7300, T = 0.62, F = 23.7, m_act = 41.0, m_link = 6.497, defl = 0.500
+ 
+Inputs: h = 0.0406 m, theta = 130.30 deg, diam_base = 0.1150.
+Outputs: m = 143.17, GCI = -0.6963, T = 0.71, F = 24.8, m_act = 41.0, m_link = 6.722, defl = 0.500
+ 
+Inputs: h = 0.0103 m, theta = 30.00 deg, diam_base = 0.0981.
+Outputs: m = 134.81, GCI = -0.2754, T = 0.81, F = 17.0, m_act = 41.0, m_link = 3.938, defl = 0.500
+ 
+Inputs: h = 0.0436 m, theta = 37.70 deg, diam_base = 0.1017.
+Outputs: m = 344.93, GCI = -0.9235, T = 1.88, F = 50.5, m_act = 107.0, m_link = 7.975, defl = 0.500
+ 
+Inputs: h = 0.0272 m, theta = 48.15 deg, diam_base = 0.0977.
+Outputs: m = 137.26, GCI = -0.6380, T = 0.72, F = 20.7, m_act = 41.0, m_link = 4.752, defl = 0.500
+ 
+Inputs: h = 0.0440 m, theta = 37.71 deg, diam_base = 0.1016.
+Outputs: m = 345.51, GCI = -0.9223, T = 1.89, F = 53.4, m_act = 107.0, m_link = 8.169, defl = 0.500
+ 
+Inputs: h = 0.0443 m, theta = 36.86 deg, diam_base = 0.1015.
+Outputs: m = 345.97, GCI = -0.9129, T = 1.87, F = 56.1, m_act = 107.0, m_link = 8.325, defl = 0.500
+ 
+Inputs: h = 0.0165 m, theta = 30.00 deg, diam_base = 0.0994.
+Outputs: m = 135.54, GCI = -0.5079, T = 0.35, F = 17.6, m_act = 41.0, m_link = 4.180, defl = 0.500
+ 
+Inputs: h = 0.0163 m, theta = 30.08 deg, diam_base = 0.0994.
+Outputs: m = 135.50, GCI = -0.5070, T = 0.38, F = 17.6, m_act = 41.0, m_link = 4.167, defl = 0.500
+ 
+Inputs: h = 0.0163 m, theta = 30.09 deg, diam_base = 0.0994.
+Outputs: m = 135.50, GCI = -0.5071, T = 0.38, F = 17.6, m_act = 41.0, m_link = 4.167, defl = 0.500
+ 
+Inputs: h = 0.0158 m, theta = 30.00 deg, diam_base = 0.0991.
+Outputs: m = 135.41, GCI = -0.5001, T = 0.41, F = 17.5, m_act = 41.0, m_link = 4.137, defl = 0.500
+ 
+Inputs: h = 0.0149 m, theta = 32.82 deg, diam_base = 0.0981.
+Outputs: m = 135.20, GCI = -0.4472, T = 0.46, F = 17.4, m_act = 41.0, m_link = 4.066, defl = 0.500
+ 
+Inputs: h = 0.0398 m, theta = 127.52 deg, diam_base = 0.1147.
+Outputs: m = 142.78, GCI = -0.7331, T = 0.70, F = 24.2, m_act = 41.0, m_link = 6.594, defl = 0.500
+ 
+Inputs: h = 0.0139 m, theta = 30.31 deg, diam_base = 0.0991.
+Outputs: m = 135.23, GCI = -0.4175, T = 0.56, F = 17.3, m_act = 41.0, m_link = 4.076, defl = 0.500
+ 
+Inputs: h = 0.0167 m, theta = 30.00 deg, diam_base = 0.0994.
+Outputs: m = 135.56, GCI = -0.5088, T = 0.34, F = 17.6, m_act = 41.0, m_link = 4.188, defl = 0.500
+ 
+Inputs: h = 0.0212 m, theta = 134.89 deg, diam_base = 0.0982.
+Outputs: m = 136.05, GCI = -0.4601, T = 0.04, F = 18.5, m_act = 41.0, m_link = 4.350, defl = 0.500
+ 
+Inputs: h = 0.0157 m, theta = 33.64 deg, diam_base = 0.0986.
+Outputs: m = 135.35, GCI = -0.4720, T = 0.40, F = 17.5, m_act = 41.0, m_link = 4.118, defl = 0.500
+ 
+Inputs: h = 0.0838 m, theta = 74.47 deg, diam_base = 0.1174.
+Outputs: m = 619.30, GCI = -0.8336, T = 3.47, F = 24.2, m_act = 195.0, m_link = 11.435, defl = 0.500
+ 
+Inputs: h = 0.0165 m, theta = 30.34 deg, diam_base = 0.0993.
+Outputs: m = 135.52, GCI = -0.5148, T = 0.35, F = 17.6, m_act = 41.0, m_link = 4.174, defl = 0.500
+ 
+Completed 6 generations!
+    Restarting model to clean up...
+ 
+Inputs: h = 0.0157 m, theta = 30.00 deg, diam_base = 0.0991.
+Outputs: m = 135.41, GCI = -0.4988, T = 0.41, F = 17.5, m_act = 41.0, m_link = 4.135, defl = 0.500
+ 
+Inputs: h = 0.0157 m, theta = 33.64 deg, diam_base = 0.0986.
+Outputs: m = 135.35, GCI = -0.4721, T = 0.40, F = 17.5, m_act = 41.0, m_link = 4.117, defl = 0.500
+ 
+Inputs: h = 0.0136 m, theta = 30.00 deg, diam_base = 0.0950.
+Outputs: m = 134.71, GCI = -0.4257, T = 0.49, F = 17.4, m_act = 41.0, m_link = 3.904, defl = 0.500
+ 
+Inputs: h = 0.0157 m, theta = 33.69 deg, diam_base = 0.0986.
+Outputs: m = 135.34, GCI = -0.4691, T = 0.40, F = 17.5, m_act = 41.0, m_link = 4.114, defl = 0.500
+ 
+Inputs: h = 0.0374 m, theta = 42.86 deg, diam_base = 0.1209.
+Outputs: m = 142.26, GCI = -0.7385, T = 0.81, F = 20.8, m_act = 41.0, m_link = 6.422, defl = 0.500
+ 
+Inputs: h = 0.0159 m, theta = 34.11 deg, diam_base = 0.0984.
+Outputs: m = 135.34, GCI = -0.4757, T = 0.38, F = 17.5, m_act = 41.0, m_link = 4.113, defl = 0.500
+ 
+Inputs: h = 0.0148 m, theta = 30.71 deg, diam_base = 0.0989.
+Outputs: m = 135.29, GCI = -0.4481, T = 0.48, F = 17.4, m_act = 41.0, m_link = 4.096, defl = 0.500
+ 
+Inputs: h = 0.0426 m, theta = 36.88 deg, diam_base = 0.1015.
+Outputs: m = 343.70, GCI = -0.9196, T = 1.81, F = 44.9, m_act = 107.0, m_link = 7.568, defl = 0.500
+ 
+Inputs: h = 0.0170 m, theta = 30.00 deg, diam_base = 0.0989.
+Outputs: m = 135.53, GCI = -0.4982, T = 0.31, F = 17.7, m_act = 41.0, m_link = 4.178, defl = 0.500
+ 
+Inputs: h = 0.0399 m, theta = 44.47 deg, diam_base = 0.1199.
+Outputs: m = 290.08, GCI = -0.7615, T = 1.10, F = 22.4, m_act = 90.0, m_link = 6.695, defl = 0.500
+ 
+Inputs: h = 0.0163 m, theta = 30.08 deg, diam_base = 0.0994.
+Outputs: m = 135.50, GCI = -0.5071, T = 0.38, F = 17.6, m_act = 41.0, m_link = 4.168, defl = 0.500
+ 
+Inputs: h = 0.0155 m, theta = 30.41 deg, diam_base = 0.0986.
+Outputs: m = 135.33, GCI = -0.4608, T = 0.42, F = 17.5, m_act = 41.0, m_link = 4.109, defl = 0.500
+ 
+Inputs: h = 0.0454 m, theta = 37.24 deg, diam_base = 0.1015.
+Outputs: m = 348.41, GCI = -0.9118, T = 1.92, F = 67.8, m_act = 107.0, m_link = 9.137, defl = 0.500
+ 
+Inputs: h = 0.0135 m, theta = 30.00 deg, diam_base = 0.0994.
+Outputs: m = 135.22, GCI = -0.4022, T = 0.60, F = 17.2, m_act = 41.0, m_link = 4.074, defl = 0.500
+ 
+Inputs: h = 0.0166 m, theta = 30.34 deg, diam_base = 0.0994.
+Outputs: m = 135.54, GCI = -0.5155, T = 0.35, F = 17.6, m_act = 41.0, m_link = 4.181, defl = 0.500
+ 
+Inputs: h = 0.0163 m, theta = 30.08 deg, diam_base = 0.0994.
+Outputs: m = 135.50, GCI = -0.5073, T = 0.38, F = 17.6, m_act = 41.0, m_link = 4.168, defl = 0.500
+ 
+Inputs: h = 0.0439 m, theta = 37.69 deg, diam_base = 0.1016.
+Outputs: m = 345.44, GCI = -0.9222, T = 1.89, F = 53.1, m_act = 107.0, m_link = 8.145, defl = 0.500
+ 
+Inputs: h = 0.0152 m, theta = 31.78 deg, diam_base = 0.0992.
+Outputs: m = 135.37, GCI = -0.4585, T = 0.46, F = 17.4, m_act = 41.0, m_link = 4.122, defl = 0.500
+ 
+Inputs: h = 0.0121 m, theta = 45.93 deg, diam_base = 0.0951.
+Outputs: m = 134.59, GCI = -0.2105, T = 0.58, F = 17.2, m_act = 41.0, m_link = 3.862, defl = 0.500
+ 
+Inputs: h = 0.0407 m, theta = 119.34 deg, diam_base = 0.1136.
+Outputs: m = 290.16, GCI = -0.5154, T = 0.90, F = 25.6, m_act = 90.0, m_link = 6.720, defl = 0.500
+ 
+Inputs: h = 0.0163 m, theta = 30.11 deg, diam_base = 0.0994.
+Outputs: m = 135.50, GCI = -0.5077, T = 0.38, F = 17.6, m_act = 41.0, m_link = 4.167, defl = 0.500
+ 
+Inputs: h = 0.0156 m, theta = 31.75 deg, diam_base = 0.0991.
+Outputs: m = 135.39, GCI = -0.4701, T = 0.43, F = 17.5, m_act = 41.0, m_link = 4.131, defl = 0.500
+ 
+Inputs: h = 0.0367 m, theta = 43.31 deg, diam_base = 0.1214.
+Outputs: m = 142.09, GCI = -0.6534, T = 0.72, F = 20.4, m_act = 41.0, m_link = 6.363, defl = 0.500
+ 
+Inputs: h = 0.0144 m, theta = 30.32 deg, diam_base = 0.0979.
+Outputs: m = 135.13, GCI = -0.3928, T = 0.49, F = 17.4, m_act = 41.0, m_link = 4.043, defl = 0.500
+ 
+Inputs: h = 0.0169 m, theta = 30.56 deg, diam_base = 0.0985.
+Outputs: m = 135.47, GCI = -0.5156, T = 0.30, F = 17.7, m_act = 41.0, m_link = 4.157, defl = 0.500
+ 
+Inputs: h = 0.0438 m, theta = 37.69 deg, diam_base = 0.1019.
+Outputs: m = 345.15, GCI = -0.9231, T = 1.88, F = 51.2, m_act = 107.0, m_link = 8.051, defl = 0.500
+ 
+Inputs: h = 0.0166 m, theta = 30.35 deg, diam_base = 0.0994.
+Outputs: m = 135.54, GCI = -0.5161, T = 0.35, F = 17.6, m_act = 41.0, m_link = 4.182, defl = 0.500
+ 
+Inputs: h = 0.0156 m, theta = 31.75 deg, diam_base = 0.0991.
+Outputs: m = 135.40, GCI = -0.4703, T = 0.43, F = 17.5, m_act = 41.0, m_link = 4.132, defl = 0.500
+ 
+Inputs: h = 0.0157 m, theta = 30.00 deg, diam_base = 0.0991.
+Outputs: m = 135.40, GCI = -0.4989, T = 0.41, F = 17.5, m_act = 41.0, m_link = 4.134, defl = 0.500
+ 
+Inputs: h = 0.0157 m, theta = 32.09 deg, diam_base = 0.0991.
+Outputs: m = 135.41, GCI = -0.4766, T = 0.41, F = 17.5, m_act = 41.0, m_link = 4.135, defl = 0.500
+ 
+Inputs: h = 0.0146 m, theta = 30.19 deg, diam_base = 0.0992.
+Outputs: m = 135.30, GCI = -0.3924, T = 0.51, F = 17.4, m_act = 41.0, m_link = 4.101, defl = 0.500
+ 
+Inputs: h = 0.0422 m, theta = 36.96 deg, diam_base = 0.1015.
+Outputs: m = 343.34, GCI = -0.9213, T = 1.80, F = 43.4, m_act = 107.0, m_link = 7.447, defl = 0.500
+ 
+Inputs: h = 0.0422 m, theta = 36.63 deg, diam_base = 0.1016.
+Outputs: m = 343.26, GCI = -0.9188, T = 1.79, F = 42.9, m_act = 107.0, m_link = 7.420, defl = 0.500
+ 
+Inputs: h = 0.0167 m, theta = 30.28 deg, diam_base = 0.0994.
+Outputs: m = 135.55, GCI = -0.5153, T = 0.34, F = 17.6, m_act = 41.0, m_link = 4.185, defl = 0.500
+ 
+Inputs: h = 0.0215 m, theta = 150.00 deg, diam_base = 0.0990.
+Outputs: m = 136.19, GCI = -0.6463, T = 0.03, F = 18.5, m_act = 41.0, m_link = 4.396, defl = 0.500
+ 
+Inputs: h = 0.0157 m, theta = 30.00 deg, diam_base = 0.0991.
+Outputs: m = 135.40, GCI = -0.4983, T = 0.42, F = 17.5, m_act = 41.0, m_link = 4.133, defl = 0.500
+ 
+Inputs: h = 0.0207 m, theta = 150.00 deg, diam_base = 0.0999.
+Outputs: m = 136.15, GCI = -0.6508, T = 0.00, F = 18.3, m_act = 41.0, m_link = 4.385, defl = 0.500
+ 
+Inputs: h = 0.0395 m, theta = 135.18 deg, diam_base = 0.1126.
+Outputs: m = 142.54, GCI = -0.7664, T = 0.64, F = 24.8, m_act = 41.0, m_link = 6.515, defl = 0.500
+ 
+Inputs: h = 0.0194 m, theta = 149.95 deg, diam_base = 0.0982.
+Outputs: m = 135.77, GCI = -0.4611, T = 0.02, F = 18.1, m_act = 41.0, m_link = 4.258, defl = 0.500
+ 
+Inputs: h = 0.0391 m, theta = 135.30 deg, diam_base = 0.1140.
+Outputs: m = 142.43, GCI = -0.7651, T = 0.58, F = 23.8, m_act = 41.0, m_link = 6.476, defl = 0.500
+ 
+Inputs: h = 0.0377 m, theta = 48.98 deg, diam_base = 0.1209.
+Outputs: m = 142.35, GCI = -0.7209, T = 0.82, F = 20.9, m_act = 41.0, m_link = 6.451, defl = 0.500
+ 
+Inputs: h = 0.0199 m, theta = 144.36 deg, diam_base = 0.0986.
+Outputs: m = 135.90, GCI = -0.5493, T = 0.01, F = 18.2, m_act = 41.0, m_link = 4.298, defl = 0.500
+ 
+Inputs: h = 0.0157 m, theta = 30.00 deg, diam_base = 0.0991.
+Outputs: m = 135.40, GCI = -0.4988, T = 0.41, F = 17.5, m_act = 41.0, m_link = 4.134, defl = 0.500
+ 
+Inputs: h = 0.0158 m, theta = 30.00 deg, diam_base = 0.0991.
+Outputs: m = 135.41, GCI = -0.5001, T = 0.41, F = 17.5, m_act = 41.0, m_link = 4.137, defl = 0.500
+ 
+Inputs: h = 0.0147 m, theta = 30.62 deg, diam_base = 0.0988.
+Outputs: m = 135.27, GCI = -0.3974, T = 0.49, F = 17.4, m_act = 41.0, m_link = 4.090, defl = 0.500
+ 
+Inputs: h = 0.0157 m, theta = 33.79 deg, diam_base = 0.0986.
+Outputs: m = 135.35, GCI = -0.4714, T = 0.40, F = 17.5, m_act = 41.0, m_link = 4.118, defl = 0.500
+ 
+Inputs: h = 0.0391 m, theta = 143.74 deg, diam_base = 0.1135.
+Outputs: m = 142.42, GCI = -0.7117, T = 0.49, F = 24.1, m_act = 41.0, m_link = 6.475, defl = 0.500
+ 
+Inputs: h = 0.0143 m, theta = 30.00 deg, diam_base = 0.0993.
+Outputs: m = 135.29, GCI = -0.4303, T = 0.53, F = 17.3, m_act = 41.0, m_link = 4.096, defl = 0.500
+ 
+Inputs: h = 0.0157 m, theta = 32.25 deg, diam_base = 0.0997.
+Outputs: m = 135.47, GCI = -0.4707, T = 0.43, F = 17.5, m_act = 41.0, m_link = 4.156, defl = 0.500
+ 
+Inputs: h = 0.0376 m, theta = 43.19 deg, diam_base = 0.1201.
+Outputs: m = 289.26, GCI = -0.7431, T = 0.87, F = 21.1, m_act = 90.0, m_link = 6.418, defl = 0.500
+ 
+Inputs: h = 0.0369 m, theta = 40.49 deg, diam_base = 0.1217.
+Outputs: m = 142.17, GCI = -0.7012, T = 0.73, F = 20.4, m_act = 41.0, m_link = 6.388, defl = 0.500
+ 
+Inputs: h = 0.0201 m, theta = 150.00 deg, diam_base = 0.0973.
+Outputs: m = 135.79, GCI = -0.6508, T = 0.01, F = 18.4, m_act = 41.0, m_link = 4.263, defl = 0.500
+ 
+Inputs: h = 0.0371 m, theta = 43.26 deg, diam_base = 0.1202.
+Outputs: m = 142.09, GCI = -0.7419, T = 0.80, F = 20.8, m_act = 41.0, m_link = 6.363, defl = 0.500
+ 
+Inputs: h = 0.0199 m, theta = 150.00 deg, diam_base = 0.0988.
+Outputs: m = 135.92, GCI = -0.4222, T = 0.01, F = 18.2, m_act = 41.0, m_link = 4.306, defl = 0.500
+ 
+Inputs: h = 0.0407 m, theta = 43.80 deg, diam_base = 0.1207.
+Outputs: m = 290.45, GCI = -0.7531, T = 1.15, F = 22.6, m_act = 90.0, m_link = 6.818, defl = 0.500
+ 
+Inputs: h = 0.0133 m, theta = 30.46 deg, diam_base = 0.0987.
+Outputs: m = 135.11, GCI = -0.3915, T = 0.60, F = 17.2, m_act = 41.0, m_link = 4.037, defl = 0.500
+ 
+Inputs: h = 0.0366 m, theta = 43.27 deg, diam_base = 0.1200.
+Outputs: m = 141.90, GCI = -0.7403, T = 0.76, F = 20.6, m_act = 41.0, m_link = 6.301, defl = 0.500
+ 
+Inputs: h = 0.0430 m, theta = 36.85 deg, diam_base = 0.1017.
+Outputs: m = 344.22, GCI = -0.9180, T = 1.83, F = 47.0, m_act = 107.0, m_link = 7.741, defl = 0.500
+ 
+Inputs: h = 0.0157 m, theta = 31.78 deg, diam_base = 0.0986.
+Outputs: m = 135.35, GCI = -0.4779, T = 0.40, F = 17.5, m_act = 41.0, m_link = 4.117, defl = 0.500
+ 
+Inputs: h = 0.0201 m, theta = 150.00 deg, diam_base = 0.0989.
+Outputs: m = 135.95, GCI = -0.5528, T = 0.01, F = 18.2, m_act = 41.0, m_link = 4.315, defl = 0.500
+ 
+Inputs: h = 0.0403 m, theta = 134.92 deg, diam_base = 0.1132.
+Outputs: m = 142.97, GCI = -0.7428, T = 0.68, F = 25.4, m_act = 41.0, m_link = 6.658, defl = 0.500
+ 
+Inputs: h = 0.0205 m, theta = 150.00 deg, diam_base = 0.0994.
+Outputs: m = 136.07, GCI = -0.6517, T = 0.00, F = 18.3, m_act = 41.0, m_link = 4.356, defl = 0.500
+ 
+Inputs: h = 0.0381 m, theta = 135.08 deg, diam_base = 0.1150.
+Outputs: m = 142.04, GCI = -0.6813, T = 0.50, F = 22.7, m_act = 41.0, m_link = 6.346, defl = 0.500
+ 
+Inputs: h = 0.0154 m, theta = 30.49 deg, diam_base = 0.0979.
+Outputs: m = 135.23, GCI = -0.4631, T = 0.41, F = 17.5, m_act = 41.0, m_link = 4.077, defl = 0.500
+ 
+Inputs: h = 0.0158 m, theta = 36.36 deg, diam_base = 0.0986.
+Outputs: m = 135.36, GCI = -0.4039, T = 0.39, F = 17.5, m_act = 41.0, m_link = 4.120, defl = 0.500
+ 
+Inputs: h = 0.0214 m, theta = 147.28 deg, diam_base = 0.0990.
+Outputs: m = 136.17, GCI = -0.5780, T = 0.03, F = 18.5, m_act = 41.0, m_link = 4.391, defl = 0.500
+ 
+Inputs: h = 0.0157 m, theta = 33.59 deg, diam_base = 0.0986.
+Outputs: m = 135.36, GCI = -0.4722, T = 0.40, F = 17.5, m_act = 41.0, m_link = 4.119, defl = 0.500
+ 
+Inputs: h = 0.0157 m, theta = 30.05 deg, diam_base = 0.0990.
+Outputs: m = 135.40, GCI = -0.4307, T = 0.41, F = 17.5, m_act = 41.0, m_link = 4.134, defl = 0.500
+ 
+Inputs: h = 0.0395 m, theta = 135.15 deg, diam_base = 0.1136.
+Outputs: m = 142.58, GCI = -0.7669, T = 0.62, F = 24.4, m_act = 41.0, m_link = 6.527, defl = 0.500
+ 
+Inputs: h = 0.0214 m, theta = 137.59 deg, diam_base = 0.0988.
+Outputs: m = 136.15, GCI = -0.5570, T = 0.04, F = 18.5, m_act = 41.0, m_link = 4.384, defl = 0.500
+ 
+Inputs: h = 0.0201 m, theta = 150.00 deg, diam_base = 0.0989.
+Outputs: m = 135.95, GCI = -0.5547, T = 0.01, F = 18.2, m_act = 41.0, m_link = 4.317, defl = 0.500
+ 
+Inputs: h = 0.0171 m, theta = 30.00 deg, diam_base = 0.0986.
+Outputs: m = 135.51, GCI = -0.5081, T = 0.29, F = 17.7, m_act = 41.0, m_link = 4.169, defl = 0.500
+ 
+Inputs: h = 0.0166 m, theta = 30.33 deg, diam_base = 0.0994.
+Outputs: m = 135.54, GCI = -0.5150, T = 0.35, F = 17.6, m_act = 41.0, m_link = 4.180, defl = 0.500
+ 
+Inputs: h = 0.0142 m, theta = 30.33 deg, diam_base = 0.0991.
+Outputs: m = 135.26, GCI = -0.4286, T = 0.54, F = 17.3, m_act = 41.0, m_link = 4.086, defl = 0.500
+ 
+Inputs: h = 0.0412 m, theta = 43.77 deg, diam_base = 0.1201.
+Outputs: m = 290.65, GCI = -0.7514, T = 1.23, F = 23.3, m_act = 90.0, m_link = 6.884, defl = 0.500
+ 
+Inputs: h = 0.0143 m, theta = 30.16 deg, diam_base = 0.0992.
+Outputs: m = 135.27, GCI = -0.4289, T = 0.54, F = 17.3, m_act = 41.0, m_link = 4.091, defl = 0.500
+ 
+Completed 7 generations!
+Inputs: h = 0.0430 m, theta = 37.93 deg, diam_base = 0.1018.
+Outputs: m = 344.14, GCI = -0.9271, T = 1.86, F = 46.5, m_act = 107.0, m_link = 7.713, defl = 0.500
+ 
+Inputs: h = 0.0163 m, theta = 30.00 deg, diam_base = 0.0990.
+Outputs: m = 135.47, GCI = -0.5068, T = 0.36, F = 17.6, m_act = 41.0, m_link = 4.157, defl = 0.500
+ 
+Inputs: h = 0.0153 m, theta = 30.33 deg, diam_base = 0.0988.
+Outputs: m = 135.33, GCI = -0.4559, T = 0.44, F = 17.5, m_act = 41.0, m_link = 4.110, defl = 0.500
+ 
+Inputs: h = 0.0440 m, theta = 36.73 deg, diam_base = 0.1013.
+Outputs: m = 345.69, GCI = -0.9122, T = 1.86, F = 54.9, m_act = 107.0, m_link = 8.230, defl = 0.500
+ 
+Inputs: h = 0.0201 m, theta = 144.87 deg, diam_base = 0.0989.
+Outputs: m = 135.95, GCI = -0.5497, T = 0.01, F = 18.2, m_act = 41.0, m_link = 4.318, defl = 0.500
+ 
+Inputs: h = 0.0160 m, theta = 35.13 deg, diam_base = 0.0991.
+Outputs: m = 135.43, GCI = -0.3623, T = 0.39, F = 17.5, m_act = 41.0, m_link = 4.143, defl = 0.500
+ 
+Inputs: h = 0.0135 m, theta = 32.79 deg, diam_base = 0.0980.
+Outputs: m = 135.05, GCI = -0.3473, T = 0.57, F = 17.3, m_act = 41.0, m_link = 4.018, defl = 0.500
+ 
+Inputs: h = 0.0449 m, theta = 37.86 deg, diam_base = 0.1019.
+Outputs: m = 346.97, GCI = -0.9204, T = 1.93, F = 61.0, m_act = 107.0, m_link = 8.658, defl = 0.500
+ 
+Inputs: h = 0.0425 m, theta = 36.97 deg, diam_base = 0.1015.
+Outputs: m = 343.63, GCI = -0.9206, T = 1.81, F = 44.6, m_act = 107.0, m_link = 7.542, defl = 0.500
+ 
+Inputs: h = 0.0156 m, theta = 30.00 deg, diam_base = 0.0991.
+Outputs: m = 135.38, GCI = -0.4407, T = 0.43, F = 17.5, m_act = 41.0, m_link = 4.128, defl = 0.500
+ 
+Inputs: h = 0.0159 m, theta = 30.00 deg, diam_base = 0.0991.
+Outputs: m = 135.42, GCI = -0.5016, T = 0.40, F = 17.5, m_act = 41.0, m_link = 4.140, defl = 0.500
+ 
+Inputs: h = 0.0208 m, theta = 150.00 deg, diam_base = 0.0988.
+Outputs: m = 136.05, GCI = -0.6557, T = 0.01, F = 18.4, m_act = 41.0, m_link = 4.350, defl = 0.500
+ 
+Inputs: h = 0.0200 m, theta = 148.94 deg, diam_base = 0.0977.
+Outputs: m = 135.81, GCI = -0.4114, T = 0.00, F = 18.3, m_act = 41.0, m_link = 4.269, defl = 0.500
+ 
+Inputs: h = 0.0394 m, theta = 136.31 deg, diam_base = 0.1133.
+Outputs: m = 142.55, GCI = -0.7481, T = 0.61, F = 24.4, m_act = 41.0, m_link = 6.518, defl = 0.500
+ 
+Inputs: h = 0.0373 m, theta = 43.53 deg, diam_base = 0.1202.
+Outputs: m = 142.16, GCI = -0.7453, T = 0.83, F = 20.9, m_act = 41.0, m_link = 6.387, defl = 0.500
+ 
+Inputs: h = 0.0199 m, theta = 149.77 deg, diam_base = 0.0989.
+Outputs: m = 135.92, GCI = -0.4608, T = 0.01, F = 18.2, m_act = 41.0, m_link = 4.308, defl = 0.500
+ 
+Inputs: h = 0.0371 m, theta = 44.65 deg, diam_base = 0.1199.
+Outputs: m = 142.06, GCI = -0.6392, T = 0.82, F = 20.9, m_act = 41.0, m_link = 6.354, defl = 0.500
+ 
+Inputs: h = 0.0191 m, theta = 148.65 deg, diam_base = 0.0988.
+Outputs: m = 135.80, GCI = -0.4598, T = 0.03, F = 18.0, m_act = 41.0, m_link = 4.265, defl = 0.500
+ 
+Inputs: h = 0.0219 m, theta = 149.09 deg, diam_base = 0.0986.
+Outputs: m = 136.22, GCI = -0.6775, T = 0.05, F = 18.7, m_act = 41.0, m_link = 4.406, defl = 0.500
+ 
+Inputs: h = 0.0208 m, theta = 150.00 deg, diam_base = 0.0988.
+Outputs: m = 136.06, GCI = -0.6553, T = 0.01, F = 18.4, m_act = 41.0, m_link = 4.353, defl = 0.500
+ 
+Inputs: h = 0.0149 m, theta = 31.00 deg, diam_base = 0.0987.
+Outputs: m = 135.27, GCI = -0.4516, T = 0.47, F = 17.4, m_act = 41.0, m_link = 4.090, defl = 0.500
+ 
+Inputs: h = 0.0390 m, theta = 135.05 deg, diam_base = 0.1140.
+Outputs: m = 142.36, GCI = -0.7679, T = 0.58, F = 23.7, m_act = 41.0, m_link = 6.453, defl = 0.500
+ 
+Inputs: h = 0.0154 m, theta = 30.00 deg, diam_base = 0.0990.
+Outputs: m = 135.36, GCI = -0.4442, T = 0.44, F = 17.5, m_act = 41.0, m_link = 4.121, defl = 0.500
+ 
+Inputs: h = 0.0395 m, theta = 140.63 deg, diam_base = 0.1136.
+Outputs: m = 142.60, GCI = -0.6473, T = 0.55, F = 24.4, m_act = 41.0, m_link = 6.533, defl = 0.500
+ 
+Inputs: h = 0.0172 m, theta = 30.43 deg, diam_base = 0.0984.
+Outputs: m = 135.50, GCI = -0.5213, T = 0.27, F = 17.7, m_act = 41.0, m_link = 4.167, defl = 0.500
+ 
+Inputs: h = 0.0435 m, theta = 37.83 deg, diam_base = 0.1020.
+Outputs: m = 344.69, GCI = -0.9252, T = 1.87, F = 48.9, m_act = 107.0, m_link = 7.898, defl = 0.500
+ 
+Inputs: h = 0.0147 m, theta = 36.61 deg, diam_base = 0.0983.
+Outputs: m = 135.21, GCI = -0.3582, T = 0.47, F = 17.4, m_act = 41.0, m_link = 4.069, defl = 0.500
+ 
+Inputs: h = 0.0395 m, theta = 129.31 deg, diam_base = 0.1139.
+Outputs: m = 142.62, GCI = -0.7142, T = 0.69, F = 24.3, m_act = 41.0, m_link = 6.541, defl = 0.500
+ 
+Inputs: h = 0.0427 m, theta = 36.99 deg, diam_base = 0.1015.
+Outputs: m = 343.89, GCI = -0.9200, T = 1.82, F = 45.8, m_act = 107.0, m_link = 7.628, defl = 0.500
+ 
+Inputs: h = 0.0153 m, theta = 30.00 deg, diam_base = 0.0990.
+Outputs: m = 135.36, GCI = -0.4457, T = 0.45, F = 17.5, m_act = 41.0, m_link = 4.119, defl = 0.500
+ 
+Inputs: h = 0.0169 m, theta = 30.85 deg, diam_base = 0.0983.
+Outputs: m = 135.45, GCI = -0.5288, T = 0.29, F = 17.7, m_act = 41.0, m_link = 4.151, defl = 0.500
+ 
+Inputs: h = 0.0371 m, theta = 42.88 deg, diam_base = 0.1205.
+Outputs: m = 142.13, GCI = -0.7383, T = 0.80, F = 20.8, m_act = 41.0, m_link = 6.378, defl = 0.500
+ 
+Inputs: h = 0.0147 m, theta = 30.74 deg, diam_base = 0.0987.
+Outputs: m = 135.25, GCI = -0.4460, T = 0.49, F = 17.4, m_act = 41.0, m_link = 4.084, defl = 0.500
+ 
+Inputs: h = 0.0164 m, theta = 30.31 deg, diam_base = 0.0990.
+Outputs: m = 135.47, GCI = -0.5136, T = 0.35, F = 17.6, m_act = 41.0, m_link = 4.156, defl = 0.500
+ 
+Inputs: h = 0.0393 m, theta = 136.20 deg, diam_base = 0.1132.
+Outputs: m = 142.46, GCI = -0.7507, T = 0.60, F = 24.3, m_act = 41.0, m_link = 6.487, defl = 0.500
+ 
+Inputs: h = 0.0436 m, theta = 36.87 deg, diam_base = 0.1023.
+Outputs: m = 344.72, GCI = -0.9171, T = 1.84, F = 48.5, m_act = 107.0, m_link = 7.908, defl = 0.500
+ 
+Inputs: h = 0.0392 m, theta = 135.29 deg, diam_base = 0.1135.
+Outputs: m = 142.46, GCI = -0.7651, T = 0.60, F = 24.2, m_act = 41.0, m_link = 6.486, defl = 0.500
+ 
+Inputs: h = 0.0393 m, theta = 135.25 deg, diam_base = 0.1137.
+Outputs: m = 142.50, GCI = -0.7658, T = 0.60, F = 24.1, m_act = 41.0, m_link = 6.500, defl = 0.500
+ 
+Inputs: h = 0.0216 m, theta = 141.14 deg, diam_base = 0.0985.
+Outputs: m = 136.16, GCI = -0.5339, T = 0.05, F = 18.6, m_act = 41.0, m_link = 4.386, defl = 0.500
+ 
+Inputs: h = 0.0439 m, theta = 45.80 deg, diam_base = 0.1018.
+Outputs: m = 345.26, GCI = -0.7163, T = 2.12, F = 51.9, m_act = 107.0, m_link = 8.087, defl = 0.500
+ 
+Inputs: h = 0.0209 m, theta = 30.58 deg, diam_base = 0.0950.
+Outputs: m = 135.68, GCI = -0.6681, T = 0.19, F = 18.8, m_act = 41.0, m_link = 4.225, defl = 0.500
+ 
+Inputs: h = 0.0149 m, theta = 32.77 deg, diam_base = 0.0980.
+Outputs: m = 135.19, GCI = -0.4488, T = 0.45, F = 17.4, m_act = 41.0, m_link = 4.065, defl = 0.500
+ 
+Inputs: h = 0.0171 m, theta = 30.48 deg, diam_base = 0.0986.
+Outputs: m = 135.51, GCI = -0.5223, T = 0.29, F = 17.7, m_act = 41.0, m_link = 4.171, defl = 0.500
+ 
+Inputs: h = 0.0202 m, theta = 150.00 deg, diam_base = 0.0973.
+Outputs: m = 135.80, GCI = -0.6578, T = 0.01, F = 18.4, m_act = 41.0, m_link = 4.267, defl = 0.500
+ 
+Inputs: h = 0.0156 m, theta = 33.52 deg, diam_base = 0.0986.
+Outputs: m = 135.33, GCI = -0.4682, T = 0.41, F = 17.5, m_act = 41.0, m_link = 4.111, defl = 0.500
+ 
+Inputs: h = 0.0156 m, theta = 30.24 deg, diam_base = 0.0986.
+Outputs: m = 135.34, GCI = -0.4551, T = 0.41, F = 17.5, m_act = 41.0, m_link = 4.114, defl = 0.500
+ 
+Inputs: h = 0.0200 m, theta = 150.00 deg, diam_base = 0.0973.
+Outputs: m = 135.77, GCI = -0.6516, T = 0.01, F = 18.3, m_act = 41.0, m_link = 4.257, defl = 0.500
+ 
+Inputs: h = 0.0156 m, theta = 30.00 deg, diam_base = 0.0986.
+Outputs: m = 135.34, GCI = -0.4987, T = 0.41, F = 17.5, m_act = 41.0, m_link = 4.113, defl = 0.500
+ 
+Inputs: h = 0.0218 m, theta = 150.00 deg, diam_base = 0.0986.
+Outputs: m = 136.19, GCI = -0.6393, T = 0.04, F = 18.6, m_act = 41.0, m_link = 4.397, defl = 0.500
+ 
+Inputs: h = 0.0384 m, theta = 43.70 deg, diam_base = 0.1211.
+Outputs: m = 289.60, GCI = -0.7494, T = 0.90, F = 21.2, m_act = 90.0, m_link = 6.534, defl = 0.500
+ 
+Inputs: h = 0.0150 m, theta = 30.00 deg, diam_base = 0.0986.
+Outputs: m = 135.27, GCI = -0.4454, T = 0.46, F = 17.4, m_act = 41.0, m_link = 4.091, defl = 0.500
+ 
+Inputs: h = 0.0433 m, theta = 37.89 deg, diam_base = 0.1022.
+Outputs: m = 344.40, GCI = -0.9264, T = 1.86, F = 47.2, m_act = 107.0, m_link = 7.799, defl = 0.500
+ 
+Inputs: h = 0.0137 m, theta = 30.05 deg, diam_base = 0.0950.
+Outputs: m = 134.73, GCI = -0.4313, T = 0.48, F = 17.4, m_act = 41.0, m_link = 3.909, defl = 0.500
+ 
+Inputs: h = 0.0171 m, theta = 30.43 deg, diam_base = 0.0986.
+Outputs: m = 135.52, GCI = -0.5212, T = 0.28, F = 17.7, m_act = 41.0, m_link = 4.172, defl = 0.500
+ 
+Inputs: h = 0.0147 m, theta = 30.76 deg, diam_base = 0.0987.
+Outputs: m = 135.25, GCI = -0.4453, T = 0.49, F = 17.4, m_act = 41.0, m_link = 4.083, defl = 0.500
+ 
+Inputs: h = 0.0139 m, theta = 30.19 deg, diam_base = 0.0950.
+Outputs: m = 134.74, GCI = -0.4367, T = 0.46, F = 17.4, m_act = 41.0, m_link = 3.914, defl = 0.500
+ 
+Inputs: h = 0.0418 m, theta = 36.56 deg, diam_base = 0.1016.
+Outputs: m = 342.82, GCI = -0.9195, T = 1.76, F = 41.0, m_act = 107.0, m_link = 7.273, defl = 0.500
+ 
+Inputs: h = 0.0158 m, theta = 30.00 deg, diam_base = 0.0991.
+Outputs: m = 135.41, GCI = -0.5000, T = 0.41, F = 17.5, m_act = 41.0, m_link = 4.137, defl = 0.500
+ 
+Inputs: h = 0.0208 m, theta = 150.00 deg, diam_base = 0.0988.
+Outputs: m = 136.05, GCI = -0.6557, T = 0.01, F = 18.4, m_act = 41.0, m_link = 4.351, defl = 0.500
+ 
+Inputs: h = 0.0148 m, theta = 30.74 deg, diam_base = 0.0987.
+Outputs: m = 135.26, GCI = -0.4484, T = 0.48, F = 17.4, m_act = 41.0, m_link = 4.087, defl = 0.500
+ 
+Inputs: h = 0.0157 m, theta = 30.02 deg, diam_base = 0.0990.
+Outputs: m = 135.40, GCI = -0.4994, T = 0.41, F = 17.5, m_act = 41.0, m_link = 4.135, defl = 0.500
+ 
+Inputs: h = 0.0395 m, theta = 137.83 deg, diam_base = 0.1138.
+Outputs: m = 142.60, GCI = -0.7094, T = 0.58, F = 24.3, m_act = 41.0, m_link = 6.533, defl = 0.500
+ 
+Inputs: h = 0.0435 m, theta = 35.15 deg, diam_base = 0.1016.
+Outputs: m = 344.86, GCI = -0.8961, T = 1.79, F = 50.2, m_act = 107.0, m_link = 7.954, defl = 0.500
+ 
+Inputs: h = 0.0135 m, theta = 30.17 deg, diam_base = 0.0953.
+Outputs: m = 134.74, GCI = -0.4240, T = 0.50, F = 17.4, m_act = 41.0, m_link = 3.912, defl = 0.500
+ 
+Inputs: h = 0.0435 m, theta = 37.78 deg, diam_base = 0.1016.
+Outputs: m = 344.84, GCI = -0.9243, T = 1.88, F = 50.2, m_act = 107.0, m_link = 7.948, defl = 0.500
+ 
+Inputs: h = 0.0165 m, theta = 30.08 deg, diam_base = 0.0991.
+Outputs: m = 135.50, GCI = -0.5100, T = 0.35, F = 17.6, m_act = 41.0, m_link = 4.166, defl = 0.500
+ 
+Inputs: h = 0.0427 m, theta = 37.74 deg, diam_base = 0.1018.
+Outputs: m = 343.85, GCI = -0.9263, T = 1.84, F = 45.2, m_act = 107.0, m_link = 7.616, defl = 0.500
+ 
+Inputs: h = 0.0158 m, theta = 30.00 deg, diam_base = 0.0991.
+Outputs: m = 135.41, GCI = -0.4997, T = 0.41, F = 17.5, m_act = 41.0, m_link = 4.136, defl = 0.500
+ 
+Inputs: h = 0.0191 m, theta = 150.00 deg, diam_base = 0.0985.
+Outputs: m = 135.78, GCI = -0.5912, T = 0.03, F = 18.1, m_act = 41.0, m_link = 4.259, defl = 0.500
+ 
+Inputs: h = 0.0220 m, theta = 150.00 deg, diam_base = 0.0986.
+Outputs: m = 136.23, GCI = -0.6342, T = 0.05, F = 18.7, m_act = 41.0, m_link = 4.408, defl = 0.500
+ 
+Inputs: h = 0.0157 m, theta = 30.00 deg, diam_base = 0.0991.
+Outputs: m = 135.40, GCI = -0.4990, T = 0.41, F = 17.5, m_act = 41.0, m_link = 4.135, defl = 0.500
+ 
+Inputs: h = 0.0375 m, theta = 44.54 deg, diam_base = 0.1210.
+Outputs: m = 142.30, GCI = -0.6341, T = 0.81, F = 20.8, m_act = 41.0, m_link = 6.434, defl = 0.500
+ 
+Inputs: h = 0.0391 m, theta = 134.10 deg, diam_base = 0.1137.
+Outputs: m = 142.43, GCI = -0.7047, T = 0.61, F = 24.0, m_act = 41.0, m_link = 6.477, defl = 0.500
+ 
+Inputs: h = 0.0431 m, theta = 37.84 deg, diam_base = 0.1017.
+Outputs: m = 344.23, GCI = -0.9262, T = 1.86, F = 47.1, m_act = 107.0, m_link = 7.744, defl = 0.500
+ 
+Inputs: h = 0.0162 m, theta = 30.00 deg, diam_base = 0.0992.
+Outputs: m = 135.47, GCI = -0.5054, T = 0.38, F = 17.6, m_act = 41.0, m_link = 4.156, defl = 0.500
+ 
+Completed 8 generations!
+    Restarting model to clean up...
+ 
+Inputs: h = 0.0154 m, theta = 31.15 deg, diam_base = 0.0986.
+Outputs: m = 135.31, GCI = -0.4680, T = 0.43, F = 17.5, m_act = 41.0, m_link = 4.104, defl = 0.500
+ 
+Inputs: h = 0.0270 m, theta = 46.99 deg, diam_base = 0.0978.
+Outputs: m = 137.22, GCI = -0.6034, T = 0.70, F = 20.6, m_act = 41.0, m_link = 4.739, defl = 0.500
+ 
+Inputs: h = 0.0205 m, theta = 148.75 deg, diam_base = 0.0985.
+Outputs: m = 135.97, GCI = -0.5052, T = 0.01, F = 18.3, m_act = 41.0, m_link = 4.322, defl = 0.500
+ 
+Inputs: h = 0.0402 m, theta = 136.54 deg, diam_base = 0.1140.
+Outputs: m = 142.94, GCI = -0.7095, T = 0.63, F = 24.9, m_act = 41.0, m_link = 6.646, defl = 0.500
+ 
+Inputs: h = 0.0202 m, theta = 148.64 deg, diam_base = 0.0974.
+Outputs: m = 135.81, GCI = -0.5173, T = 0.01, F = 18.4, m_act = 41.0, m_link = 4.269, defl = 0.500
+ 
+Inputs: h = 0.0158 m, theta = 35.48 deg, diam_base = 0.0983.
+Outputs: m = 135.33, GCI = -0.3638, T = 0.38, F = 17.5, m_act = 41.0, m_link = 4.111, defl = 0.500
+ 
+Inputs: h = 0.0206 m, theta = 150.00 deg, diam_base = 0.0974.
+Outputs: m = 135.87, GCI = -0.6547, T = 0.02, F = 18.5, m_act = 41.0, m_link = 4.289, defl = 0.500
+ 
+Inputs: h = 0.0426 m, theta = 35.96 deg, diam_base = 0.1018.
+Outputs: m = 343.70, GCI = -0.9109, T = 1.78, F = 44.6, m_act = 107.0, m_link = 7.567, defl = 0.500
+ 
+Inputs: h = 0.0208 m, theta = 30.63 deg, diam_base = 0.0952.
+Outputs: m = 135.67, GCI = -0.6714, T = 0.17, F = 18.7, m_act = 41.0, m_link = 4.224, defl = 0.500
+ 
+Inputs: h = 0.0160 m, theta = 34.06 deg, diam_base = 0.0982.
+Outputs: m = 135.33, GCI = -0.4811, T = 0.37, F = 17.6, m_act = 41.0, m_link = 4.111, defl = 0.500
+ 
+Inputs: h = 0.0206 m, theta = 30.49 deg, diam_base = 0.0950.
+Outputs: m = 135.63, GCI = -0.6675, T = 0.16, F = 18.7, m_act = 41.0, m_link = 4.211, defl = 0.500
+ 
+Inputs: h = 0.0152 m, theta = 32.86 deg, diam_base = 0.0980.
+Outputs: m = 135.22, GCI = -0.4586, T = 0.43, F = 17.5, m_act = 41.0, m_link = 4.073, defl = 0.500
+ 
+Inputs: h = 0.0156 m, theta = 30.00 deg, diam_base = 0.0986.
+Outputs: m = 135.34, GCI = -0.4986, T = 0.41, F = 17.5, m_act = 41.0, m_link = 4.113, defl = 0.500
+ 
+Inputs: h = 0.0159 m, theta = 30.00 deg, diam_base = 0.0991.
+Outputs: m = 135.42, GCI = -0.5017, T = 0.40, F = 17.5, m_act = 41.0, m_link = 4.141, defl = 0.500
+ 
+Inputs: h = 0.0136 m, theta = 30.16 deg, diam_base = 0.0950.
+Outputs: m = 134.71, GCI = -0.4258, T = 0.49, F = 17.4, m_act = 41.0, m_link = 3.903, defl = 0.500
+ 
+Inputs: h = 0.0156 m, theta = 31.74 deg, diam_base = 0.0988.
+Outputs: m = 135.37, GCI = -0.4748, T = 0.41, F = 17.5, m_act = 41.0, m_link = 4.122, defl = 0.500
+ 
+Inputs: h = 0.0159 m, theta = 34.10 deg, diam_base = 0.0983.
+Outputs: m = 135.34, GCI = -0.4779, T = 0.38, F = 17.6, m_act = 41.0, m_link = 4.114, defl = 0.500
+ 
+Inputs: h = 0.0134 m, theta = 30.04 deg, diam_base = 0.0950.
+Outputs: m = 134.70, GCI = -0.4214, T = 0.50, F = 17.4, m_act = 41.0, m_link = 3.900, defl = 0.500
+ 
+Inputs: h = 0.0157 m, theta = 30.00 deg, diam_base = 0.0985.
+Outputs: m = 135.34, GCI = -0.5002, T = 0.40, F = 17.5, m_act = 41.0, m_link = 4.114, defl = 0.500
+ 
+Inputs: h = 0.0134 m, theta = 30.03 deg, diam_base = 0.0951.
+Outputs: m = 134.70, GCI = -0.4204, T = 0.51, F = 17.4, m_act = 41.0, m_link = 3.901, defl = 0.500
+ 
+Inputs: h = 0.0158 m, theta = 30.00 deg, diam_base = 0.0991.
+Outputs: m = 135.41, GCI = -0.4997, T = 0.41, F = 17.5, m_act = 41.0, m_link = 4.137, defl = 0.500
+ 
+Inputs: h = 0.0156 m, theta = 30.00 deg, diam_base = 0.0986.
+Outputs: m = 135.34, GCI = -0.4986, T = 0.41, F = 17.5, m_act = 41.0, m_link = 4.113, defl = 0.500
+ 
+Inputs: h = 0.0425 m, theta = 36.97 deg, diam_base = 0.1015.
+Outputs: m = 343.61, GCI = -0.9207, T = 1.81, F = 44.6, m_act = 107.0, m_link = 7.538, defl = 0.500
+ 
+Inputs: h = 0.0430 m, theta = 37.92 deg, diam_base = 0.1018.
+Outputs: m = 344.15, GCI = -0.9270, T = 1.86, F = 46.5, m_act = 107.0, m_link = 7.718, defl = 0.500
+ 
+Inputs: h = 0.0202 m, theta = 150.00 deg, diam_base = 0.0972.
+Outputs: m = 135.79, GCI = -0.6577, T = 0.01, F = 18.4, m_act = 41.0, m_link = 4.263, defl = 0.500
+ 
+Inputs: h = 0.0209 m, theta = 30.00 deg, diam_base = 0.0951.
+Outputs: m = 135.69, GCI = -0.5480, T = 0.19, F = 18.8, m_act = 41.0, m_link = 4.229, defl = 0.500
+ 
+Inputs: h = 0.0135 m, theta = 30.09 deg, diam_base = 0.0951.
+Outputs: m = 134.71, GCI = -0.4223, T = 0.50, F = 17.4, m_act = 41.0, m_link = 3.905, defl = 0.500
+ 
+Inputs: h = 0.0159 m, theta = 34.06 deg, diam_base = 0.0983.
+Outputs: m = 135.33, GCI = -0.4774, T = 0.38, F = 17.6, m_act = 41.0, m_link = 4.109, defl = 0.500
+ 
+Inputs: h = 0.0386 m, theta = 135.41 deg, diam_base = 0.1133.
+Outputs: m = 142.19, GCI = -0.7637, T = 0.57, F = 23.8, m_act = 41.0, m_link = 6.398, defl = 0.500
+ 
+Inputs: h = 0.0158 m, theta = 30.78 deg, diam_base = 0.0997.
+Outputs: m = 135.49, GCI = -0.4702, T = 0.42, F = 17.5, m_act = 41.0, m_link = 4.162, defl = 0.500
+ 
+Inputs: h = 0.0159 m, theta = 32.33 deg, diam_base = 0.0993.
+Outputs: m = 135.44, GCI = -0.4786, T = 0.41, F = 17.5, m_act = 41.0, m_link = 4.148, defl = 0.500
+ 
+Inputs: h = 0.0383 m, theta = 134.35 deg, diam_base = 0.1125.
+Outputs: m = 142.00, GCI = -0.7004, T = 0.59, F = 23.8, m_act = 41.0, m_link = 6.334, defl = 0.500
+ 
+Inputs: h = 0.0134 m, theta = 30.06 deg, diam_base = 0.0951.
+Outputs: m = 134.71, GCI = -0.4208, T = 0.51, F = 17.4, m_act = 41.0, m_link = 3.903, defl = 0.500
+ 
+Inputs: h = 0.0159 m, theta = 34.09 deg, diam_base = 0.0983.
+Outputs: m = 135.33, GCI = -0.4787, T = 0.37, F = 17.6, m_act = 41.0, m_link = 4.111, defl = 0.500
+ 
+Inputs: h = 0.0389 m, theta = 135.58 deg, diam_base = 0.1139.
+Outputs: m = 142.35, GCI = -0.7614, T = 0.57, F = 23.8, m_act = 41.0, m_link = 6.450, defl = 0.500
+ 
+Inputs: h = 0.0428 m, theta = 38.54 deg, diam_base = 0.1018.
+Outputs: m = 343.89, GCI = -0.6265, T = 1.87, F = 45.3, m_act = 107.0, m_link = 7.631, defl = 0.500
+ 
+Inputs: h = 0.0156 m, theta = 30.00 deg, diam_base = 0.0986.
+Outputs: m = 135.34, GCI = -0.4987, T = 0.41, F = 17.5, m_act = 41.0, m_link = 4.114, defl = 0.500
+ 
+Inputs: h = 0.0157 m, theta = 30.00 deg, diam_base = 0.0991.
+Outputs: m = 135.40, GCI = -0.4983, T = 0.42, F = 17.5, m_act = 41.0, m_link = 4.133, defl = 0.500
+ 
+Inputs: h = 0.0201 m, theta = 150.00 deg, diam_base = 0.0974.
+Outputs: m = 135.79, GCI = -0.6513, T = 0.01, F = 18.3, m_act = 41.0, m_link = 4.263, defl = 0.500
+ 
+Inputs: h = 0.0157 m, theta = 30.00 deg, diam_base = 0.0986.
+Outputs: m = 135.35, GCI = -0.5003, T = 0.40, F = 17.5, m_act = 41.0, m_link = 4.116, defl = 0.500
+ 
+Inputs: h = 0.0100 m, theta = 149.36 deg, diam_base = 0.1044.
+Outputs: m = 135.57, GCI = -0.1256, T = 0.26, F = 16.9, m_act = 41.0, m_link = 4.191, defl = 0.500
+ 
+Inputs: h = 0.0557 m, theta = 31.76 deg, diam_base = 0.1250.
+Outputs: m = 355.98, GCI = -0.8036, T = 1.73, F = 54.5, m_act = 107.0, m_link = 11.661, defl = 0.500
+ 
+Inputs: h = 0.0370 m, theta = 134.08 deg, diam_base = 0.1139.
+Outputs: m = 141.56, GCI = -0.6971, T = 0.48, F = 22.3, m_act = 41.0, m_link = 6.185, defl = 0.500
+ 
+Inputs: h = 0.0175 m, theta = 33.89 deg, diam_base = 0.0986.
+Outputs: m = 135.56, GCI = -0.5258, T = 0.25, F = 17.8, m_act = 41.0, m_link = 4.185, defl = 0.500
+ 
+Inputs: h = 0.0422 m, theta = 36.95 deg, diam_base = 0.1012.
+Outputs: m = 343.41, GCI = -0.9209, T = 1.81, F = 44.1, m_act = 107.0, m_link = 7.471, defl = 0.500
+ 
+Inputs: h = 0.0159 m, theta = 30.01 deg, diam_base = 0.0989.
+Outputs: m = 135.41, GCI = -0.5023, T = 0.40, F = 17.5, m_act = 41.0, m_link = 4.135, defl = 0.500
+ 
+Inputs: h = 0.0157 m, theta = 30.00 deg, diam_base = 0.0991.
+Outputs: m = 135.40, GCI = -0.4983, T = 0.42, F = 17.5, m_act = 41.0, m_link = 4.133, defl = 0.500
+ 
+Inputs: h = 0.0157 m, theta = 30.00 deg, diam_base = 0.0991.
+Outputs: m = 135.40, GCI = -0.4988, T = 0.41, F = 17.5, m_act = 41.0, m_link = 4.134, defl = 0.500
+ 
+Inputs: h = 0.0156 m, theta = 30.00 deg, diam_base = 0.0986.
+Outputs: m = 135.34, GCI = -0.4980, T = 0.41, F = 17.5, m_act = 41.0, m_link = 4.112, defl = 0.500
+ 
+Inputs: h = 0.0209 m, theta = 30.61 deg, diam_base = 0.0950.
+Outputs: m = 135.68, GCI = -0.6690, T = 0.19, F = 18.8, m_act = 41.0, m_link = 4.227, defl = 0.500
+ 
+Inputs: h = 0.0184 m, theta = 30.08 deg, diam_base = 0.0950.
+Outputs: m = 135.28, GCI = -0.4359, T = 0.06, F = 18.1, m_act = 41.0, m_link = 4.093, defl = 0.500
+ 
+Inputs: h = 0.0145 m, theta = 30.41 deg, diam_base = 0.0979.
+Outputs: m = 135.14, GCI = -0.3958, T = 0.48, F = 17.4, m_act = 41.0, m_link = 4.045, defl = 0.500
+ 
+Inputs: h = 0.0427 m, theta = 36.64 deg, diam_base = 0.1016.
+Outputs: m = 343.81, GCI = -0.9172, T = 1.81, F = 45.2, m_act = 107.0, m_link = 7.602, defl = 0.500
+ 
+Inputs: h = 0.0199 m, theta = 150.00 deg, diam_base = 0.0974.
+Outputs: m = 135.77, GCI = -0.5634, T = 0.00, F = 18.3, m_act = 41.0, m_link = 4.255, defl = 0.500
+ 
+Inputs: h = 0.0159 m, theta = 30.00 deg, diam_base = 0.0985.
+Outputs: m = 135.36, GCI = -0.5034, T = 0.38, F = 17.6, m_act = 41.0, m_link = 4.121, defl = 0.500
+ 
+Inputs: h = 0.0154 m, theta = 30.00 deg, diam_base = 0.0979.
+Outputs: m = 135.23, GCI = -0.4404, T = 0.41, F = 17.5, m_act = 41.0, m_link = 4.076, defl = 0.500
+ 
+Inputs: h = 0.0216 m, theta = 150.00 deg, diam_base = 0.0988.
+Outputs: m = 136.18, GCI = -0.6439, T = 0.03, F = 18.6, m_act = 41.0, m_link = 4.395, defl = 0.500
+ 
+Inputs: h = 0.0100 m, theta = 149.07 deg, diam_base = 0.1250.
+Outputs: m = 138.44, GCI = -0.3130, T = 0.34, F = 16.8, m_act = 41.0, m_link = 5.145, defl = 0.500
+ 
+Inputs: h = 0.0221 m, theta = 150.00 deg, diam_base = 0.0986.
+Outputs: m = 136.24, GCI = -0.6318, T = 0.05, F = 18.7, m_act = 41.0, m_link = 4.414, defl = 0.500
+ 
+Inputs: h = 0.0148 m, theta = 31.67 deg, diam_base = 0.0980.
+Outputs: m = 135.18, GCI = -0.4496, T = 0.46, F = 17.4, m_act = 41.0, m_link = 4.060, defl = 0.500
+ 
+Inputs: h = 0.0100 m, theta = 149.14 deg, diam_base = 0.0959.
+Outputs: m = 134.53, GCI = -0.1821, T = 0.22, F = 17.0, m_act = 41.0, m_link = 3.842, defl = 0.500
+ 
+Inputs: h = 0.0201 m, theta = 150.00 deg, diam_base = 0.0973.
+Outputs: m = 135.78, GCI = -0.6516, T = 0.01, F = 18.3, m_act = 41.0, m_link = 4.260, defl = 0.500
+ 
+Inputs: h = 0.0150 m, theta = 30.00 deg, diam_base = 0.0980.
+Outputs: m = 135.21, GCI = -0.4461, T = 0.44, F = 17.5, m_act = 41.0, m_link = 4.069, defl = 0.500
+ 
+Inputs: h = 0.0429 m, theta = 36.93 deg, diam_base = 0.1014.
+Outputs: m = 344.10, GCI = -0.9189, T = 1.83, F = 46.8, m_act = 107.0, m_link = 7.701, defl = 0.500
+ 
+Inputs: h = 0.0152 m, theta = 30.04 deg, diam_base = 0.0986.
+Outputs: m = 135.30, GCI = -0.4474, T = 0.44, F = 17.5, m_act = 41.0, m_link = 4.101, defl = 0.500
+ 
+Inputs: h = 0.0133 m, theta = 30.12 deg, diam_base = 0.0950.
+Outputs: m = 134.69, GCI = -0.4177, T = 0.51, F = 17.3, m_act = 41.0, m_link = 3.896, defl = 0.500
+ 
+Inputs: h = 0.0156 m, theta = 30.49 deg, diam_base = 0.0979.
+Outputs: m = 135.25, GCI = -0.4644, T = 0.40, F = 17.5, m_act = 41.0, m_link = 4.083, defl = 0.500
+ 
+Inputs: h = 0.0218 m, theta = 149.31 deg, diam_base = 0.0986.
+Outputs: m = 136.20, GCI = -0.6705, T = 0.04, F = 18.7, m_act = 41.0, m_link = 4.401, defl = 0.500
+ 
+Inputs: h = 0.0159 m, theta = 33.89 deg, diam_base = 0.0984.
+Outputs: m = 135.35, GCI = -0.4802, T = 0.37, F = 17.6, m_act = 41.0, m_link = 4.116, defl = 0.500
+ 
+Inputs: h = 0.0100 m, theta = 30.00 deg, diam_base = 0.1048.
+Outputs: m = 282.63, GCI = -0.2393, T = 0.93, F = 16.9, m_act = 90.0, m_link = 4.210, defl = 0.500
+ 
+Completed 9 generations!
+Inputs: h = 0.0378 m, theta = 136.13 deg, diam_base = 0.1134.
+Outputs: m = 141.83, GCI = -0.7541, T = 0.51, F = 23.0, m_act = 41.0, m_link = 6.277, defl = 0.500
+ 
+Inputs: h = 0.0146 m, theta = 30.00 deg, diam_base = 0.0950.
+Outputs: m = 134.82, GCI = -0.4461, T = 0.40, F = 17.5, m_act = 41.0, m_link = 3.939, defl = 0.500
+ 
+Inputs: h = 0.0107 m, theta = 45.94 deg, diam_base = 0.1250.
+Outputs: m = 285.48, GCI = -0.1300, T = 1.07, F = 16.8, m_act = 90.0, m_link = 5.159, defl = 0.500
+ 
+Inputs: h = 0.0222 m, theta = 150.00 deg, diam_base = 0.0988.
+Outputs: m = 136.29, GCI = -0.6293, T = 0.05, F = 18.7, m_act = 41.0, m_link = 4.430, defl = 0.500
+ 
+Inputs: h = 0.0150 m, theta = 30.00 deg, diam_base = 0.0986.
+Outputs: m = 135.27, GCI = -0.4455, T = 0.46, F = 17.4, m_act = 41.0, m_link = 4.090, defl = 0.500
+ 
+Inputs: h = 0.0156 m, theta = 30.49 deg, diam_base = 0.0980.
+Outputs: m = 135.26, GCI = -0.4645, T = 0.40, F = 17.5, m_act = 41.0, m_link = 4.087, defl = 0.500
+ 
+Inputs: h = 0.0206 m, theta = 30.49 deg, diam_base = 0.0950.
+Outputs: m = 135.63, GCI = -0.6677, T = 0.16, F = 18.7, m_act = 41.0, m_link = 4.208, defl = 0.500
+ 
+Inputs: h = 0.0100 m, theta = 30.00 deg, diam_base = 0.0950.
+Outputs: m = 134.42, GCI = -0.2737, T = 0.78, F = 17.0, m_act = 41.0, m_link = 3.805, defl = 0.500
+ 
+Inputs: h = 0.0169 m, theta = 30.00 deg, diam_base = 0.0987.
+Outputs: m = 135.50, GCI = -0.5085, T = 0.30, F = 17.7, m_act = 41.0, m_link = 4.166, defl = 0.500
+ 
+Inputs: h = 0.0408 m, theta = 36.60 deg, diam_base = 0.1015.
+Outputs: m = 341.89, GCI = -0.9225, T = 1.72, F = 37.4, m_act = 107.0, m_link = 6.964, defl = 0.500
+ 
+Inputs: h = 0.0156 m, theta = 30.00 deg, diam_base = 0.0986.
+Outputs: m = 135.34, GCI = -0.4981, T = 0.41, F = 17.5, m_act = 41.0, m_link = 4.112, defl = 0.500
+ 
+Inputs: h = 0.0159 m, theta = 30.00 deg, diam_base = 0.0985.
+Outputs: m = 135.36, GCI = -0.5033, T = 0.38, F = 17.6, m_act = 41.0, m_link = 4.121, defl = 0.500
+ 
+Inputs: h = 0.0204 m, theta = 30.28 deg, diam_base = 0.0952.
+Outputs: m = 135.61, GCI = -0.6623, T = 0.13, F = 18.6, m_act = 41.0, m_link = 4.205, defl = 0.500
+ 
+Inputs: h = 0.0420 m, theta = 36.77 deg, diam_base = 0.1014.
+Outputs: m = 343.10, GCI = -0.9204, T = 1.79, F = 42.4, m_act = 107.0, m_link = 7.367, defl = 0.500
+ 
+Inputs: h = 0.0135 m, theta = 30.00 deg, diam_base = 0.0950.
+Outputs: m = 134.70, GCI = -0.4244, T = 0.50, F = 17.4, m_act = 41.0, m_link = 3.902, defl = 0.500
+ 
+Inputs: h = 0.0418 m, theta = 36.89 deg, diam_base = 0.1017.
+Outputs: m = 342.84, GCI = -0.9223, T = 1.77, F = 40.9, m_act = 107.0, m_link = 7.279, defl = 0.500
+ 
+Inputs: h = 0.0372 m, theta = 44.20 deg, diam_base = 0.1203.
+Outputs: m = 142.15, GCI = -0.6718, T = 0.82, F = 20.9, m_act = 41.0, m_link = 6.383, defl = 0.500
+ 
+Inputs: h = 0.0155 m, theta = 30.48 deg, diam_base = 0.0985.
+Outputs: m = 135.31, GCI = -0.4626, T = 0.42, F = 17.5, m_act = 41.0, m_link = 4.102, defl = 0.500
+ 
+Inputs: h = 0.0375 m, theta = 43.47 deg, diam_base = 0.1195.
+Outputs: m = 289.18, GCI = -0.7463, T = 0.88, F = 21.2, m_act = 90.0, m_link = 6.393, defl = 0.500
+ 
+Inputs: h = 0.0172 m, theta = 33.95 deg, diam_base = 0.0993.
+Outputs: m = 135.61, GCI = -0.5161, T = 0.29, F = 17.7, m_act = 41.0, m_link = 4.202, defl = 0.500
+ 
+Inputs: h = 0.0175 m, theta = 33.86 deg, diam_base = 0.0986.
+Outputs: m = 135.56, GCI = -0.5259, T = 0.25, F = 17.8, m_act = 41.0, m_link = 4.186, defl = 0.500
+ 
+Inputs: h = 0.0154 m, theta = 31.18 deg, diam_base = 0.0986.
+Outputs: m = 135.31, GCI = -0.4680, T = 0.43, F = 17.5, m_act = 41.0, m_link = 4.103, defl = 0.500
+ 
+Inputs: h = 0.0157 m, theta = 30.00 deg, diam_base = 0.0985.
+Outputs: m = 135.33, GCI = -0.4996, T = 0.40, F = 17.5, m_act = 41.0, m_link = 4.111, defl = 0.500
+ 
+Inputs: h = 0.0138 m, theta = 30.05 deg, diam_base = 0.0950.
+Outputs: m = 134.73, GCI = -0.4323, T = 0.47, F = 17.4, m_act = 41.0, m_link = 3.911, defl = 0.500
+ 
+Inputs: h = 0.0164 m, theta = 30.29 deg, diam_base = 0.0984.
+Outputs: m = 135.41, GCI = -0.5144, T = 0.34, F = 17.6, m_act = 41.0, m_link = 4.138, defl = 0.500
+ 
+Inputs: h = 0.0356 m, theta = 42.71 deg, diam_base = 0.1201.
+Outputs: m = 141.63, GCI = -0.7314, T = 0.67, F = 20.2, m_act = 41.0, m_link = 6.212, defl = 0.500
+ 
+Inputs: h = 0.0156 m, theta = 30.90 deg, diam_base = 0.0979.
+Outputs: m = 135.26, GCI = -0.4736, T = 0.39, F = 17.5, m_act = 41.0, m_link = 4.087, defl = 0.500
+ 
+Inputs: h = 0.0120 m, theta = 45.53 deg, diam_base = 0.0950.
+Outputs: m = 134.57, GCI = -0.2070, T = 0.59, F = 17.2, m_act = 41.0, m_link = 3.858, defl = 0.500
+ 
+Inputs: h = 0.0142 m, theta = 30.21 deg, diam_base = 0.0952.
+Outputs: m = 134.81, GCI = -0.3976, T = 0.44, F = 17.5, m_act = 41.0, m_link = 3.935, defl = 0.500
+ 
+Inputs: h = 0.0357 m, theta = 43.17 deg, diam_base = 0.1186.
+Outputs: m = 141.51, GCI = -0.6493, T = 0.74, F = 20.5, m_act = 41.0, m_link = 6.168, defl = 0.500
+ 
+Inputs: h = 0.0136 m, theta = 30.05 deg, diam_base = 0.0951.
+Outputs: m = 134.72, GCI = -0.4281, T = 0.49, F = 17.4, m_act = 41.0, m_link = 3.908, defl = 0.500
+ 
+Inputs: h = 0.0157 m, theta = 30.00 deg, diam_base = 0.0985.
+Outputs: m = 135.34, GCI = -0.5005, T = 0.40, F = 17.5, m_act = 41.0, m_link = 4.115, defl = 0.500
+ 
+Inputs: h = 0.0100 m, theta = 30.00 deg, diam_base = 0.1250.
+Outputs: m = 285.44, GCI = -0.1686, T = 1.07, F = 16.8, m_act = 90.0, m_link = 5.145, defl = 0.500
+ 
+Inputs: h = 0.0154 m, theta = 31.13 deg, diam_base = 0.0986.
+Outputs: m = 135.31, GCI = -0.4671, T = 0.43, F = 17.5, m_act = 41.0, m_link = 4.103, defl = 0.500
+ 
+Inputs: h = 0.0207 m, theta = 30.51 deg, diam_base = 0.0950.
+Outputs: m = 135.64, GCI = -0.6680, T = 0.17, F = 18.7, m_act = 41.0, m_link = 4.212, defl = 0.500
+ 
+Inputs: h = 0.0160 m, theta = 34.29 deg, diam_base = 0.0983.
+Outputs: m = 135.34, GCI = -0.4800, T = 0.37, F = 17.6, m_act = 41.0, m_link = 4.114, defl = 0.500
+ 
+Inputs: h = 0.0206 m, theta = 30.29 deg, diam_base = 0.0950.
+Outputs: m = 135.62, GCI = -0.6608, T = 0.16, F = 18.7, m_act = 41.0, m_link = 4.207, defl = 0.500
+ 
+Inputs: h = 0.0217 m, theta = 146.37 deg, diam_base = 0.0988.
+Outputs: m = 136.20, GCI = -0.6069, T = 0.04, F = 18.6, m_act = 41.0, m_link = 4.399, defl = 0.500
+ 
+Inputs: h = 0.0153 m, theta = 34.13 deg, diam_base = 0.0986.
+Outputs: m = 135.30, GCI = -0.4089, T = 0.43, F = 17.5, m_act = 41.0, m_link = 4.100, defl = 0.500
+ 
+Inputs: h = 0.0111 m, theta = 45.93 deg, diam_base = 0.0950.
+Outputs: m = 134.49, GCI = -0.2098, T = 0.66, F = 17.1, m_act = 41.0, m_link = 3.831, defl = 0.500
+ 
+Inputs: h = 0.0373 m, theta = 43.33 deg, diam_base = 0.1199.
+Outputs: m = 289.13, GCI = -0.7437, T = 0.84, F = 21.0, m_act = 90.0, m_link = 6.376, defl = 0.500
+ 
+Inputs: h = 0.0155 m, theta = 31.35 deg, diam_base = 0.0985.
+Outputs: m = 135.31, GCI = -0.4702, T = 0.42, F = 17.5, m_act = 41.0, m_link = 4.103, defl = 0.500
+ 
+Inputs: h = 0.0376 m, theta = 42.18 deg, diam_base = 0.1202.
+Outputs: m = 289.25, GCI = -0.7303, T = 0.86, F = 21.0, m_act = 90.0, m_link = 6.417, defl = 0.500
+ 
+Inputs: h = 0.0156 m, theta = 30.00 deg, diam_base = 0.0987.
+Outputs: m = 135.35, GCI = -0.4307, T = 0.42, F = 17.5, m_act = 41.0, m_link = 4.116, defl = 0.500
+ 
+Inputs: h = 0.0135 m, theta = 30.12 deg, diam_base = 0.0950.
+Outputs: m = 134.71, GCI = -0.4249, T = 0.49, F = 17.4, m_act = 41.0, m_link = 3.902, defl = 0.500
+ 
+Inputs: h = 0.0178 m, theta = 37.23 deg, diam_base = 0.0986.
+Outputs: m = 135.60, GCI = -0.4669, T = 0.22, F = 17.8, m_act = 41.0, m_link = 4.199, defl = 0.500
+ 
+Inputs: h = 0.0216 m, theta = 145.77 deg, diam_base = 0.0986.
+Outputs: m = 136.16, GCI = -0.5616, T = 0.04, F = 18.6, m_act = 41.0, m_link = 4.387, defl = 0.500
+ 
+Inputs: h = 0.0100 m, theta = 45.91 deg, diam_base = 0.0950.
+Outputs: m = 134.42, GCI = -0.1751, T = 0.74, F = 17.0, m_act = 41.0, m_link = 3.805, defl = 0.500
+ 
+Inputs: h = 0.0422 m, theta = 36.59 deg, diam_base = 0.1017.
+Outputs: m = 343.30, GCI = -0.9184, T = 1.79, F = 42.9, m_act = 107.0, m_link = 7.433, defl = 0.500
+ 
+Inputs: h = 0.0154 m, theta = 34.06 deg, diam_base = 0.0982.
+Outputs: m = 135.27, GCI = -0.4105, T = 0.41, F = 17.5, m_act = 41.0, m_link = 4.090, defl = 0.500
+ 
+Inputs: h = 0.0174 m, theta = 33.52 deg, diam_base = 0.0986.
+Outputs: m = 135.55, GCI = -0.5248, T = 0.25, F = 17.8, m_act = 41.0, m_link = 4.183, defl = 0.500
+ 
+Inputs: h = 0.0170 m, theta = 31.23 deg, diam_base = 0.0983.
+Outputs: m = 135.46, GCI = -0.4739, T = 0.29, F = 17.7, m_act = 41.0, m_link = 4.154, defl = 0.500
+ 
+Inputs: h = 0.0219 m, theta = 149.68 deg, diam_base = 0.0985.
+Outputs: m = 136.21, GCI = -0.6535, T = 0.05, F = 18.7, m_act = 41.0, m_link = 4.402, defl = 0.500
+ 
+Inputs: h = 0.0135 m, theta = 30.00 deg, diam_base = 0.0951.
+Outputs: m = 134.72, GCI = -0.4219, T = 0.50, F = 17.4, m_act = 41.0, m_link = 3.906, defl = 0.500
+ 
+Inputs: h = 0.0157 m, theta = 30.24 deg, diam_base = 0.0986.
+Outputs: m = 135.35, GCI = -0.4537, T = 0.40, F = 17.5, m_act = 41.0, m_link = 4.115, defl = 0.500
+ 
+Inputs: h = 0.0174 m, theta = 33.65 deg, diam_base = 0.0986.
+Outputs: m = 135.55, GCI = -0.5237, T = 0.26, F = 17.8, m_act = 41.0, m_link = 4.182, defl = 0.500
+ 
+Inputs: h = 0.0160 m, theta = 39.42 deg, diam_base = 0.0982.
+Outputs: m = 135.34, GCI = -0.3945, T = 0.36, F = 17.6, m_act = 41.0, m_link = 4.115, defl = 0.500
+ 
+Inputs: h = 0.0214 m, theta = 144.02 deg, diam_base = 0.0988.
+Outputs: m = 136.16, GCI = -0.6017, T = 0.04, F = 18.5, m_act = 41.0, m_link = 4.387, defl = 0.500
+ 
+Inputs: h = 0.0156 m, theta = 30.00 deg, diam_base = 0.0986.
+Outputs: m = 135.34, GCI = -0.4987, T = 0.41, F = 17.5, m_act = 41.0, m_link = 4.113, defl = 0.500
+ 
+Inputs: h = 0.0157 m, theta = 30.00 deg, diam_base = 0.0985.
+Outputs: m = 135.34, GCI = -0.5001, T = 0.40, F = 17.5, m_act = 41.0, m_link = 4.114, defl = 0.500
+ 
+Inputs: h = 0.0159 m, theta = 34.04 deg, diam_base = 0.0983.
+Outputs: m = 135.33, GCI = -0.4791, T = 0.37, F = 17.6, m_act = 41.0, m_link = 4.111, defl = 0.500
+ 
+Inputs: h = 0.0156 m, theta = 30.05 deg, diam_base = 0.0986.
+Outputs: m = 135.34, GCI = -0.4369, T = 0.41, F = 17.5, m_act = 41.0, m_link = 4.114, defl = 0.500
+ 
+Inputs: h = 0.0218 m, theta = 150.00 deg, diam_base = 0.0986.
+Outputs: m = 136.20, GCI = -0.6385, T = 0.04, F = 18.7, m_act = 41.0, m_link = 4.400, defl = 0.500
+ 
+Inputs: h = 0.0363 m, theta = 41.84 deg, diam_base = 0.1188.
+Outputs: m = 141.71, GCI = -0.7251, T = 0.79, F = 20.7, m_act = 41.0, m_link = 6.238, defl = 0.500
+ 
+Inputs: h = 0.0406 m, theta = 36.80 deg, diam_base = 0.1020.
+Outputs: m = 341.69, GCI = -0.9246, T = 1.71, F = 36.1, m_act = 107.0, m_link = 6.896, defl = 0.500
+ 
+Inputs: h = 0.0133 m, theta = 45.70 deg, diam_base = 0.0950.
+Outputs: m = 134.68, GCI = -0.2221, T = 0.49, F = 17.3, m_act = 41.0, m_link = 3.894, defl = 0.500
+ 
+Inputs: h = 0.0187 m, theta = 36.75 deg, diam_base = 0.0989.
+Outputs: m = 135.76, GCI = -0.4595, T = 0.15, F = 18.0, m_act = 41.0, m_link = 4.252, defl = 0.500
+ 
+Inputs: h = 0.0374 m, theta = 132.55 deg, diam_base = 0.1129.
+Outputs: m = 141.67, GCI = -0.7151, T = 0.54, F = 22.9, m_act = 41.0, m_link = 6.223, defl = 0.500
+ 
+Inputs: h = 0.0137 m, theta = 30.00 deg, diam_base = 0.0950.
+Outputs: m = 134.73, GCI = -0.4310, T = 0.48, F = 17.4, m_act = 41.0, m_link = 3.910, defl = 0.500
+ 
+Inputs: h = 0.0159 m, theta = 34.17 deg, diam_base = 0.0982.
+Outputs: m = 135.33, GCI = -0.4784, T = 0.37, F = 17.6, m_act = 41.0, m_link = 4.109, defl = 0.500
+ 
+Inputs: h = 0.0100 m, theta = 30.47 deg, diam_base = 0.0950.
+Outputs: m = 134.42, GCI = -0.2697, T = 0.78, F = 17.0, m_act = 41.0, m_link = 3.805, defl = 0.500
+ 
+Completed 10 generations!
+    Restarting model to clean up...
+ 
+i = 1 -- Inputs: h = 0.0550 m, theta = 110.00 deg, diam_base = 0.1190.
+i = 2 -- Inputs: h = 0.0775 m, theta = 70.00 deg, diam_base = 0.1130.
+i = 3 -- Inputs: h = 0.0325 m, theta = 136.67 deg, diam_base = 0.1070.
+i = 4 -- Inputs: h = 0.0888 m, theta = 96.67 deg, diam_base = 0.1010.
+i = 5 -- Inputs: h = 0.0438 m, theta = 56.67 deg, diam_base = 0.1238.
+i = 6 -- Inputs: h = 0.0663 m, theta = 123.33 deg, diam_base = 0.1178.
+i = 7 -- Inputs: h = 0.0213 m, theta = 83.33 deg, diam_base = 0.1118.
+i = 8 -- Inputs: h = 0.0944 m, theta = 43.33 deg, diam_base = 0.1058.
+i = 9 -- Inputs: h = 0.0494 m, theta = 145.56 deg, diam_base = 0.0998.
+i = 10 -- Inputs: h = 0.0719 m, theta = 105.56 deg, diam_base = 0.1226.
+i = 11 -- Inputs: h = 0.0269 m, theta = 65.56 deg, diam_base = 0.1166.
+i = 12 -- Inputs: h = 0.0831 m, theta = 132.22 deg, diam_base = 0.1106.
+i = 13 -- Inputs: h = 0.0381 m, theta = 92.22 deg, diam_base = 0.1046.
+i = 14 -- Inputs: h = 0.0606 m, theta = 52.22 deg, diam_base = 0.0986.
+i = 15 -- Inputs: h = 0.0156 m, theta = 118.89 deg, diam_base = 0.1214.
+i = 16 -- Inputs: h = 0.0972 m, theta = 78.89 deg, diam_base = 0.1154.
+i = 17 -- Inputs: h = 0.0522 m, theta = 38.89 deg, diam_base = 0.1094.
+i = 18 -- Inputs: h = 0.0747 m, theta = 141.11 deg, diam_base = 0.1034.
+i = 19 -- Inputs: h = 0.0297 m, theta = 101.11 deg, diam_base = 0.0974.
+i = 20 -- Inputs: h = 0.0859 m, theta = 61.11 deg, diam_base = 0.1202.
+i = 21 -- Inputs: h = 0.0409 m, theta = 127.78 deg, diam_base = 0.1142.
+i = 22 -- Inputs: h = 0.0634 m, theta = 87.78 deg, diam_base = 0.1082.
+i = 23 -- Inputs: h = 0.0184 m, theta = 47.78 deg, diam_base = 0.1022.
+i = 24 -- Inputs: h = 0.0916 m, theta = 114.44 deg, diam_base = 0.0962.
+i = 25 -- Inputs: h = 0.0466 m, theta = 74.44 deg, diam_base = 0.1248.
+i = 26 -- Inputs: h = 0.0691 m, theta = 34.44 deg, diam_base = 0.1188.
+i = 27 -- Inputs: h = 0.0241 m, theta = 148.52 deg, diam_base = 0.1128.
+i = 28 -- Inputs: h = 0.0803 m, theta = 108.52 deg, diam_base = 0.1068.
+i = 29 -- Inputs: h = 0.0353 m, theta = 68.52 deg, diam_base = 0.1008.
+i = 30 -- Inputs: h = 0.0578 m, theta = 135.19 deg, diam_base = 0.1236.
+i = 31 -- Inputs: h = 0.0128 m, theta = 95.19 deg, diam_base = 0.1176.
+i = 32 -- Inputs: h = 0.0986 m, theta = 55.19 deg, diam_base = 0.1116.
+i = 33 -- Inputs: h = 0.0536 m, theta = 121.85 deg, diam_base = 0.1056.
+i = 34 -- Inputs: h = 0.0761 m, theta = 81.85 deg, diam_base = 0.0996.
+i = 35 -- Inputs: h = 0.0311 m, theta = 41.85 deg, diam_base = 0.1224.
+i = 36 -- Inputs: h = 0.0873 m, theta = 144.07 deg, diam_base = 0.1164.
+i = 37 -- Inputs: h = 0.0423 m, theta = 104.07 deg, diam_base = 0.1104.
+i = 38 -- Inputs: h = 0.0648 m, theta = 64.07 deg, diam_base = 0.1044.
+i = 39 -- Inputs: h = 0.0198 m, theta = 130.74 deg, diam_base = 0.0984.
+i = 40 -- Inputs: h = 0.0930 m, theta = 90.74 deg, diam_base = 0.1212.
+i = 41 -- Inputs: h = 0.0480 m, theta = 50.74 deg, diam_base = 0.1152.
+i = 42 -- Inputs: h = 0.0705 m, theta = 117.41 deg, diam_base = 0.1092.
+i = 43 -- Inputs: h = 0.0255 m, theta = 77.41 deg, diam_base = 0.1032.
+i = 44 -- Inputs: h = 0.0817 m, theta = 37.41 deg, diam_base = 0.0972.
+i = 45 -- Inputs: h = 0.0367 m, theta = 139.63 deg, diam_base = 0.1200.
+i = 46 -- Inputs: h = 0.0592 m, theta = 99.63 deg, diam_base = 0.1140.
+i = 47 -- Inputs: h = 0.0142 m, theta = 59.63 deg, diam_base = 0.1080.
+i = 48 -- Inputs: h = 0.0958 m, theta = 126.30 deg, diam_base = 0.1020.
+i = 49 -- Inputs: h = 0.0508 m, theta = 86.30 deg, diam_base = 0.0960.
+i = 50 -- Inputs: h = 0.0733 m, theta = 46.30 deg, diam_base = 0.1245.
+i = 51 -- Inputs: h = 0.0283 m, theta = 112.96 deg, diam_base = 0.1185.
+i = 52 -- Inputs: h = 0.0845 m, theta = 72.96 deg, diam_base = 0.1125.
+i = 53 -- Inputs: h = 0.0395 m, theta = 32.96 deg, diam_base = 0.1065.
+i = 54 -- Inputs: h = 0.0620 m, theta = 147.04 deg, diam_base = 0.1005.
+i = 55 -- Inputs: h = 0.0170 m, theta = 107.04 deg, diam_base = 0.1233.
+i = 56 -- Inputs: h = 0.0902 m, theta = 67.04 deg, diam_base = 0.1173.
+i = 57 -- Inputs: h = 0.0452 m, theta = 133.70 deg, diam_base = 0.1113.
+i = 58 -- Inputs: h = 0.0677 m, theta = 93.70 deg, diam_base = 0.1053.
+i = 59 -- Inputs: h = 0.0227 m, theta = 53.70 deg, diam_base = 0.0993.
+i = 60 -- Inputs: h = 0.0789 m, theta = 120.37 deg, diam_base = 0.1221.
+i = 61 -- Inputs: h = 0.0339 m, theta = 80.37 deg, diam_base = 0.1161.
+i = 62 -- Inputs: h = 0.0564 m, theta = 40.37 deg, diam_base = 0.1101.
+i = 63 -- Inputs: h = 0.0114 m, theta = 142.59 deg, diam_base = 0.1041.
+i = 64 -- Inputs: h = 0.0993 m, theta = 102.59 deg, diam_base = 0.0981.
+i = 65 -- Inputs: h = 0.0543 m, theta = 62.59 deg, diam_base = 0.1209.
+i = 66 -- Inputs: h = 0.0768 m, theta = 129.26 deg, diam_base = 0.1149.
+i = 67 -- Inputs: h = 0.0318 m, theta = 89.26 deg, diam_base = 0.1089.
+i = 68 -- Inputs: h = 0.0880 m, theta = 49.26 deg, diam_base = 0.1029.
+i = 69 -- Inputs: h = 0.0430 m, theta = 115.93 deg, diam_base = 0.0969.
+i = 70 -- Inputs: h = 0.0655 m, theta = 75.93 deg, diam_base = 0.1197.
+i = 71 -- Inputs: h = 0.0205 m, theta = 35.93 deg, diam_base = 0.1137.
+i = 72 -- Inputs: h = 0.0937 m, theta = 138.15 deg, diam_base = 0.1077.
+i = 73 -- Inputs: h = 0.0487 m, theta = 98.15 deg, diam_base = 0.1017.
+i = 74 -- Inputs: h = 0.0712 m, theta = 58.15 deg, diam_base = 0.0957.
+i = 75 -- Inputs: h = 0.0262 m, theta = 124.81 deg, diam_base = 0.1243.
+i = 76 -- Inputs: h = 0.0824 m, theta = 84.81 deg, diam_base = 0.1183.
+i = 77 -- Inputs: h = 0.0374 m, theta = 44.81 deg, diam_base = 0.1123.
+i = 78 -- Inputs: h = 0.0599 m, theta = 111.48 deg, diam_base = 0.1063.
+i = 79 -- Inputs: h = 0.0149 m, theta = 71.48 deg, diam_base = 0.1003.
+i = 80 -- Inputs: h = 0.0965 m, theta = 31.48 deg, diam_base = 0.1231.
+i = 81 -- Inputs: h = 0.0515 m, theta = 149.51 deg, diam_base = 0.1171.
+i = 82 -- Inputs: h = 0.0740 m, theta = 109.51 deg, diam_base = 0.1111.
+i = 83 -- Inputs: h = 0.0290 m, theta = 69.51 deg, diam_base = 0.1051.
+i = 84 -- Inputs: h = 0.0852 m, theta = 136.17 deg, diam_base = 0.0991.
+i = 85 -- Inputs: h = 0.0402 m, theta = 96.17 deg, diam_base = 0.1219.
+i = 86 -- Inputs: h = 0.0627 m, theta = 56.17 deg, diam_base = 0.1159.
+i = 87 -- Inputs: h = 0.0177 m, theta = 122.84 deg, diam_base = 0.1099.
+i = 88 -- Inputs: h = 0.0909 m, theta = 82.84 deg, diam_base = 0.1039.
+i = 89 -- Inputs: h = 0.0459 m, theta = 42.84 deg, diam_base = 0.0979.
+i = 90 -- Inputs: h = 0.0684 m, theta = 145.06 deg, diam_base = 0.1207.
+i = 91 -- Inputs: h = 0.0234 m, theta = 105.06 deg, diam_base = 0.1147.
+i = 92 -- Inputs: h = 0.0796 m, theta = 65.06 deg, diam_base = 0.1087.
+i = 93 -- Inputs: h = 0.0346 m, theta = 131.73 deg, diam_base = 0.1027.
+i = 94 -- Inputs: h = 0.0571 m, theta = 91.73 deg, diam_base = 0.0967.
+i = 95 -- Inputs: h = 0.0121 m, theta = 51.73 deg, diam_base = 0.1195.
+i = 96 -- Inputs: h = 0.0979 m, theta = 118.40 deg, diam_base = 0.1135.
+i = 97 -- Inputs: h = 0.0529 m, theta = 78.40 deg, diam_base = 0.1075.
+i = 98 -- Inputs: h = 0.0754 m, theta = 38.40 deg, diam_base = 0.1015.
+i = 99 -- Inputs: h = 0.0304 m, theta = 140.62 deg, diam_base = 0.0955.
+i = 100 -- Inputs: h = 0.0866 m, theta = 100.62 deg, diam_base = 0.1240.
+i = 101 -- Inputs: h = 0.0416 m, theta = 60.62 deg, diam_base = 0.1180.
+i = 102 -- Inputs: h = 0.0641 m, theta = 127.28 deg, diam_base = 0.1120.
+i = 103 -- Inputs: h = 0.0191 m, theta = 87.28 deg, diam_base = 0.1060.
+i = 104 -- Inputs: h = 0.0923 m, theta = 47.28 deg, diam_base = 0.1000.
+i = 105 -- Inputs: h = 0.0473 m, theta = 113.95 deg, diam_base = 0.1228.
+i = 106 -- Inputs: h = 0.0698 m, theta = 73.95 deg, diam_base = 0.1168.
+i = 107 -- Inputs: h = 0.0248 m, theta = 33.95 deg, diam_base = 0.1108.
+i = 108 -- Inputs: h = 0.0810 m, theta = 148.02 deg, diam_base = 0.1048.
+i = 109 -- Inputs: h = 0.0360 m, theta = 108.02 deg, diam_base = 0.0988.
+i = 110 -- Inputs: h = 0.0585 m, theta = 68.02 deg, diam_base = 0.1216.
+i = 111 -- Inputs: h = 0.0135 m, theta = 134.69 deg, diam_base = 0.1156.
+i = 112 -- Inputs: h = 0.0951 m, theta = 94.69 deg, diam_base = 0.1096.
+i = 113 -- Inputs: h = 0.0501 m, theta = 54.69 deg, diam_base = 0.1036.
+i = 114 -- Inputs: h = 0.0726 m, theta = 121.36 deg, diam_base = 0.0976.
+i = 115 -- Inputs: h = 0.0276 m, theta = 81.36 deg, diam_base = 0.1204.
+i = 116 -- Inputs: h = 0.0838 m, theta = 41.36 deg, diam_base = 0.1144.
+i = 117 -- Inputs: h = 0.0388 m, theta = 143.58 deg, diam_base = 0.1084.
+i = 118 -- Inputs: h = 0.0613 m, theta = 103.58 deg, diam_base = 0.1024.
+i = 119 -- Inputs: h = 0.0163 m, theta = 63.58 deg, diam_base = 0.0964.
+i = 120 -- Inputs: h = 0.0895 m, theta = 130.25 deg, diam_base = 0.1192.
+i = 121 -- Inputs: h = 0.0445 m, theta = 90.25 deg, diam_base = 0.1132.
+i = 122 -- Inputs: h = 0.0670 m, theta = 50.25 deg, diam_base = 0.1072.
+i = 123 -- Inputs: h = 0.0220 m, theta = 116.91 deg, diam_base = 0.1012.
+i = 124 -- Inputs: h = 0.0782 m, theta = 76.91 deg, diam_base = 0.0952.
+i = 125 -- Inputs: h = 0.0332 m, theta = 36.91 deg, diam_base = 0.1250.
+i = 126 -- Inputs: h = 0.0557 m, theta = 139.14 deg, diam_base = 0.1190.
+i = 127 -- Inputs: h = 0.0107 m, theta = 99.14 deg, diam_base = 0.1130.
+i = 128 -- Inputs: h = 0.0996 m, theta = 59.14 deg, diam_base = 0.1070.
+i = 129 -- Inputs: h = 0.0546 m, theta = 125.80 deg, diam_base = 0.1010.
+i = 130 -- Inputs: h = 0.0771 m, theta = 85.80 deg, diam_base = 0.1238.
+i = 131 -- Inputs: h = 0.0321 m, theta = 45.80 deg, diam_base = 0.1178.
+i = 132 -- Inputs: h = 0.0884 m, theta = 112.47 deg, diam_base = 0.1118.
+i = 133 -- Inputs: h = 0.0434 m, theta = 72.47 deg, diam_base = 0.1058.
+i = 134 -- Inputs: h = 0.0659 m, theta = 32.47 deg, diam_base = 0.0998.
+i = 135 -- Inputs: h = 0.0209 m, theta = 146.54 deg, diam_base = 0.1226.
+i = 136 -- Inputs: h = 0.0940 m, theta = 106.54 deg, diam_base = 0.1166.
+i = 137 -- Inputs: h = 0.0490 m, theta = 66.54 deg, diam_base = 0.1106.
+i = 138 -- Inputs: h = 0.0715 m, theta = 133.21 deg, diam_base = 0.1046.
+i = 139 -- Inputs: h = 0.0265 m, theta = 93.21 deg, diam_base = 0.0986.
+i = 140 -- Inputs: h = 0.0828 m, theta = 53.21 deg, diam_base = 0.1214.
+i = 141 -- Inputs: h = 0.0378 m, theta = 119.88 deg, diam_base = 0.1154.
+i = 142 -- Inputs: h = 0.0603 m, theta = 79.88 deg, diam_base = 0.1094.
+i = 143 -- Inputs: h = 0.0153 m, theta = 39.88 deg, diam_base = 0.1034.
+i = 144 -- Inputs: h = 0.0968 m, theta = 142.10 deg, diam_base = 0.0974.
+i = 145 -- Inputs: h = 0.0518 m, theta = 102.10 deg, diam_base = 0.1202.
+i = 146 -- Inputs: h = 0.0743 m, theta = 62.10 deg, diam_base = 0.1142.
+i = 147 -- Inputs: h = 0.0293 m, theta = 128.77 deg, diam_base = 0.1082.
+i = 148 -- Inputs: h = 0.0856 m, theta = 88.77 deg, diam_base = 0.1022.
+i = 149 -- Inputs: h = 0.0406 m, theta = 48.77 deg, diam_base = 0.0962.
+i = 150 -- Inputs: h = 0.0631 m, theta = 115.43 deg, diam_base = 0.1247.
+i = 151 -- Inputs: h = 0.0181 m, theta = 75.43 deg, diam_base = 0.1187.
+i = 152 -- Inputs: h = 0.0912 m, theta = 35.43 deg, diam_base = 0.1127.
+i = 153 -- Inputs: h = 0.0462 m, theta = 137.65 deg, diam_base = 0.1067.
+i = 154 -- Inputs: h = 0.0687 m, theta = 97.65 deg, diam_base = 0.1007.
+i = 155 -- Inputs: h = 0.0237 m, theta = 57.65 deg, diam_base = 0.1235.
+i = 156 -- Inputs: h = 0.0800 m, theta = 124.32 deg, diam_base = 0.1175.
+i = 157 -- Inputs: h = 0.0350 m, theta = 84.32 deg, diam_base = 0.1115.
+i = 158 -- Inputs: h = 0.0575 m, theta = 44.32 deg, diam_base = 0.1055.
+i = 159 -- Inputs: h = 0.0125 m, theta = 110.99 deg, diam_base = 0.0995.
+i = 160 -- Inputs: h = 0.0982 m, theta = 70.99 deg, diam_base = 0.1223.
+i = 161 -- Inputs: h = 0.0532 m, theta = 30.99 deg, diam_base = 0.1163.
+i = 162 -- Inputs: h = 0.0757 m, theta = 149.01 deg, diam_base = 0.1103.
+i = 163 -- Inputs: h = 0.0307 m, theta = 109.01 deg, diam_base = 0.1043.
+i = 164 -- Inputs: h = 0.0870 m, theta = 69.01 deg, diam_base = 0.0983.
+i = 165 -- Inputs: h = 0.0420 m, theta = 135.68 deg, diam_base = 0.1211.
+i = 166 -- Inputs: h = 0.0645 m, theta = 95.68 deg, diam_base = 0.1151.
+i = 167 -- Inputs: h = 0.0195 m, theta = 55.68 deg, diam_base = 0.1091.
+i = 168 -- Inputs: h = 0.0926 m, theta = 122.35 deg, diam_base = 0.1031.
+i = 169 -- Inputs: h = 0.0476 m, theta = 82.35 deg, diam_base = 0.0971.
+i = 170 -- Inputs: h = 0.0701 m, theta = 42.35 deg, diam_base = 0.1199.
+i = 171 -- Inputs: h = 0.0251 m, theta = 144.57 deg, diam_base = 0.1139.
+i = 172 -- Inputs: h = 0.0814 m, theta = 104.57 deg, diam_base = 0.1079.
+i = 173 -- Inputs: h = 0.0364 m, theta = 64.57 deg, diam_base = 0.1019.
+i = 174 -- Inputs: h = 0.0589 m, theta = 131.23 deg, diam_base = 0.0959.
+i = 175 -- Inputs: h = 0.0139 m, theta = 91.23 deg, diam_base = 0.1245.
+i = 176 -- Inputs: h = 0.0954 m, theta = 51.23 deg, diam_base = 0.1185.
+i = 177 -- Inputs: h = 0.0504 m, theta = 117.90 deg, diam_base = 0.1125.
+i = 178 -- Inputs: h = 0.0729 m, theta = 77.90 deg, diam_base = 0.1065.
+i = 179 -- Inputs: h = 0.0279 m, theta = 37.90 deg, diam_base = 0.1005.
+i = 180 -- Inputs: h = 0.0842 m, theta = 140.12 deg, diam_base = 0.1233.
+i = 181 -- Inputs: h = 0.0392 m, theta = 100.12 deg, diam_base = 0.1173.
+i = 182 -- Inputs: h = 0.0617 m, theta = 60.12 deg, diam_base = 0.1113.
+i = 183 -- Inputs: h = 0.0167 m, theta = 126.79 deg, diam_base = 0.1053.
+i = 184 -- Inputs: h = 0.0898 m, theta = 86.79 deg, diam_base = 0.0993.
+i = 185 -- Inputs: h = 0.0448 m, theta = 46.79 deg, diam_base = 0.1221.
+i = 186 -- Inputs: h = 0.0673 m, theta = 113.46 deg, diam_base = 0.1161.
+i = 187 -- Inputs: h = 0.0223 m, theta = 73.46 deg, diam_base = 0.1101.
+i = 188 -- Inputs: h = 0.0786 m, theta = 33.46 deg, diam_base = 0.1041.
+i = 189 -- Inputs: h = 0.0336 m, theta = 147.53 deg, diam_base = 0.0981.
+i = 190 -- Inputs: h = 0.0561 m, theta = 107.53 deg, diam_base = 0.1209.
+i = 191 -- Inputs: h = 0.0111 m, theta = 67.53 deg, diam_base = 0.1149.
+i = 192 -- Inputs: h = 0.0989 m, theta = 134.20 deg, diam_base = 0.1089.
+i = 193 -- Inputs: h = 0.0539 m, theta = 94.20 deg, diam_base = 0.1029.
+i = 194 -- Inputs: h = 0.0764 m, theta = 54.20 deg, diam_base = 0.0969.
+i = 195 -- Inputs: h = 0.0314 m, theta = 120.86 deg, diam_base = 0.1197.
+i = 196 -- Inputs: h = 0.0877 m, theta = 80.86 deg, diam_base = 0.1137.
+i = 197 -- Inputs: h = 0.0427 m, theta = 40.86 deg, diam_base = 0.1077.
+i = 198 -- Inputs: h = 0.0652 m, theta = 143.09 deg, diam_base = 0.1017.
+i = 199 -- Inputs: h = 0.0202 m, theta = 103.09 deg, diam_base = 0.0957.
+i = 200 -- Inputs: h = 0.0933 m, theta = 63.09 deg, diam_base = 0.1242.
+i = 201 -- Inputs: h = 0.0483 m, theta = 129.75 deg, diam_base = 0.1182.
+i = 202 -- Inputs: h = 0.0708 m, theta = 89.75 deg, diam_base = 0.1122.
+i = 203 -- Inputs: h = 0.0258 m, theta = 49.75 deg, diam_base = 0.1062.
+i = 204 -- Inputs: h = 0.0821 m, theta = 116.42 deg, diam_base = 0.1002.
+i = 205 -- Inputs: h = 0.0371 m, theta = 76.42 deg, diam_base = 0.1230.
+i = 206 -- Inputs: h = 0.0596 m, theta = 36.42 deg, diam_base = 0.1170.
+i = 207 -- Inputs: h = 0.0146 m, theta = 138.64 deg, diam_base = 0.1110.
+i = 208 -- Inputs: h = 0.0961 m, theta = 98.64 deg, diam_base = 0.1050.
+i = 209 -- Inputs: h = 0.0511 m, theta = 58.64 deg, diam_base = 0.0990.
+i = 210 -- Inputs: h = 0.0736 m, theta = 125.31 deg, diam_base = 0.1218.
+i = 211 -- Inputs: h = 0.0286 m, theta = 85.31 deg, diam_base = 0.1158.
+i = 212 -- Inputs: h = 0.0849 m, theta = 45.31 deg, diam_base = 0.1098.
+i = 213 -- Inputs: h = 0.0399 m, theta = 111.98 deg, diam_base = 0.1038.
+i = 214 -- Inputs: h = 0.0624 m, theta = 71.98 deg, diam_base = 0.0978.
+i = 215 -- Inputs: h = 0.0174 m, theta = 31.98 deg, diam_base = 0.1206.
+i = 216 -- Inputs: h = 0.0905 m, theta = 146.05 deg, diam_base = 0.1146.
+i = 217 -- Inputs: h = 0.0455 m, theta = 106.05 deg, diam_base = 0.1086.
+i = 218 -- Inputs: h = 0.0680 m, theta = 66.05 deg, diam_base = 0.1026.
+i = 219 -- Inputs: h = 0.0230 m, theta = 132.72 deg, diam_base = 0.0966.
+i = 220 -- Inputs: h = 0.0793 m, theta = 92.72 deg, diam_base = 0.1194.
+i = 221 -- Inputs: h = 0.0343 m, theta = 52.72 deg, diam_base = 0.1134.
+i = 222 -- Inputs: h = 0.0568 m, theta = 119.38 deg, diam_base = 0.1074.
+i = 223 -- Inputs: h = 0.0118 m, theta = 79.38 deg, diam_base = 0.1014.
+i = 224 -- Inputs: h = 0.0975 m, theta = 39.38 deg, diam_base = 0.0954.
+i = 225 -- Inputs: h = 0.0525 m, theta = 141.60 deg, diam_base = 0.1240.
+i = 226 -- Inputs: h = 0.0750 m, theta = 101.60 deg, diam_base = 0.1180.
+i = 227 -- Inputs: h = 0.0300 m, theta = 61.60 deg, diam_base = 0.1120.
+i = 228 -- Inputs: h = 0.0863 m, theta = 128.27 deg, diam_base = 0.1060.
+i = 229 -- Inputs: h = 0.0413 m, theta = 88.27 deg, diam_base = 0.1000.
+i = 230 -- Inputs: h = 0.0638 m, theta = 48.27 deg, diam_base = 0.1228.
+i = 231 -- Inputs: h = 0.0188 m, theta = 114.94 deg, diam_base = 0.1168.
+i = 232 -- Inputs: h = 0.0919 m, theta = 74.94 deg, diam_base = 0.1108.
+i = 233 -- Inputs: h = 0.0469 m, theta = 34.94 deg, diam_base = 0.1048.
+i = 234 -- Inputs: h = 0.0694 m, theta = 137.16 deg, diam_base = 0.0988.
+i = 235 -- Inputs: h = 0.0244 m, theta = 97.16 deg, diam_base = 0.1216.
+i = 236 -- Inputs: h = 0.0807 m, theta = 57.16 deg, diam_base = 0.1156.
+i = 237 -- Inputs: h = 0.0357 m, theta = 123.83 deg, diam_base = 0.1096.
+i = 238 -- Inputs: h = 0.0582 m, theta = 83.83 deg, diam_base = 0.1036.
+i = 239 -- Inputs: h = 0.0132 m, theta = 43.83 deg, diam_base = 0.0976.
+i = 240 -- Inputs: h = 0.0947 m, theta = 110.49 deg, diam_base = 0.1204.
+i = 241 -- Inputs: h = 0.0497 m, theta = 70.49 deg, diam_base = 0.1144.
+i = 242 -- Inputs: h = 0.0722 m, theta = 30.49 deg, diam_base = 0.1084.
+i = 243 -- Inputs: h = 0.0272 m, theta = 149.84 deg, diam_base = 0.1024.
+i = 244 -- Inputs: h = 0.0835 m, theta = 109.84 deg, diam_base = 0.0964.
+i = 245 -- Inputs: h = 0.0385 m, theta = 69.84 deg, diam_base = 0.1192.
+i = 246 -- Inputs: h = 0.0610 m, theta = 136.50 deg, diam_base = 0.1132.
+i = 247 -- Inputs: h = 0.0160 m, theta = 96.50 deg, diam_base = 0.1072.
+i = 248 -- Inputs: h = 0.0891 m, theta = 56.50 deg, diam_base = 0.1012.
+i = 249 -- Inputs: h = 0.0441 m, theta = 123.17 deg, diam_base = 0.0952.
+i = 250 -- Inputs: h = 0.0666 m, theta = 83.17 deg, diam_base = 0.1249.
+i = 251 -- Inputs: h = 0.0216 m, theta = 43.17 deg, diam_base = 0.1189.
+i = 252 -- Inputs: h = 0.0779 m, theta = 145.39 deg, diam_base = 0.1129.
+i = 253 -- Inputs: h = 0.0329 m, theta = 105.39 deg, diam_base = 0.1069.
+i = 254 -- Inputs: h = 0.0554 m, theta = 65.39 deg, diam_base = 0.1009.
+i = 255 -- Inputs: h = 0.0104 m, theta = 132.06 deg, diam_base = 0.1237.
+i = 256 -- Inputs: h = 0.0998 m, theta = 92.06 deg, diam_base = 0.1177.
+i = 257 -- Inputs: h = 0.0548 m, theta = 52.06 deg, diam_base = 0.1117.
+i = 258 -- Inputs: h = 0.0773 m, theta = 118.72 deg, diam_base = 0.1057.
+i = 259 -- Inputs: h = 0.0323 m, theta = 78.72 deg, diam_base = 0.0997.
+i = 260 -- Inputs: h = 0.0886 m, theta = 38.72 deg, diam_base = 0.1225.
+i = 261 -- Inputs: h = 0.0436 m, theta = 140.95 deg, diam_base = 0.1165.
+i = 262 -- Inputs: h = 0.0661 m, theta = 100.95 deg, diam_base = 0.1105.
+i = 263 -- Inputs: h = 0.0211 m, theta = 60.95 deg, diam_base = 0.1045.
+i = 264 -- Inputs: h = 0.0942 m, theta = 127.61 deg, diam_base = 0.0985.
+i = 265 -- Inputs: h = 0.0492 m, theta = 87.61 deg, diam_base = 0.1213.
+i = 266 -- Inputs: h = 0.0717 m, theta = 47.61 deg, diam_base = 0.1153.
+i = 267 -- Inputs: h = 0.0267 m, theta = 114.28 deg, diam_base = 0.1093.
+i = 268 -- Inputs: h = 0.0829 m, theta = 74.28 deg, diam_base = 0.1033.
+i = 269 -- Inputs: h = 0.0379 m, theta = 34.28 deg, diam_base = 0.0973.
+i = 270 -- Inputs: h = 0.0604 m, theta = 148.35 deg, diam_base = 0.1201.
+i = 271 -- Inputs: h = 0.0154 m, theta = 108.35 deg, diam_base = 0.1141.
+i = 272 -- Inputs: h = 0.0970 m, theta = 68.35 deg, diam_base = 0.1081.
+i = 273 -- Inputs: h = 0.0520 m, theta = 135.02 deg, diam_base = 0.1021.
+i = 274 -- Inputs: h = 0.0745 m, theta = 95.02 deg, diam_base = 0.0961.
+i = 275 -- Inputs: h = 0.0295 m, theta = 55.02 deg, diam_base = 0.1247.
+i = 276 -- Inputs: h = 0.0858 m, theta = 121.69 deg, diam_base = 0.1187.
+i = 277 -- Inputs: h = 0.0408 m, theta = 81.69 deg, diam_base = 0.1127.
+i = 278 -- Inputs: h = 0.0633 m, theta = 41.69 deg, diam_base = 0.1067.
+i = 279 -- Inputs: h = 0.0183 m, theta = 143.91 deg, diam_base = 0.1007.
+i = 280 -- Inputs: h = 0.0914 m, theta = 103.91 deg, diam_base = 0.1235.
+i = 281 -- Inputs: h = 0.0464 m, theta = 63.91 deg, diam_base = 0.1175.
+i = 282 -- Inputs: h = 0.0689 m, theta = 130.58 deg, diam_base = 0.1115.
+i = 283 -- Inputs: h = 0.0239 m, theta = 90.58 deg, diam_base = 0.1055.
+i = 284 -- Inputs: h = 0.0801 m, theta = 50.58 deg, diam_base = 0.0995.
+i = 285 -- Inputs: h = 0.0351 m, theta = 117.24 deg, diam_base = 0.1223.
+i = 286 -- Inputs: h = 0.0576 m, theta = 77.24 deg, diam_base = 0.1163.
+i = 287 -- Inputs: h = 0.0126 m, theta = 37.24 deg, diam_base = 0.1103.
+i = 288 -- Inputs: h = 0.0984 m, theta = 139.47 deg, diam_base = 0.1043.
+i = 289 -- Inputs: h = 0.0534 m, theta = 99.47 deg, diam_base = 0.0983.
+i = 290 -- Inputs: h = 0.0759 m, theta = 59.47 deg, diam_base = 0.1211.
+i = 291 -- Inputs: h = 0.0309 m, theta = 126.13 deg, diam_base = 0.1151.
+i = 292 -- Inputs: h = 0.0872 m, theta = 86.13 deg, diam_base = 0.1091.
+i = 293 -- Inputs: h = 0.0422 m, theta = 46.13 deg, diam_base = 0.1031.
+i = 294 -- Inputs: h = 0.0647 m, theta = 112.80 deg, diam_base = 0.0971.
+i = 295 -- Inputs: h = 0.0197 m, theta = 72.80 deg, diam_base = 0.1199.
+i = 296 -- Inputs: h = 0.0928 m, theta = 32.80 deg, diam_base = 0.1139.
+i = 297 -- Inputs: h = 0.0478 m, theta = 146.87 deg, diam_base = 0.1079.
+i = 298 -- Inputs: h = 0.0703 m, theta = 106.87 deg, diam_base = 0.1019.
+i = 299 -- Inputs: h = 0.0253 m, theta = 66.87 deg, diam_base = 0.0959.
+i = 300 -- Inputs: h = 0.0815 m, theta = 133.54 deg, diam_base = 0.1244.
+i = 301 -- Inputs: h = 0.0365 m, theta = 93.54 deg, diam_base = 0.1184.
+i = 302 -- Inputs: h = 0.0590 m, theta = 53.54 deg, diam_base = 0.1124.
+i = 303 -- Inputs: h = 0.0140 m, theta = 120.21 deg, diam_base = 0.1064.
+i = 304 -- Inputs: h = 0.0956 m, theta = 80.21 deg, diam_base = 0.1004.
+i = 305 -- Inputs: h = 0.0506 m, theta = 40.21 deg, diam_base = 0.1232.
+i = 306 -- Inputs: h = 0.0731 m, theta = 142.43 deg, diam_base = 0.1172.
+i = 307 -- Inputs: h = 0.0281 m, theta = 102.43 deg, diam_base = 0.1112.
+i = 308 -- Inputs: h = 0.0844 m, theta = 62.43 deg, diam_base = 0.1052.
+i = 309 -- Inputs: h = 0.0394 m, theta = 129.09 deg, diam_base = 0.0992.
+i = 310 -- Inputs: h = 0.0619 m, theta = 89.09 deg, diam_base = 0.1220.
+i = 311 -- Inputs: h = 0.0169 m, theta = 49.09 deg, diam_base = 0.1160.
+i = 312 -- Inputs: h = 0.0900 m, theta = 115.76 deg, diam_base = 0.1100.
+i = 313 -- Inputs: h = 0.0450 m, theta = 75.76 deg, diam_base = 0.1040.
+i = 314 -- Inputs: h = 0.0675 m, theta = 35.76 deg, diam_base = 0.0980.
+i = 315 -- Inputs: h = 0.0225 m, theta = 137.98 deg, diam_base = 0.1208.
+i = 316 -- Inputs: h = 0.0787 m, theta = 97.98 deg, diam_base = 0.1148.
+i = 317 -- Inputs: h = 0.0337 m, theta = 57.98 deg, diam_base = 0.1088.
+i = 318 -- Inputs: h = 0.0562 m, theta = 124.65 deg, diam_base = 0.1028.
+i = 319 -- Inputs: h = 0.0112 m, theta = 84.65 deg, diam_base = 0.0968.
+i = 320 -- Inputs: h = 0.0991 m, theta = 44.65 deg, diam_base = 0.1196.
+i = 321 -- Inputs: h = 0.0541 m, theta = 111.32 deg, diam_base = 0.1136.
+i = 322 -- Inputs: h = 0.0766 m, theta = 71.32 deg, diam_base = 0.1076.
+i = 323 -- Inputs: h = 0.0316 m, theta = 31.32 deg, diam_base = 0.1016.
+i = 324 -- Inputs: h = 0.0879 m, theta = 149.34 deg, diam_base = 0.0956.
+i = 325 -- Inputs: h = 0.0429 m, theta = 109.34 deg, diam_base = 0.1242.
+i = 326 -- Inputs: h = 0.0654 m, theta = 69.34 deg, diam_base = 0.1182.
+i = 327 -- Inputs: h = 0.0204 m, theta = 136.01 deg, diam_base = 0.1122.
+i = 328 -- Inputs: h = 0.0935 m, theta = 96.01 deg, diam_base = 0.1062.
+i = 329 -- Inputs: h = 0.0485 m, theta = 56.01 deg, diam_base = 0.1002.
+i = 330 -- Inputs: h = 0.0710 m, theta = 122.67 deg, diam_base = 0.1230.
+i = 331 -- Inputs: h = 0.0260 m, theta = 82.67 deg, diam_base = 0.1170.
+i = 332 -- Inputs: h = 0.0822 m, theta = 42.67 deg, diam_base = 0.1110.
+i = 333 -- Inputs: h = 0.0372 m, theta = 144.90 deg, diam_base = 0.1050.
+i = 334 -- Inputs: h = 0.0597 m, theta = 104.90 deg, diam_base = 0.0990.
+i = 335 -- Inputs: h = 0.0147 m, theta = 64.90 deg, diam_base = 0.1218.
+i = 336 -- Inputs: h = 0.0963 m, theta = 131.56 deg, diam_base = 0.1158.
+i = 337 -- Inputs: h = 0.0513 m, theta = 91.56 deg, diam_base = 0.1098.
+i = 338 -- Inputs: h = 0.0738 m, theta = 51.56 deg, diam_base = 0.1038.
+i = 339 -- Inputs: h = 0.0288 m, theta = 118.23 deg, diam_base = 0.0978.
+i = 340 -- Inputs: h = 0.0851 m, theta = 78.23 deg, diam_base = 0.1206.
+i = 341 -- Inputs: h = 0.0401 m, theta = 38.23 deg, diam_base = 0.1146.
+i = 342 -- Inputs: h = 0.0626 m, theta = 140.45 deg, diam_base = 0.1086.
+i = 343 -- Inputs: h = 0.0176 m, theta = 100.45 deg, diam_base = 0.1026.
+i = 344 -- Inputs: h = 0.0907 m, theta = 60.45 deg, diam_base = 0.0966.
+i = 345 -- Inputs: h = 0.0457 m, theta = 127.12 deg, diam_base = 0.1194.
+i = 346 -- Inputs: h = 0.0682 m, theta = 87.12 deg, diam_base = 0.1134.
+i = 347 -- Inputs: h = 0.0232 m, theta = 47.12 deg, diam_base = 0.1074.
+i = 348 -- Inputs: h = 0.0794 m, theta = 113.79 deg, diam_base = 0.1014.
+i = 349 -- Inputs: h = 0.0344 m, theta = 73.79 deg, diam_base = 0.0954.
+i = 350 -- Inputs: h = 0.0569 m, theta = 33.79 deg, diam_base = 0.1239.
+i = 351 -- Inputs: h = 0.0119 m, theta = 147.86 deg, diam_base = 0.1179.
+i = 352 -- Inputs: h = 0.0977 m, theta = 107.86 deg, diam_base = 0.1119.
+i = 353 -- Inputs: h = 0.0527 m, theta = 67.86 deg, diam_base = 0.1059.
+i = 354 -- Inputs: h = 0.0752 m, theta = 134.53 deg, diam_base = 0.0999.
+i = 355 -- Inputs: h = 0.0302 m, theta = 94.53 deg, diam_base = 0.1227.
+i = 356 -- Inputs: h = 0.0865 m, theta = 54.53 deg, diam_base = 0.1167.
+i = 357 -- Inputs: h = 0.0415 m, theta = 121.19 deg, diam_base = 0.1107.
+i = 358 -- Inputs: h = 0.0640 m, theta = 81.19 deg, diam_base = 0.1047.
+i = 359 -- Inputs: h = 0.0190 m, theta = 41.19 deg, diam_base = 0.0987.
+i = 360 -- Inputs: h = 0.0921 m, theta = 143.42 deg, diam_base = 0.1215.
+i = 361 -- Inputs: h = 0.0471 m, theta = 103.42 deg, diam_base = 0.1155.
+i = 362 -- Inputs: h = 0.0696 m, theta = 63.42 deg, diam_base = 0.1095.
+i = 363 -- Inputs: h = 0.0246 m, theta = 130.08 deg, diam_base = 0.1035.
+i = 364 -- Inputs: h = 0.0808 m, theta = 90.08 deg, diam_base = 0.0975.
+i = 365 -- Inputs: h = 0.0358 m, theta = 50.08 deg, diam_base = 0.1203.
+i = 366 -- Inputs: h = 0.0583 m, theta = 116.75 deg, diam_base = 0.1143.
+i = 367 -- Inputs: h = 0.0133 m, theta = 76.75 deg, diam_base = 0.1083.
+i = 368 -- Inputs: h = 0.0949 m, theta = 36.75 deg, diam_base = 0.1023.
+i = 369 -- Inputs: h = 0.0499 m, theta = 138.97 deg, diam_base = 0.0963.
+i = 370 -- Inputs: h = 0.0724 m, theta = 98.97 deg, diam_base = 0.1191.
+i = 371 -- Inputs: h = 0.0274 m, theta = 58.97 deg, diam_base = 0.1131.
+i = 372 -- Inputs: h = 0.0837 m, theta = 125.64 deg, diam_base = 0.1071.
+i = 373 -- Inputs: h = 0.0387 m, theta = 85.64 deg, diam_base = 0.1011.
+i = 374 -- Inputs: h = 0.0612 m, theta = 45.64 deg, diam_base = 0.0951.
+i = 375 -- Inputs: h = 0.0162 m, theta = 112.30 deg, diam_base = 0.1249.
+i = 376 -- Inputs: h = 0.0893 m, theta = 72.30 deg, diam_base = 0.1189.
+i = 377 -- Inputs: h = 0.0443 m, theta = 32.30 deg, diam_base = 0.1129.
+i = 378 -- Inputs: h = 0.0668 m, theta = 146.38 deg, diam_base = 0.1069.
+i = 379 -- Inputs: h = 0.0218 m, theta = 106.38 deg, diam_base = 0.1009.
+i = 380 -- Inputs: h = 0.0780 m, theta = 66.38 deg, diam_base = 0.1237.
+i = 381 -- Inputs: h = 0.0330 m, theta = 133.05 deg, diam_base = 0.1177.
+i = 382 -- Inputs: h = 0.0555 m, theta = 93.05 deg, diam_base = 0.1117.
+i = 383 -- Inputs: h = 0.0105 m, theta = 53.05 deg, diam_base = 0.1057.
+i = 384 -- Inputs: h = 0.0995 m, theta = 119.71 deg, diam_base = 0.0997.
+i = 385 -- Inputs: h = 0.0545 m, theta = 79.71 deg, diam_base = 0.1225.
+i = 386 -- Inputs: h = 0.0770 m, theta = 39.71 deg, diam_base = 0.1165.
+i = 387 -- Inputs: h = 0.0320 m, theta = 141.93 deg, diam_base = 0.1105.
+i = 388 -- Inputs: h = 0.0882 m, theta = 101.93 deg, diam_base = 0.1045.
+i = 389 -- Inputs: h = 0.0432 m, theta = 61.93 deg, diam_base = 0.0985.
+i = 390 -- Inputs: h = 0.0657 m, theta = 128.60 deg, diam_base = 0.1213.
+i = 391 -- Inputs: h = 0.0207 m, theta = 88.60 deg, diam_base = 0.1153.
+i = 392 -- Inputs: h = 0.0938 m, theta = 48.60 deg, diam_base = 0.1093.
+i = 393 -- Inputs: h = 0.0488 m, theta = 115.27 deg, diam_base = 0.1033.
+i = 394 -- Inputs: h = 0.0713 m, theta = 75.27 deg, diam_base = 0.0973.
+i = 395 -- Inputs: h = 0.0263 m, theta = 35.27 deg, diam_base = 0.1201.
+i = 396 -- Inputs: h = 0.0826 m, theta = 137.49 deg, diam_base = 0.1141.
+i = 397 -- Inputs: h = 0.0376 m, theta = 97.49 deg, diam_base = 0.1081.
+i = 398 -- Inputs: h = 0.0601 m, theta = 57.49 deg, diam_base = 0.1021.
+i = 399 -- Inputs: h = 0.0151 m, theta = 124.16 deg, diam_base = 0.0961.
+i = 400 -- Inputs: h = 0.0967 m, theta = 84.16 deg, diam_base = 0.1246.
+>> 
